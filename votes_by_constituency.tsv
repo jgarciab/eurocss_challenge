@@ -1,0 +1,2094 @@
+col	state_i	state	constituency	constituency_i	num2	diff2	vote_const	perc
+AfD	1	Schleswig-Holstein	001: Flensburg â Schleswig	1	11653.0	2.8	167225.0	0.06968455673493795
+AfD	1	Schleswig-Holstein	002: Nordfriesland â Dithmarschen Nord	2	9030.0	2.7	136092.0	0.0663521735296711
+AfD	1	Schleswig-Holstein	003: Steinburg â Dithmarschen SÃ¼d	3	11180.0	4.1	128827.0	0.08678305013700544
+AfD	1	Schleswig-Holstein	004: Rendsburg-EckernfÃ¶rde	4	11578.0	3.0	153692.0	0.07533248314811442
+AfD	1	Schleswig-Holstein	005: Kiel	5	10504.0	3.2	147878.0	0.07103152598763846
+AfD	1	Schleswig-Holstein	006: PlÃ¶n â NeumÃ¼nster	6	11161.0	3.9	128575.0	0.08680536651759674
+AfD	1	Schleswig-Holstein	007: Pinneberg	7	15977.0	3.8	183203.0	0.0872092705905471
+AfD	1	Schleswig-Holstein	008: Segeberg â Stormarn-Mitte	8	17166.0	4.0	188914.0	0.09086674359761585
+AfD	1	Schleswig-Holstein	009: Ostholstein â Stormarn-Nord	9	11782.0	3.6	135600.0	0.08688790560471976
+AfD	1	Schleswig-Holstein	010: Herzogtum Lauenburg â Stormarn-SÃ¼d	10	18792.0	4.2	188914.0	0.09947383465492235
+AfD	1	Schleswig-Holstein	011: LÃ¼beck	11	11539.0	4.6	127203.0	0.09071326934113189
+AfD	2	Hamburg	018: Hamburg-Mitte	18	13940.0	3.7	169759.0	0.08211641209008064
+AfD	2	Hamburg	019: Hamburg-Altona	19	8028.0	2.3	142253.0	0.05643466218638623
+AfD	2	Hamburg	020: Hamburg-EimsbÃ¼ttel	20	9138.0	2.2	152170.0	0.06005125846093185
+AfD	2	Hamburg	021: Hamburg-Nord	21	10963.0	2.0	174987.0	0.06265036831307469
+AfD	2	Hamburg	022: Hamburg-Wandsbek	22	16732.0	4.9	167826.0	0.09969849725310738
+AfD	2	Hamburg	023: Hamburg-Bergedorf â Harburg	23	17710.0	6.8	150858.0	0.1173951663153429
+AfD	3	Niedersachsen	024: Aurich â Emden	24	12877.0	6.0	139388.0	0.09238241455505496
+AfD	3	Niedersachsen	025: Unterems	25	14620.0	5.4	172873.0	0.08457075425312223
+AfD	3	Niedersachsen	026: Friesland â Wilhelmshaven â Wittmund	26	12490.0	4.9	135637.0	0.09208401837256795
+AfD	3	Niedersachsen	027: Oldenburg â Ammerland	27	12625.0	3.0	171103.0	0.07378596517886887
+AfD	3	Niedersachsen	028: Delmenhorst â Wesermarsch â Oldenburg-Land	28	16392.0	5.8	166400.0	0.09850961538461539
+AfD	3	Niedersachsen	029: Cuxhaven â Stade II	29	12650.0	5.5	139126.0	0.09092477322714662
+AfD	3	Niedersachsen	030: Stade I â Rotenburg II	30	13513.0	4.3	150058.0	0.09005184661930721
+AfD	3	Niedersachsen	031: Mittelems	31	9701.0	2.9	177060.0	0.05478933694792726
+AfD	3	Niedersachsen	032: Cloppenburg â Vechta	32	13145.0	5.7	161009.0	0.08164139892801024
+AfD	3	Niedersachsen	033: Diepholz â Nienburg I	33	12434.0	5.0	145121.0	0.08568022546702407
+AfD	3	Niedersachsen	034: Osterholz â Verden	34	14675.0	5.8	149353.0	0.09825714917008697
+AfD	3	Niedersachsen	035: Rotenburg I â Heidekreis	35	11671.0	5.5	124421.0	0.09380249314826275
+AfD	3	Niedersachsen	036: Harburg	36	16047.0	4.0	158445.0	0.10127804600965634
+AfD	3	Niedersachsen	037: LÃ¼chow-Dannenberg â LÃ¼neburg	37	12498.0	4.5	136769.0	0.09138035665976939
+AfD	3	Niedersachsen	038: OsnabrÃ¼ck-Land	38	10940.0	4.5	148481.0	0.07367946067173578
+AfD	3	Niedersachsen	039: Stadt OsnabrÃ¼ck	39	9499.0	3.6	148451.0	0.06398744366828112
+AfD	3	Niedersachsen	040: Nienburg II â Schaumburg	40	14945.0	6.3	143631.0	0.10405135381637669
+AfD	3	Niedersachsen	041: Stadt Hannover I	41	12226.0	5.5	130413.0	0.09374832263654698
+AfD	3	Niedersachsen	042: Stadt Hannover II	42	11241.0	4.2	143023.0	0.07859575033386239
+AfD	3	Niedersachsen	043: Hannover-Land I	43	18366.0	6.2	177535.0	0.10345002393894162
+AfD	3	Niedersachsen	044: Celle â Uelzen	44	17554.0	5.9	158707.0	0.11060633746463609
+AfD	3	Niedersachsen	045: Gifhorn â Peine	45	18289.0	7.3	164960.0	0.11086930164888457
+AfD	3	Niedersachsen	046: Hameln-Pyrmont â Holzminden	46	14054.0	6.1	137003.0	0.10258169529134399
+AfD	3	Niedersachsen	047: Hannover-Land II	47	19392.0	6.5	183945.0	0.10542281660278888
+AfD	3	Niedersachsen	048: Hildesheim	48	15695.0	5.9	165520.0	0.09482237796036733
+AfD	3	Niedersachsen	049: Salzgitter â WolfenbÃ¼ttel	49	19115.0	8.3	152997.0	0.12493709026974385
+AfD	3	Niedersachsen	050: Braunschweig	50	12268.0	4.8	142328.0	0.08619526726996796
+AfD	3	Niedersachsen	051: Helmstedt â Wolfsburg	51	14862.0	7.2	133800.0	0.1110762331838565
+AfD	3	Niedersachsen	052: Goslar â Northeim â Osterode	52	15132.0	6.2	147545.0	0.10255854146192687
+AfD	3	Niedersachsen	053: GÃ¶ttingen	53	13446.0	4.2	166120.0	0.08094148808090537
+AfD	4	Bremen	054: Bremen I	54	15539.0	4.9	183863.0	0.08451401315109619
+AfD	4	Bremen	055: Bremen II â Bremerhaven	55	17705.0	8.0	143951.0	0.12299324075553487
+AfD	5	Nordrhein-Westfalen	087: Aachen I	87	8271.0	2.8	137514.0	0.06014660325494132
+AfD	5	Nordrhein-Westfalen	088: Aachen II	88	14853.0	5.4	168868.0	0.08795627353909563
+AfD	5	Nordrhein-Westfalen	089: Heinsberg	89	12313.0	5.2	138622.0	0.08882428474556708
+AfD	5	Nordrhein-Westfalen	090: DÃ¼ren	90	14432.0	5.6	147719.0	0.0976990096060764
+AfD	5	Nordrhein-Westfalen	091: Rhein-Erft-Kreis I	91	18091.0	5.8	186745.0	0.09687541835122761
+AfD	5	Nordrhein-Westfalen	092: Euskirchen â Rhein-Erft-Kreis II	92	18325.0	5.7	183028.0	0.10012129291693074
+AfD	5	Nordrhein-Westfalen	093: KÃ¶ln I	93	12290.0	4.8	135304.0	0.0908324957133566
+AfD	5	Nordrhein-Westfalen	094: KÃ¶ln II	94	9964.0	1.8	193964.0	0.051370357385906666
+AfD	5	Nordrhein-Westfalen	095: KÃ¶ln III	95	11731.0	4.6	145768.0	0.08047719664123813
+AfD	5	Nordrhein-Westfalen	096: Bonn	96	13136.0	3.1	176667.0	0.07435457668947794
+AfD	5	Nordrhein-Westfalen	097: Rhein-Sieg-Kreis I	97	18237.0	5.6	179691.0	0.10149089269913351
+AfD	5	Nordrhein-Westfalen	098: Rhein-Sieg-Kreis II	98	15226.0	4.3	170851.0	0.0891185887118015
+AfD	5	Nordrhein-Westfalen	099: Oberbergischer Kreis	99	16413.0	5.6	152264.0	0.10779304366100982
+AfD	5	Nordrhein-Westfalen	100: Rheinisch-Bergischer Kreis	100	13777.0	3.2	169962.0	0.08105929560725339
+AfD	5	Nordrhein-Westfalen	101: Leverkusen â KÃ¶ln IV	101	14970.0	5.8	150474.0	0.09948562542366123
+AfD	5	Nordrhein-Westfalen	102: Wuppertal I	102	16431.0	6.9	145322.0	0.11306615653514265
+AfD	5	Nordrhein-Westfalen	103: Solingen â Remscheid â Wuppertal II	103	16221.0	5.7	158842.0	0.10212034600420544
+AfD	5	Nordrhein-Westfalen	104: Mettmann I	104	15053.0	4.4	156340.0	0.0962837405654343
+AfD	5	Nordrhein-Westfalen	105: Mettmann II	105	11926.0	4.9	122087.0	0.09768443814656762
+AfD	5	Nordrhein-Westfalen	106: DÃ¼sseldorf I	106	12029.0	2.8	169246.0	0.07107405788024532
+AfD	5	Nordrhein-Westfalen	107: DÃ¼sseldorf II	107	12968.0	4.9	139776.0	0.09277701465201466
+AfD	5	Nordrhein-Westfalen	108: Neuss I	108	14887.0	5.3	155602.0	0.09567357746044396
+AfD	5	Nordrhein-Westfalen	109: MÃ¶nchengladbach	109	12373.0	5.3	128266.0	0.09646359908315531
+AfD	5	Nordrhein-Westfalen	110: Krefeld I â Neuss II	110	12104.0	4.0	151600.0	0.07984168865435357
+AfD	5	Nordrhein-Westfalen	111: Viersen	111	12841.0	3.4	169259.0	0.07586598053870104
+AfD	5	Nordrhein-Westfalen	112: Kleve	112	11621.0	3.0	165611.0	0.07017045969168714
+AfD	5	Nordrhein-Westfalen	113: Wesel I	113	14325.0	5.3	156622.0	0.09146224668309688
+AfD	5	Nordrhein-Westfalen	114: Krefeld II â Wesel II	114	12186.0	5.3	130116.0	0.09365489255741032
+AfD	5	Nordrhein-Westfalen	115: Duisburg I	115	13549.0	6.2	116168.0	0.1166328076578748
+AfD	5	Nordrhein-Westfalen	116: Duisburg II	116	15794.0	10.4	97605.0	0.1618154807643051
+AfD	5	Nordrhein-Westfalen	117: Oberhausen â Wesel III	117	18560.0	8.3	145719.0	0.12736842827634007
+AfD	5	Nordrhein-Westfalen	118: MÃ¼lheim â Essen I	118	16200.0	6.8	138935.0	0.11660128837226041
+AfD	5	Nordrhein-Westfalen	119: Essen II	119	16339.0	10.7	106358.0	0.1536226706030576
+AfD	5	Nordrhein-Westfalen	120: Essen III	120	12735.0	4.5	149581.0	0.08513781830580087
+AfD	5	Nordrhein-Westfalen	121: Recklinghausen I	121	14777.0	7.5	120260.0	0.12287543655413272
+AfD	5	Nordrhein-Westfalen	122: Recklinghausen II	122	17387.0	8.4	136511.0	0.12736702536791908
+AfD	5	Nordrhein-Westfalen	123: Gelsenkirchen	123	20113.0	12.3	114202.0	0.17611775625645787
+AfD	5	Nordrhein-Westfalen	124: Steinfurt I â Borken I	124	9719.0	3.5	151846.0	0.06400563729041266
+AfD	5	Nordrhein-Westfalen	125: Bottrop â Recklinghausen III	125	18710.0	8.3	147046.0	0.12723909524910573
+AfD	5	Nordrhein-Westfalen	126: Borken II	126	9405.0	3.3	155566.0	0.06045665505316072
+AfD	5	Nordrhein-Westfalen	127: Coesfeld â Steinfurt II	127	9496.0	3.3	154239.0	0.06156678920376818
+AfD	5	Nordrhein-Westfalen	128: Steinfurt III	128	10342.0	4.0	149700.0	0.06908483633934535
+AfD	5	Nordrhein-Westfalen	129: MÃ¼nster	129	9393.0	2.0	187920.0	0.04998403575989783
+AfD	5	Nordrhein-Westfalen	130: Warendorf	130	12025.0	4.5	160036.0	0.07513934364767927
+AfD	5	Nordrhein-Westfalen	131: GÃ¼tersloh I	131	15081.0	5.5	172709.0	0.08732029019912106
+AfD	5	Nordrhein-Westfalen	132: Bielefeld â GÃ¼tersloh II	132	16514.0	5.5	181140.0	0.09116705310809319
+AfD	5	Nordrhein-Westfalen	133: Herford â Minden-LÃ¼bbecke II	133	18098.0	7.2	164612.0	0.10994338201346196
+AfD	5	Nordrhein-Westfalen	134: Minden-LÃ¼bbecke I	134	15829.0	7.0	147656.0	0.1072018746275126
+AfD	5	Nordrhein-Westfalen	135: Lippe I	135	14147.0	7.3	125826.0	0.11243304245545435
+AfD	5	Nordrhein-Westfalen	136: HÃ¶xter â Lippe II	136	15197.0	6.0	156266.0	0.09725084151382898
+AfD	5	Nordrhein-Westfalen	137: Paderborn â GÃ¼tersloh III	137	18484.0	6.3	183356.0	0.10080935447980977
+AfD	5	Nordrhein-Westfalen	138: Hagen â Ennepe-Ruhr-Kreis I	138	17622.0	7.5	145557.0	0.12106597415445496
+AfD	5	Nordrhein-Westfalen	139: Ennepe-Ruhr-Kreis II	139	13190.0	5.8	133832.0	0.0985563990674876
+AfD	5	Nordrhein-Westfalen	140: Bochum I	140	15190.0	5.9	152175.0	0.09981928700509282
+AfD	5	Nordrhein-Westfalen	141: Herne â Bochum II	141	17001.0	9.5	123123.0	0.13808143076435758
+AfD	5	Nordrhein-Westfalen	142: Dortmund I	142	15197.0	5.7	151574.0	0.10026125852718804
+AfD	5	Nordrhein-Westfalen	143: Dortmund II	143	15510.0	6.8	139104.0	0.11149930986887509
+AfD	5	Nordrhein-Westfalen	144: Unna I	144	14689.0	6.1	146716.0	0.10011859647209576
+AfD	5	Nordrhein-Westfalen	145: Hamm â Unna II	145	19068.0	7.9	166139.0	0.11477136614521576
+AfD	5	Nordrhein-Westfalen	146: Soest	146	16165.0	5.9	170707.0	0.09469441792076481
+AfD	5	Nordrhein-Westfalen	147: Hochsauerlandkreis	147	12216.0	4.6	150962.0	0.08092102648348591
+AfD	5	Nordrhein-Westfalen	148: Siegen-Wittgenstein	148	17154.0	5.7	158559.0	0.10818685788886157
+AfD	5	Nordrhein-Westfalen	149: Olpe â MÃ¤rkischer Kreis I	149	13847.0	5.0	149098.0	0.0928718024386645
+AfD	5	Nordrhein-Westfalen	150: MÃ¤rkischer Kreis II	150	16688.0	6.6	141456.0	0.11797307996832937
+AfD	6	Hessen	167: Waldeck	167	16411.0	6.6	138727.0	0.11829708708470593
+AfD	6	Hessen	168: Kassel	168	17288.0	5.4	162467.0	0.10640930158124419
+AfD	6	Hessen	169: Werra-MeiÃner â Hersfeld-Rotenburg	169	17173.0	7.5	129309.0	0.13280591451484428
+AfD	6	Hessen	170: Schwalm-Eder	170	18504.0	7.5	141090.0	0.13115032957686584
+AfD	6	Hessen	171: Marburg	171	16125.0	6.9	138611.0	0.11633275858337361
+AfD	6	Hessen	172: Lahn-Dill	172	20931.0	7.9	150144.0	0.13940617007672634
+AfD	6	Hessen	173: GieÃen	173	20358.0	7.5	161445.0	0.12609867137415218
+AfD	6	Hessen	174: Fulda	174	25145.0	10.0	156200.0	0.16097951344430217
+AfD	6	Hessen	175: Main-Kinzig â Wetterau II â Schotten	175	20927.0	9.0	133448.0	0.1568176368323242
+AfD	6	Hessen	176: Hochtaunus	176	16132.0	4.3	141954.0	0.11364244755343281
+AfD	6	Hessen	177: Wetterau I	177	15895.0	5.6	134615.0	0.11807748022137206
+AfD	6	Hessen	178: Rheingau-Taunus â Limburg	178	20399.0	6.0	168651.0	0.12095392259755353
+AfD	6	Hessen	179: Wiesbaden	179	15496.0	6.2	135843.0	0.11407286352627666
+AfD	6	Hessen	180: Hanau	180	18626.0	8.2	128993.0	0.1443954323102804
+AfD	6	Hessen	181: Main-Taunus	181	16395.0	3.4	156333.0	0.10487229183857535
+AfD	6	Hessen	182: Frankfurt am Main I	182	13342.0	4.0	140601.0	0.09489263945491141
+AfD	6	Hessen	183: Frankfurt am Main II	183	13737.0	3.2	167761.0	0.08188434737513486
+AfD	6	Hessen	184: GroÃ-Gerau	184	15943.0	6.5	128583.0	0.12398995201542973
+AfD	6	Hessen	185: Offenbach	185	19050.0	6.0	158341.0	0.12030996393858824
+AfD	6	Hessen	186: Darmstadt	186	18654.0	4.6	186727.0	0.09989985379725481
+AfD	6	Hessen	187: Odenwald	187	22258.0	6.5	178579.0	0.12463951528455193
+AfD	6	Hessen	188: BergstraÃe	188	19923.0	7.3	151260.0	0.13171360571201904
+AfD	7	Rheinland-Pfalz	197: Neuwied	197	19273.0	5.6	176872.0	0.1089658057804514
+AfD	7	Rheinland-Pfalz	198: Ahrweiler	198	14437.0	4.4	148038.0	0.09752225779867331
+AfD	7	Rheinland-Pfalz	199: Koblenz	199	13701.0	4.5	147302.0	0.0930129937135952
+AfD	7	Rheinland-Pfalz	200: Mosel/Rhein-HunsrÃ¼ck	200	11996.0	4.8	131956.0	0.09090909090909091
+AfD	7	Rheinland-Pfalz	201: Kreuznach	201	16198.0	7.0	136355.0	0.1187928568809358
+AfD	7	Rheinland-Pfalz	202: Bitburg	202	10058.0	4.4	123672.0	0.08132802897988227
+AfD	7	Rheinland-Pfalz	203: Trier	203	11926.0	3.8	147685.0	0.08075295392219928
+AfD	7	Rheinland-Pfalz	204: Montabaur	204	17826.0	5.9	159526.0	0.11174354023795494
+AfD	7	Rheinland-Pfalz	205: Mainz	205	16535.0	3.7	197400.0	0.08376393110435663
+AfD	7	Rheinland-Pfalz	206: Worms	206	21978.0	7.5	165209.0	0.13303149344164059
+AfD	7	Rheinland-Pfalz	207: Ludwigshafen/Frankenthal	207	24641.0	9.4	156820.0	0.1571291927050121
+AfD	7	Rheinland-Pfalz	208: Neustadt â Speyer	208	22070.0	7.7	171994.0	0.12831842971266438
+AfD	7	Rheinland-Pfalz	209: Kaiserslautern	209	23206.0	9.2	166693.0	0.1392140041873384
+AfD	7	Rheinland-Pfalz	210: Pirmasens	210	18652.0	9.7	130529.0	0.14289544852101832
+AfD	7	Rheinland-Pfalz	211: SÃ¼dpfalz	211	23191.0	8.7	167790.0	0.13821443471005423
+AfD	8	Baden-WÃ¼rttemberg	258: Stuttgart I	258	11455.0	3.0	156669.0	0.07311593231590167
+AfD	8	Baden-WÃ¼rttemberg	259: Stuttgart II	259	14899.0	6.2	135016.0	0.1103498844581383
+AfD	8	Baden-WÃ¼rttemberg	260: BÃ¶blingen	260	22874.0	6.6	191782.0	0.11927083876484759
+AfD	8	Baden-WÃ¼rttemberg	261: Esslingen	261	14692.0	6.4	132175.0	0.11115566483828258
+AfD	8	Baden-WÃ¼rttemberg	262: NÃ¼rtingen	262	20544.0	7.5	164015.0	0.12525683626497577
+AfD	8	Baden-WÃ¼rttemberg	263: GÃ¶ppingen	263	19956.0	8.4	133795.0	0.1491535558129975
+AfD	8	Baden-WÃ¼rttemberg	264: Waiblingen	264	22870.0	7.5	174351.0	0.1311721756686225
+AfD	8	Baden-WÃ¼rttemberg	265: Ludwigsburg	265	19780.0	6.3	171056.0	0.11563464596389486
+AfD	8	Baden-WÃ¼rttemberg	266: Neckar-Zaber	266	24212.0	7.6	182015.0	0.1330220036810153
+AfD	8	Baden-WÃ¼rttemberg	267: Heilbronn	267	30089.0	11.0	179760.0	0.167384290164664
+AfD	8	Baden-WÃ¼rttemberg	268: SchwÃ¤bisch Hall â Hohenlohe	268	24827.0	9.6	167089.0	0.14858548438257455
+AfD	8	Baden-WÃ¼rttemberg	269: Backnang â SchwÃ¤bisch GmÃ¼nd	269	19438.0	8.7	133138.0	0.14599888837146419
+AfD	8	Baden-WÃ¼rttemberg	270: Aalen â Heidenheim	270	20616.0	7.7	165758.0	0.12437408752518732
+AfD	8	Baden-WÃ¼rttemberg	271: Karlsruhe-Stadt	271	16741.0	4.8	156634.0	0.10687973236972816
+AfD	8	Baden-WÃ¼rttemberg	272: Karlsruhe-Land	272	20887.0	6.5	163951.0	0.12739782008038988
+AfD	8	Baden-WÃ¼rttemberg	273: Rastatt	273	19701.0	6.9	152766.0	0.12896194179333098
+AfD	8	Baden-WÃ¼rttemberg	274: Heidelberg	274	16850.0	3.3	174300.0	0.09667240390131956
+AfD	8	Baden-WÃ¼rttemberg	275: Mannheim	275	18309.0	6.8	139045.0	0.1316767952821029
+AfD	8	Baden-WÃ¼rttemberg	276: Odenwald â Tauber	276	22289.0	8.6	158730.0	0.1404208404208404
+AfD	8	Baden-WÃ¼rttemberg	277: Rhein-Neckar	277	20942.0	7.5	151760.0	0.13799420137058513
+AfD	8	Baden-WÃ¼rttemberg	278: Bruchsal â Schwetzingen	278	22794.0	8.8	149894.0	0.15206746100577742
+AfD	8	Baden-WÃ¼rttemberg	279: Pforzheim	279	27107.0	9.1	163252.0	0.16604390757846765
+AfD	8	Baden-WÃ¼rttemberg	280: Calw	280	22715.0	8.7	149446.0	0.15199470042691005
+AfD	8	Baden-WÃ¼rttemberg	281: Freiburg	281	14103.0	4.0	175179.0	0.0805062250612231
+AfD	8	Baden-WÃ¼rttemberg	282: LÃ¶rrach â MÃ¼llheim	282	18459.0	5.4	172283.0	0.10714347904320218
+AfD	8	Baden-WÃ¼rttemberg	283: Emmendingen â Lahr	283	19139.0	7.0	164147.0	0.11659670904737826
+AfD	8	Baden-WÃ¼rttemberg	284: Offenburg	284	17800.0	6.2	150984.0	0.11789328670587612
+AfD	8	Baden-WÃ¼rttemberg	285: Rottweil â Tuttlingen	285	20942.0	8.1	147257.0	0.14221395247764113
+AfD	8	Baden-WÃ¼rttemberg	286: Schwarzwald-Baar	286	15350.0	6.7	121822.0	0.12600351332271675
+AfD	8	Baden-WÃ¼rttemberg	287: Konstanz	287	16215.0	4.8	154179.0	0.10516996478119588
+AfD	8	Baden-WÃ¼rttemberg	288: Waldshut	288	13299.0	5.1	132990.0	0.1
+AfD	8	Baden-WÃ¼rttemberg	289: Reutlingen	289	20171.0	7.4	153545.0	0.13136865414048
+AfD	8	Baden-WÃ¼rttemberg	290: TÃ¼bingen	290	15887.0	5.4	155479.0	0.10218100193595277
+AfD	8	Baden-WÃ¼rttemberg	291: Ulm	291	20432.0	6.9	172730.0	0.11828865860012737
+AfD	8	Baden-WÃ¼rttemberg	292: Biberach	292	16236.0	8.2	128335.0	0.12651264269295204
+AfD	8	Baden-WÃ¼rttemberg	293: Bodensee	293	14164.0	5.9	133629.0	0.10599495618466051
+AfD	8	Baden-WÃ¼rttemberg	294: Ravensburg	294	14901.0	6.4	142410.0	0.10463450600379187
+AfD	8	Baden-WÃ¼rttemberg	295: Zollernalb â Sigmaringen	295	18814.0	9.0	135657.0	0.1386880146251207
+AfD	9	Bayern	212: AltÃ¶tting	212	18330.0	10.5	124253.0	0.14752158901595938
+AfD	9	Bayern	213: Erding â Ebersberg	213	19366.0	6.7	160213.0	0.12087658304881627
+AfD	9	Bayern	214: Freising	214	25178.0	8.9	182702.0	0.13780910991669496
+AfD	9	Bayern	215: FÃ¼rstenfeldbruck	215	21934.0	6.3	187059.0	0.11725712208447601
+AfD	9	Bayern	216: Ingolstadt	216	27673.0	11.6	180250.0	0.1535256588072122
+AfD	9	Bayern	217: MÃ¼nchen-Nord	217	14982.0	4.1	170233.0	0.0880087879553318
+AfD	9	Bayern	218: MÃ¼nchen-Ost	218	15959.0	3.9	182831.0	0.08728826074352818
+AfD	9	Bayern	219: MÃ¼nchen-SÃ¼d	219	14578.0	4.0	166394.0	0.08761133213938002
+AfD	9	Bayern	220: MÃ¼nchen-West/Mitte	220	14895.0	3.6	188762.0	0.07890889056060012
+AfD	9	Bayern	221: MÃ¼nchen-Land	221	18470.0	4.5	193530.0	0.09543739988632254
+AfD	9	Bayern	222: Rosenheim	222	25697.0	9.0	182834.0	0.1405482568887625
+AfD	9	Bayern	223: Bad TÃ¶lz-Wolfratshausen â Miesbach	223	15391.0	5.9	130108.0	0.11829403264979862
+AfD	9	Bayern	224: Starnberg â Landsberg am Lech	224	17460.0	4.9	173656.0	0.10054360344589303
+AfD	9	Bayern	225: Traunstein	225	19191.0	8.8	157572.0	0.12179194273094204
+AfD	9	Bayern	226: Weilheim	226	16145.0	6.5	131724.0	0.12256688226898667
+AfD	9	Bayern	227: Deggendorf	227	22765.0	15.2	117808.0	0.19323815021051202
+AfD	9	Bayern	228: Landshut	228	28061.0	11.0	189411.0	0.14814873476197263
+AfD	9	Bayern	229: Passau	229	20967.0	12.1	129191.0	0.1622945870842396
+AfD	9	Bayern	230: Rottal-Inn	230	20401.0	12.9	122367.0	0.16671978556310116
+AfD	9	Bayern	231: Straubing	231	23576.0	14.4	127137.0	0.1854377561213494
+AfD	9	Bayern	232: Amberg	232	21550.0	9.3	166192.0	0.129669298161163
+AfD	9	Bayern	233: Regensburg	233	25625.0	8.9	194901.0	0.13147700627498063
+AfD	9	Bayern	234: Schwandorf	234	28006.0	14.1	159878.0	0.17517106793930373
+AfD	9	Bayern	235: Weiden	235	17411.0	9.9	128004.0	0.13601918690040937
+AfD	9	Bayern	236: Bamberg	236	18392.0	8.6	141945.0	0.1295713128324351
+AfD	9	Bayern	237: Bayreuth	237	13566.0	6.9	124342.0	0.10910231458397002
+AfD	9	Bayern	238: Coburg	238	14208.0	7.4	120676.0	0.11773674964367398
+AfD	9	Bayern	239: Hof	239	16605.0	8.8	123640.0	0.13430119702361695
+AfD	9	Bayern	240: Kulmbach	240	17997.0	9.5	131949.0	0.13639360662073982
+AfD	9	Bayern	241: Ansbach	241	21734.0	8.2	182014.0	0.11940839715626271
+AfD	9	Bayern	242: Erlangen	242	13953.0	5.3	144967.0	0.09624949126352894
+AfD	9	Bayern	243: FÃ¼rth	243	23033.0	7.2	193896.0	0.11879048562115774
+AfD	9	Bayern	244: NÃ¼rnberg-Nord	244	14503.0	5.5	141534.0	0.10247007786114998
+AfD	9	Bayern	245: NÃ¼rnberg-SÃ¼d	245	18679.0	9.5	128355.0	0.14552608001246542
+AfD	9	Bayern	246: Roth	246	21317.0	7.6	181912.0	0.11718303355468578
+AfD	9	Bayern	247: Aschaffenburg	247	16642.0	7.5	140899.0	0.11811297454204785
+AfD	9	Bayern	248: Bad Kissingen	248	19650.0	8.3	167556.0	0.1172742247368044
+AfD	9	Bayern	249: Main-Spessart	249	16856.0	6.9	153427.0	0.10986332262248497
+AfD	9	Bayern	250: Schweinfurt	250	18905.0	8.9	152680.0	0.12382106366256222
+AfD	9	Bayern	251: WÃ¼rzburg	251	15764.0	4.8	178076.0	0.08852400098834205
+AfD	9	Bayern	252: Augsburg-Stadt	252	21015.0	8.4	148474.0	0.14153993291754785
+AfD	9	Bayern	253: Augsburg-Land	253	27045.0	8.5	195118.0	0.13860843182074437
+AfD	9	Bayern	254: Donau-Ries	254	21585.0	10.5	145290.0	0.14856493908734256
+AfD	9	Bayern	255: Neu-Ulm	255	27327.0	9.5	178256.0	0.15330199263979893
+AfD	9	Bayern	256: OberallgÃ¤u	256	18529.0	6.2	172642.0	0.10732614311697038
+AfD	9	Bayern	257: OstallgÃ¤u	257	25384.0	8.5	187656.0	0.13526878970030268
+AfD	10	Saarland	296: SaarbrÃ¼cken	296	14042.0	4.9	141916.0	0.09894585529468136
+AfD	10	Saarland	297: Saarlouis	297	15506.0	4.7	154810.0	0.10016148827595117
+AfD	10	Saarland	298: St. Wendel	298	12627.0	3.7	136200.0	0.09270925110132158
+AfD	10	Saarland	299: Homburg	299	16745.0	6.1	140799.0	0.11892840148012415
+AfD	11	Berlin	075: Berlin-Mitte	75	12289.0	4.3	143699.0	0.0855190363189723
+AfD	11	Berlin	076: Berlin-Pankow	76	23315.0	7.6	179167.0	0.1301299904558317
+AfD	11	Berlin	077: Berlin-Reinickendorf	77	18513.0	7.7	130076.0	0.14232448722285432
+AfD	11	Berlin	078: Berlin-Spandau â Charlottenburg Nord	78	18481.0	8.3	125812.0	0.1468937780179951
+AfD	11	Berlin	079: Berlin-Steglitz-Zehlendorf	79	15824.0	3.5	174170.0	0.0908537635643337
+AfD	11	Berlin	080: Berlin-Charlottenburg-Wilmersdorf	80	12374.0	3.1	152657.0	0.08105753421068146
+AfD	11	Berlin	081: Berlin-Tempelhof-SchÃ¶neberg	81	17108.0	5.0	173196.0	0.09877826277743135
+AfD	11	Berlin	082: Berlin-NeukÃ¶lln	82	15904.0	7.0	135324.0	0.11752534657562591
+AfD	11	Berlin	083: Berlin-Friedrichshain-Kreuzberg â Prenzlauer Berg Ost	83	10863.0	3.5	164561.0	0.06601199555180146
+AfD	11	Berlin	084: Berlin-Treptow-KÃ¶penick	84	26278.0	11.4	149101.0	0.17624294941013138
+AfD	11	Berlin	085: Berlin-Marzahn-Hellersdorf	85	29618.0	15.3	130856.0	0.22634040471969188
+AfD	11	Berlin	086: Berlin-Lichtenberg	86	24603.0	11.2	140057.0	0.17566419386392684
+AfD	12	Brandenburg	056: Prignitz â Ostprignitz-Ruppin â Havelland I	56	22183.0	14.0	114917.0	0.1930349730675183
+AfD	12	Brandenburg	057: Uckermark â Barnim I	57	26605.0	15.7	123364.0	0.21566259200415033
+AfD	12	Brandenburg	058: Oberhavel â Havelland II	58	33987.0	11.9	174844.0	0.19438470865457208
+AfD	12	Brandenburg	059: MÃ¤rkisch-Oderland â Barnim II	59	34701.0	14.3	160075.0	0.21677963454630642
+AfD	12	Brandenburg	060: Brandenburg an der Havel â Potsdam-Mittelmark I â Havelland III â Teltow-FlÃ¤ming I	60	22633.0	13.1	121331.0	0.18653930157997545
+AfD	12	Brandenburg	061: Potsdam â Potsdam-Mittelmark II â Teltow-FlÃ¤ming II	61	26133.0	7.8	184308.0	0.14178983006706167
+AfD	12	Brandenburg	062: Dahme-Spreewald â Teltow-FlÃ¤ming III â Oberspreewald-Lausitz I	62	38915.0	14.7	177224.0	0.21958086940820656
+AfD	12	Brandenburg	063: Frankfurt (Oder) â Oder-Spree	63	30477.0	15.6	131910.0	0.23104389356379348
+AfD	12	Brandenburg	064: Cottbus â Spree-NeiÃe	64	34905.0	19.9	124157.0	0.2811359810562433
+AfD	12	Brandenburg	065: Elbe-Elster â Oberspreewald-Lausitz II	65	30564.0	19.3	116843.0	0.26158178068005783
+AfD	13	Mecklenburg-Vorpommern	012: Schwerin â Ludwigslust-Parchim I â Nordwestmecklenburg I	12	25692.0	11.3	151692.0	0.16936951190570365
+AfD	13	Mecklenburg-Vorpommern	013: Ludwigslust-Parchim II â Nordwestmecklenburg II â Landkreis Rostock I	13	25688.0	12.4	141548.0	0.18147907423630147
+AfD	13	Mecklenburg-Vorpommern	014: Rostock â Landkreis Rostock II	14	25171.0	10.1	156884.0	0.16044338492134316
+AfD	13	Mecklenburg-Vorpommern	015: Vorpommern-RÃ¼gen â Vorpommern-Greifswald I	15	32881.0	13.1	161340.0	0.2037994297756291
+AfD	13	Mecklenburg-Vorpommern	016: Mecklenburgische Seenplatte I â Vorpommern-Greifswald II	16	35595.0	16.9	150830.0	0.23599416561691972
+AfD	13	Mecklenburg-Vorpommern	017: Mecklenburgische Seenplatte II â Landkreis Rostock III	17	27382.0	14.1	139161.0	0.19676489821142418
+AfD	14	Sachsen	151: Nordsachsen	151	31301.0	20.7	113142.0	0.2766523483763766
+AfD	14	Sachsen	152: Leipzig I	152	33291.0	14.7	151539.0	0.21968602142022844
+AfD	14	Sachsen	153: Leipzig II	153	27774.0	10.9	164092.0	0.1692587085293616
+AfD	14	Sachsen	154: Leipzig-Land	154	42823.0	20.5	154436.0	0.2772863840037297
+AfD	14	Sachsen	155: MeiÃen	155	49615.0	25.8	145841.0	0.3401992580961458
+AfD	14	Sachsen	156: Bautzen I	156	52041.0	25.7	153814.0	0.3383372124774078
+AfD	14	Sachsen	157: GÃ¶rlitz	157	50551.0	24.7	148427.0	0.3405781966892816
+AfD	14	Sachsen	158: SÃ¤chsische Schweiz-Osterzgebirge	158	54749.0	27.6	149616.0	0.36593011442626455
+AfD	14	Sachsen	159: Dresden I	159	41812.0	16.2	173051.0	0.24161663324684632
+AfD	14	Sachsen	160: Dresden II â Bautzen II	160	43126.0	16.3	175481.0	0.24575880009801632
+AfD	14	Sachsen	161: Mittelsachsen	161	46522.0	25.0	144364.0	0.3222548557812197
+AfD	14	Sachsen	162: Chemnitz	162	35456.0	18.3	139613.0	0.25395915853108236
+AfD	14	Sachsen	163: Chemnitzer Umland â Erzgebirgskreis II	163	36746.0	19.5	132807.0	0.27668722281205055
+AfD	14	Sachsen	164: Erzgebirgskreis I	164	47952.0	21.6	158840.0	0.3018886930244271
+AfD	14	Sachsen	165: Zwickau	165	38964.0	20.1	144192.0	0.27022303595206393
+AfD	14	Sachsen	166: Vogtlandkreis	166	37217.0	19.8	136236.0	0.2731803634868904
+AfD	15	Sachsen-Anhalt	066: Altmark	66	18419.0	13.2	106662.0	0.17268567999849993
+AfD	15	Sachsen-Anhalt	067: BÃ¶rde â Jerichower Land	67	27905.0	15.0	143283.0	0.19475443702323375
+AfD	15	Sachsen-Anhalt	068: Harz	68	23860.0	13.1	136988.0	0.17417584021958127
+AfD	15	Sachsen-Anhalt	069: Magdeburg	69	26051.0	12.0	152026.0	0.17135884651309644
+AfD	15	Sachsen-Anhalt	070: Dessau â Wittenberg	70	24327.0	14.9	118117.0	0.2059568055402694
+AfD	15	Sachsen-Anhalt	071: Anhalt	71	32349.0	17.4	141138.0	0.22920120732899715
+AfD	15	Sachsen-Anhalt	072: Halle	72	26727.0	13.6	143223.0	0.18661108900106826
+AfD	15	Sachsen-Anhalt	073: Burgenland â Saalekreis	73	31781.0	20.3	125388.0	0.2534612562605672
+AfD	15	Sachsen-Anhalt	074: Mansfeld	74	32982.0	19.8	133599.0	0.2468731053376148
+AfD	16	ThÃ¼ringen	189: Eichsfeld â Nordhausen â KyffhÃ¤userkreis	189	32854.0	16.0	153000.0	0.21473202614379086
+AfD	16	ThÃ¼ringen	190: Eisenach â Wartburgkreis â Unstrut-Hainich-Kreis	190	35824.0	17.2	157494.0	0.2274626334971491
+AfD	16	ThÃ¼ringen	191: Jena â SÃ¶mmerda â Weimarer Land I	191	30426.0	14.1	148869.0	0.20438103298873506
+AfD	16	ThÃ¼ringen	192: Gotha â Ilm-Kreis	192	35091.0	16.6	141589.0	0.2478370494883077
+AfD	16	ThÃ¼ringen	193: Erfurt â Weimar â Weimarer Land II	193	30166.0	12.1	160228.0	0.18826921636667748
+AfD	16	ThÃ¼ringen	194: Gera â Greiz â Altenburger Land	194	47275.0	19.5	170360.0	0.2775005869922517
+AfD	16	ThÃ¼ringen	195: Saalfeld-Rudolstadt â Saale-Holzland-Kreis â Saale-Orla-Kreis	195	43740.0	18.6	165449.0	0.26437149816559785
+AfD	16	ThÃ¼ringen	196: Suhl â Schmalkalden-Meiningen â Hildburghausen â Sonneberg	196	38693.0	17.9	164622.0	0.23504148898689117
+Bündnis90/Die Grünen	1	Schleswig-Holstein	001: Flensburg â Schleswig	1	22304.0	3.3	167225.0	0.13337718642547466
+Bündnis90/Die Grünen	1	Schleswig-Holstein	002: Nordfriesland â Dithmarschen Nord	2	15144.0	2.9	136092.0	0.11127766510889692
+Bündnis90/Die Grünen	1	Schleswig-Holstein	003: Steinburg â Dithmarschen SÃ¼d	3	12960.0	2.3	128827.0	0.10060002949692223
+Bündnis90/Die Grünen	1	Schleswig-Holstein	004: Rendsburg-EckernfÃ¶rde	4	19337.0	3.1	153692.0	0.12581656820133774
+Bündnis90/Die Grünen	1	Schleswig-Holstein	005: Kiel	5	26143.0	3.1	147878.0	0.17678762222913483
+Bündnis90/Die Grünen	1	Schleswig-Holstein	006: PlÃ¶n â NeumÃ¼nster	6	16350.0	3.3	128575.0	0.12716313435737897
+Bündnis90/Die Grünen	1	Schleswig-Holstein	007: Pinneberg	7	21336.0	2.8	183203.0	0.1164609749840341
+Bündnis90/Die Grünen	1	Schleswig-Holstein	008: Segeberg â Stormarn-Mitte	8	21010.0	2.3	188914.0	0.11121462676138348
+Bündnis90/Die Grünen	1	Schleswig-Holstein	009: Ostholstein â Stormarn-Nord	9	13493.0	1.8	135600.0	0.09950589970501475
+Bündnis90/Die Grünen	1	Schleswig-Holstein	010: Herzogtum Lauenburg â Stormarn-SÃ¼d	10	20826.0	1.7	188914.0	0.11024063859745704
+Bündnis90/Die Grünen	1	Schleswig-Holstein	011: LÃ¼beck	11	16568.0	1.7	127203.0	0.13024850042844902
+Bündnis90/Die Grünen	2	Hamburg	018: Hamburg-Mitte	18	25164.0	0.8	169759.0	0.14823367244152003
+Bündnis90/Die Grünen	2	Hamburg	019: Hamburg-Altona	19	26036.0	1.4	142253.0	0.18302601702600296
+Bündnis90/Die Grünen	2	Hamburg	020: Hamburg-EimsbÃ¼ttel	20	26372.0	1.4	152170.0	0.1733061707301045
+Bündnis90/Die Grünen	2	Hamburg	021: Hamburg-Nord	21	25584.0	1.9	174987.0	0.1462051466680382
+Bündnis90/Die Grünen	2	Hamburg	022: Hamburg-Wandsbek	22	17773.0	1.3	167826.0	0.10590135020795348
+Bündnis90/Die Grünen	2	Hamburg	023: Hamburg-Bergedorf â Harburg	23	15442.0	0.8	150858.0	0.10236116082673773
+Bündnis90/Die Grünen	3	Niedersachsen	024: Aurich â Emden	24	10503.0	-0.9	139388.0	0.07535081929577869
+Bündnis90/Die Grünen	3	Niedersachsen	025: Unterems	25	10258.0	0.1	172873.0	0.059338358216725576
+Bündnis90/Die Grünen	3	Niedersachsen	026: Friesland â Wilhelmshaven â Wittmund	26	9984.0	-0.1	135637.0	0.07360823374153071
+Bündnis90/Die Grünen	3	Niedersachsen	027: Oldenburg â Ammerland	27	21821.0	0.1	171103.0	0.12753136999351267
+Bündnis90/Die Grünen	3	Niedersachsen	028: Delmenhorst â Wesermarsch â Oldenburg-Land	28	13525.0	-0.1	166400.0	0.08128004807692307
+Bündnis90/Die Grünen	3	Niedersachsen	029: Cuxhaven â Stade II	29	9709.0	-0.2	139126.0	0.06978566191797364
+Bündnis90/Die Grünen	3	Niedersachsen	030: Stade I â Rotenburg II	30	12511.0	0.4	150058.0	0.08337442855429233
+Bündnis90/Die Grünen	3	Niedersachsen	031: Mittelems	31	10803.0	0.6	177060.0	0.061013215859030835
+Bündnis90/Die Grünen	3	Niedersachsen	032: Cloppenburg â Vechta	32	8207.0	0.8	161009.0	0.050972305895943704
+Bündnis90/Die Grünen	3	Niedersachsen	033: Diepholz â Nienburg I	33	11992.0	0.0	145121.0	0.08263449121767352
+Bündnis90/Die Grünen	3	Niedersachsen	034: Osterholz â Verden	34	14052.0	-0.3	149353.0	0.09408582351877766
+Bündnis90/Die Grünen	3	Niedersachsen	035: Rotenburg I â Heidekreis	35	10068.0	-0.5	124421.0	0.0809188159555059
+Bündnis90/Die Grünen	3	Niedersachsen	036: Harburg	36	16410.0	0.9	158445.0	0.10356906181955884
+Bündnis90/Die Grünen	3	Niedersachsen	037: LÃ¼chow-Dannenberg â LÃ¼neburg	37	18906.0	-0.8	136769.0	0.13823307913342936
+Bündnis90/Die Grünen	3	Niedersachsen	038: OsnabrÃ¼ck-Land	38	12346.0	0.5	148481.0	0.08314868569042504
+Bündnis90/Die Grünen	3	Niedersachsen	039: Stadt OsnabrÃ¼ck	39	18353.0	1.2	148451.0	0.12363001933297856
+Bündnis90/Die Grünen	3	Niedersachsen	040: Nienburg II â Schaumburg	40	11831.0	0.0	143631.0	0.08237079739053547
+Bündnis90/Die Grünen	3	Niedersachsen	041: Stadt Hannover I	41	16292.0	-0.1	130413.0	0.12492619600806668
+Bündnis90/Die Grünen	3	Niedersachsen	042: Stadt Hannover II	42	22079.0	-0.6	143023.0	0.1543737720506492
+Bündnis90/Die Grünen	3	Niedersachsen	043: Hannover-Land I	43	14335.0	-0.2	177535.0	0.08074464190159687
+Bündnis90/Die Grünen	3	Niedersachsen	044: Celle â Uelzen	44	12478.0	0.0	158707.0	0.07862287107689012
+Bündnis90/Die Grünen	3	Niedersachsen	045: Gifhorn â Peine	45	12094.0	-0.2	164960.0	0.07331474296799224
+Bündnis90/Die Grünen	3	Niedersachsen	046: Hameln-Pyrmont â Holzminden	46	9995.0	-1.2	137003.0	0.072954606833427
+Bündnis90/Die Grünen	3	Niedersachsen	047: Hannover-Land II	47	16290.0	-0.2	183945.0	0.08855908015983038
+Bündnis90/Die Grünen	3	Niedersachsen	048: Hildesheim	48	14806.0	-0.2	165520.0	0.08945142580956984
+Bündnis90/Die Grünen	3	Niedersachsen	049: Salzgitter â WolfenbÃ¼ttel	49	10213.0	-0.8	152997.0	0.06675294286816082
+Bündnis90/Die Grünen	3	Niedersachsen	050: Braunschweig	50	17295.0	-0.6	142328.0	0.12151509190039908
+Bündnis90/Die Grünen	3	Niedersachsen	051: Helmstedt â Wolfsburg	51	8064.0	-0.9	133800.0	0.06026905829596413
+Bündnis90/Die Grünen	3	Niedersachsen	052: Goslar â Northeim â Osterode	52	9929.0	-0.3	147545.0	0.06729472364363415
+Bündnis90/Die Grünen	3	Niedersachsen	053: GÃ¶ttingen	53	19676.0	-0.6	166120.0	0.11844449795328678
+Bündnis90/Die Grünen	4	Bremen	054: Bremen I	54	23568.0	-1.3	183863.0	0.12818239667578576
+Bündnis90/Die Grünen	4	Bremen	055: Bremen II â Bremerhaven	55	13165.0	-0.9	143951.0	0.09145473112378517
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	087: Aachen I	87	17918.0	-0.3	137514.0	0.13029946041857557
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	088: Aachen II	88	8436.0	-1.4	168868.0	0.04995617879053462
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	089: Heinsberg	89	7281.0	-0.4	138622.0	0.05252413036891691
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	090: DÃ¼ren	90	8198.0	-0.6	147719.0	0.05549726169280864
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	091: Rhein-Erft-Kreis I	91	12526.0	-0.3	186745.0	0.06707542370612332
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	092: Euskirchen â Rhein-Erft-Kreis II	92	12447.0	-0.5	183028.0	0.06800598815481784
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	093: KÃ¶ln I	93	15800.0	-0.8	135304.0	0.11677407911074321
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	094: KÃ¶ln II	94	30630.0	-0.1	193964.0	0.1579159019199439
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	095: KÃ¶ln III	95	20973.0	-0.9	145768.0	0.1438793150760112
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	096: Bonn	96	25197.0	0.4	176667.0	0.14262425919951094
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	097: Rhein-Sieg-Kreis I	97	13757.0	-0.7	179691.0	0.07655920441201841
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	098: Rhein-Sieg-Kreis II	98	15192.0	0.1	170851.0	0.08891958490146384
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	099: Oberbergischer Kreis	99	9995.0	-0.5	152264.0	0.0656425681710713
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	100: Rheinisch-Bergischer Kreis	100	15581.0	0.0	169962.0	0.09167343288499782
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	101: Leverkusen â KÃ¶ln IV	101	13472.0	-0.9	150474.0	0.08953041721493414
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	102: Wuppertal I	102	12754.0	-1.4	145322.0	0.08776372469412752
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	103: Solingen â Remscheid â Wuppertal II	103	11726.0	-0.8	158842.0	0.0738217851701691
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	104: Mettmann I	104	11796.0	-0.2	156340.0	0.07545094025841116
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	105: Mettmann II	105	8599.0	0.0	122087.0	0.07043337947529221
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	106: DÃ¼sseldorf I	106	17148.0	0.5	169246.0	0.10131997211160086
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	107: DÃ¼sseldorf II	107	14379.0	0.4	139776.0	0.10287173763736264
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	108: Neuss I	108	9583.0	-0.1	155602.0	0.0615866119972751
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	109: MÃ¶nchengladbach	109	8169.0	0.1	128266.0	0.06368796095613803
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	110: Krefeld I â Neuss II	110	10871.0	0.2	151600.0	0.07170844327176781
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	111: Viersen	111	11591.0	0.0	169259.0	0.06848084887657377
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	112: Kleve	112	10098.0	-0.1	165611.0	0.06097421065025874
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	113: Wesel I	113	9743.0	-0.3	156622.0	0.06220709734264663
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	114: Krefeld II â Wesel II	114	9307.0	-0.3	130116.0	0.07152848227735252
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	115: Duisburg I	115	7844.0	-0.4	116168.0	0.06752289787204738
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	116: Duisburg II	116	4493.0	-0.7	97605.0	0.04603247784437273
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	117: Oberhausen â Wesel III	117	8228.0	-1.1	145719.0	0.05646483986302404
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	118: MÃ¼lheim â Essen I	118	9465.0	-0.4	138935.0	0.06812538237305214
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	119: Essen II	119	6746.0	-0.9	106358.0	0.06342729272833261
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	120: Essen III	120	14312.0	-0.3	149581.0	0.09568060114586746
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	121: Recklinghausen I	121	7132.0	-0.6	120260.0	0.0593048395143855
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	122: Recklinghausen II	122	7189.0	-0.6	136511.0	0.05266242280841837
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	123: Gelsenkirchen	123	5489.0	-0.8	114202.0	0.048063956848391445
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	124: Steinfurt I â Borken I	124	9142.0	-0.2	151846.0	0.06020573475758334
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	125: Bottrop â Recklinghausen III	125	7248.0	-0.6	147046.0	0.049290698148878584
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	126: Borken II	126	9220.0	-0.2	155566.0	0.05926744918555468
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	127: Coesfeld â Steinfurt II	127	11667.0	-0.7	154239.0	0.07564234726625561
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	128: Steinfurt III	128	11026.0	-0.3	149700.0	0.07365397461589847
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	129: MÃ¼nster	129	27739.0	-0.6	187920.0	0.14761068539804173
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	130: Warendorf	130	10815.0	-0.6	160036.0	0.06757854482741384
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	131: GÃ¼tersloh I	131	13817.0	0.0	172709.0	0.08000162122414002
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	132: Bielefeld â GÃ¼tersloh II	132	20567.0	-0.5	181140.0	0.11354201170365463
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	133: Herford â Minden-LÃ¼bbecke II	133	11485.0	-0.7	164612.0	0.06977012611474255
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	134: Minden-LÃ¼bbecke I	134	9625.0	-0.9	147656.0	0.06518529555182316
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	135: Lippe I	135	8869.0	-0.4	125826.0	0.07048622701190534
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	136: HÃ¶xter â Lippe II	136	10194.0	-0.2	156266.0	0.06523491994419771
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	137: Paderborn â GÃ¼tersloh III	137	13612.0	0.2	183356.0	0.07423809419926264
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	138: Hagen â Ennepe-Ruhr-Kreis I	138	8673.0	-0.9	145557.0	0.0595849048826233
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	139: Ennepe-Ruhr-Kreis II	139	11142.0	-0.9	133832.0	0.08325363141849483
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	140: Bochum I	140	13862.0	-0.7	152175.0	0.09109249219648431
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	141: Herne â Bochum II	141	7414.0	-0.8	123123.0	0.060216206557669974
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	142: Dortmund I	142	14702.0	-1.2	151574.0	0.09699552693733754
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	143: Dortmund II	143	10190.0	-1.2	139104.0	0.07325454336323901
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	144: Unna I	144	10254.0	-1.0	146716.0	0.06989012786608141
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	145: Hamm â Unna II	145	8938.0	-0.8	166139.0	0.05379832549852834
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	146: Soest	146	10723.0	-0.8	170707.0	0.06281523311873562
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	147: Hochsauerlandkreis	147	7198.0	-0.1	150962.0	0.04768087333236179
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	148: Siegen-Wittgenstein	148	8857.0	-0.9	158559.0	0.055859333118902114
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	149: Olpe â MÃ¤rkischer Kreis I	149	6866.0	-0.6	149098.0	0.04605024882962883
+Bündnis90/Die Grünen	5	Nordrhein-Westfalen	150: MÃ¤rkischer Kreis II	150	7060.0	-0.7	141456.0	0.049909512498586134
+Bündnis90/Die Grünen	6	Hessen	167: Waldeck	167	9660.0	-1.2	138727.0	0.06963316441644381
+Bündnis90/Die Grünen	6	Hessen	168: Kassel	168	18935.0	-1.3	162467.0	0.11654674487742125
+Bündnis90/Die Grünen	6	Hessen	169: Werra-MeiÃner â Hersfeld-Rotenburg	169	7843.0	-1.0	129309.0	0.06065316412624024
+Bündnis90/Die Grünen	6	Hessen	170: Schwalm-Eder	170	9436.0	-1.1	141090.0	0.06687929690268622
+Bündnis90/Die Grünen	6	Hessen	171: Marburg	171	13088.0	-1.2	138611.0	0.09442252057917482
+Bündnis90/Die Grünen	6	Hessen	172: Lahn-Dill	172	10768.0	-0.4	150144.0	0.07171781756180733
+Bündnis90/Die Grünen	6	Hessen	173: GieÃen	173	15898.0	0.0	161445.0	0.09847316423549815
+Bündnis90/Die Grünen	6	Hessen	174: Fulda	174	10593.0	0.0	156200.0	0.0678169014084507
+Bündnis90/Die Grünen	6	Hessen	175: Main-Kinzig â Wetterau II â Schotten	175	9614.0	-0.6	133448.0	0.07204304298303459
+Bündnis90/Die Grünen	6	Hessen	176: Hochtaunus	176	14074.0	0.5	141954.0	0.0991447933837722
+Bündnis90/Die Grünen	6	Hessen	177: Wetterau I	177	13002.0	0.1	134615.0	0.0965865616758905
+Bündnis90/Die Grünen	6	Hessen	178: Rheingau-Taunus â Limburg	178	15273.0	0.3	168651.0	0.09055979507978014
+Bündnis90/Die Grünen	6	Hessen	179: Wiesbaden	179	16286.0	0.1	135843.0	0.11988840058008142
+Bündnis90/Die Grünen	6	Hessen	180: Hanau	180	11345.0	-0.4	128993.0	0.08795050894234571
+Bündnis90/Die Grünen	6	Hessen	181: Main-Taunus	181	16752.0	0.6	156333.0	0.10715587879718294
+Bündnis90/Die Grünen	6	Hessen	182: Frankfurt am Main I	182	19475.0	0.3	140601.0	0.13851252836039574
+Bündnis90/Die Grünen	6	Hessen	183: Frankfurt am Main II	183	26415.0	0.1	167761.0	0.1574561429652899
+Bündnis90/Die Grünen	6	Hessen	184: GroÃ-Gerau	184	11862.0	-1.6	128583.0	0.09225169734723875
+Bündnis90/Die Grünen	6	Hessen	185: Offenbach	185	16421.0	-0.5	158341.0	0.10370655736669593
+Bündnis90/Die Grünen	6	Hessen	186: Darmstadt	186	27317.0	0.1	186727.0	0.14629378718664146
+Bündnis90/Die Grünen	6	Hessen	187: Odenwald	187	16084.0	-0.2	178579.0	0.0900665811769581
+Bündnis90/Die Grünen	6	Hessen	188: BergstraÃe	188	13595.0	0.2	151260.0	0.08987835515007273
+Bündnis90/Die Grünen	7	Rheinland-Pfalz	197: Neuwied	197	10738.0	-0.2	176872.0	0.06071057035596363
+Bündnis90/Die Grünen	7	Rheinland-Pfalz	198: Ahrweiler	198	10059.0	0.1	148038.0	0.0679487699104284
+Bündnis90/Die Grünen	7	Rheinland-Pfalz	199: Koblenz	199	11862.0	0.2	147302.0	0.08052843817463443
+Bündnis90/Die Grünen	7	Rheinland-Pfalz	200: Mosel/Rhein-HunsrÃ¼ck	200	7487.0	-0.1	131956.0	0.05673860983964352
+Bündnis90/Die Grünen	7	Rheinland-Pfalz	201: Kreuznach	201	8629.0	-0.1	136355.0	0.06328334127828096
+Bündnis90/Die Grünen	7	Rheinland-Pfalz	202: Bitburg	202	7710.0	0.1	123672.0	0.062342324859305256
+Bündnis90/Die Grünen	7	Rheinland-Pfalz	203: Trier	203	13512.0	-0.5	147685.0	0.0914920269492501
+Bündnis90/Die Grünen	7	Rheinland-Pfalz	204: Montabaur	204	10058.0	-0.1	159526.0	0.06304928350237579
+Bündnis90/Die Grünen	7	Rheinland-Pfalz	205: Mainz	205	26415.0	-0.2	197400.0	0.1338145896656535
+Bündnis90/Die Grünen	7	Rheinland-Pfalz	206: Worms	206	13449.0	-0.3	165209.0	0.08140597667197308
+Bündnis90/Die Grünen	7	Rheinland-Pfalz	207: Ludwigshafen/Frankenthal	207	11621.0	0.0	156820.0	0.07410406835862772
+Bündnis90/Die Grünen	7	Rheinland-Pfalz	208: Neustadt â Speyer	208	15389.0	0.3	171994.0	0.08947405142039838
+Bündnis90/Die Grünen	7	Rheinland-Pfalz	209: Kaiserslautern	209	11360.0	-0.5	166693.0	0.06814923242127743
+Bündnis90/Die Grünen	7	Rheinland-Pfalz	210: Pirmasens	210	6156.0	-0.1	130529.0	0.04716193336346712
+Bündnis90/Die Grünen	7	Rheinland-Pfalz	211: SÃ¼dpfalz	211	14788.0	0.2	167790.0	0.08813397699505333
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	258: Stuttgart I	258	31283.0	2.0	156669.0	0.1996757495101137
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	259: Stuttgart II	259	21071.0	1.5	135016.0	0.15606298512768857
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	260: BÃ¶blingen	260	24746.0	2.4	191782.0	0.12903192166105265
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	261: Esslingen	261	19565.0	2.5	132175.0	0.14802345375449216
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	262: NÃ¼rtingen	262	23673.0	2.6	164015.0	0.14433435966222602
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	263: GÃ¶ppingen	263	16749.0	2.2	133795.0	0.12518405022609216
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	264: Waiblingen	264	21539.0	1.9	174351.0	0.12353815005362745
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	265: Ludwigsburg	265	24000.0	2.1	171056.0	0.1403049293798522
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	266: Neckar-Zaber	266	24282.0	2.6	182015.0	0.13340658736917288
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	267: Heilbronn	267	19016.0	1.8	179760.0	0.10578549176680017
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	268: SchwÃ¤bisch Hall â Hohenlohe	268	20512.0	2.1	167089.0	0.12276092381904255
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	269: Backnang â SchwÃ¤bisch GmÃ¼nd	269	15482.0	2.4	133138.0	0.11628535804954258
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	270: Aalen â Heidenheim	270	18427.0	2.5	165758.0	0.11116808841805524
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	271: Karlsruhe-Stadt	271	29408.0	3.3	156634.0	0.18774978612561768
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	272: Karlsruhe-Land	272	20489.0	2.7	163951.0	0.12497026550615732
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	273: Rastatt	273	17766.0	2.4	152766.0	0.11629551078119477
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	274: Heidelberg	274	30491.0	2.4	174300.0	0.17493402180149167
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	275: Mannheim	275	18803.0	2.1	139045.0	0.13522960192743355
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	276: Odenwald â Tauber	276	13642.0	1.3	158730.0	0.08594468594468595
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	277: Rhein-Neckar	277	17687.0	1.9	151760.0	0.1165458618871903
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	278: Bruchsal â Schwetzingen	278	15500.0	2.0	149894.0	0.10340640719441739
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	279: Pforzheim	279	17869.0	1.8	163252.0	0.10945654570847524
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	280: Calw	280	14989.0	2.2	149446.0	0.10029709727928482
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	281: Freiburg	281	38002.0	1.3	175179.0	0.21693239486468127
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	282: LÃ¶rrach â MÃ¼llheim	282	27014.0	2.7	172283.0	0.15680014859272243
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	283: Emmendingen â Lahr	283	22806.0	1.6	164147.0	0.13893644111680384
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	284: Offenburg	284	21220.0	3.1	150984.0	0.14054469347745457
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	285: Rottweil â Tuttlingen	285	15329.0	2.9	147257.0	0.10409691899196642
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	286: Schwarzwald-Baar	286	15113.0	3.2	121822.0	0.12405805191180574
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	287: Konstanz	287	25202.0	3.4	154179.0	0.1634593556839777
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	288: Waldshut	288	18842.0	2.9	132990.0	0.14167982555079328
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	289: Reutlingen	289	21695.0	3.0	153545.0	0.14129408316780098
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	290: TÃ¼bingen	290	28521.0	3.2	155479.0	0.18343956418551702
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	291: Ulm	291	24160.0	3.5	172730.0	0.13987147571354136
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	292: Biberach	292	14729.0	2.2	128335.0	0.11476993805275257
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	293: Bodensee	293	20015.0	3.0	133629.0	0.14978036204716041
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	294: Ravensburg	294	21770.0	2.7	142410.0	0.1528684783371954
+Bündnis90/Die Grünen	8	Baden-WÃ¼rttemberg	295: Zollernalb â Sigmaringen	295	15798.0	3.1	135657.0	0.116455472257237
+Bündnis90/Die Grünen	9	Bayern	212: AltÃ¶tting	212	8608.0	1.1	124253.0	0.06927800536003155
+Bündnis90/Die Grünen	9	Bayern	213: Erding â Ebersberg	213	17768.0	2.1	160213.0	0.11090236123161042
+Bündnis90/Die Grünen	9	Bayern	214: Freising	214	18036.0	0.7	182702.0	0.0987181311644098
+Bündnis90/Die Grünen	9	Bayern	215: FÃ¼rstenfeldbruck	215	20886.0	2.2	187059.0	0.11165461164659278
+Bündnis90/Die Grünen	9	Bayern	216: Ingolstadt	216	13205.0	1.0	180250.0	0.07325936199722607
+Bündnis90/Die Grünen	9	Bayern	217: MÃ¼nchen-Nord	217	29334.0	3.3	170233.0	0.17231676584446023
+Bündnis90/Die Grünen	9	Bayern	218: MÃ¼nchen-Ost	218	29866.0	3.1	182831.0	0.1633530418802063
+Bündnis90/Die Grünen	9	Bayern	219: MÃ¼nchen-SÃ¼d	219	29560.0	3.4	166394.0	0.17765063644121784
+Bündnis90/Die Grünen	9	Bayern	220: MÃ¼nchen-West/Mitte	220	35605.0	2.9	188762.0	0.18862376961464702
+Bündnis90/Die Grünen	9	Bayern	221: MÃ¼nchen-Land	221	24837.0	2.8	193530.0	0.12833669198573863
+Bündnis90/Die Grünen	9	Bayern	222: Rosenheim	222	18571.0	1.6	182834.0	0.10157301158427863
+Bündnis90/Die Grünen	9	Bayern	223: Bad TÃ¶lz-Wolfratshausen â Miesbach	223	13605.0	2.4	130108.0	0.1045669751283549
+Bündnis90/Die Grünen	9	Bayern	224: Starnberg â Landsberg am Lech	224	23111.0	2.4	173656.0	0.13308494955544295
+Bündnis90/Die Grünen	9	Bayern	225: Traunstein	225	14680.0	0.4	157572.0	0.09316376005889371
+Bündnis90/Die Grünen	9	Bayern	226: Weilheim	226	12753.0	1.7	131724.0	0.09681606996447116
+Bündnis90/Die Grünen	9	Bayern	227: Deggendorf	227	5528.0	0.3	117808.0	0.0469238082303409
+Bündnis90/Die Grünen	9	Bayern	228: Landshut	228	13856.0	0.5	189411.0	0.0731530903696195
+Bündnis90/Die Grünen	9	Bayern	229: Passau	229	8393.0	0.4	129191.0	0.06496582579281839
+Bündnis90/Die Grünen	9	Bayern	230: Rottal-Inn	230	6478.0	0.3	122367.0	0.052939109400410245
+Bündnis90/Die Grünen	9	Bayern	231: Straubing	231	5846.0	0.6	127137.0	0.045981893547905016
+Bündnis90/Die Grünen	9	Bayern	232: Amberg	232	11997.0	1.1	166192.0	0.07218759025705208
+Bündnis90/Die Grünen	9	Bayern	233: Regensburg	233	20332.0	1.1	194901.0	0.10431962893982073
+Bündnis90/Die Grünen	9	Bayern	234: Schwandorf	234	7302.0	0.3	159878.0	0.04567232514792529
+Bündnis90/Die Grünen	9	Bayern	235: Weiden	235	6426.0	0.7	128004.0	0.05020155620136871
+Bündnis90/Die Grünen	9	Bayern	236: Bamberg	236	14279.0	0.9	141945.0	0.10059530099686498
+Bündnis90/Die Grünen	9	Bayern	237: Bayreuth	237	9994.0	1.1	124342.0	0.08037509449743449
+Bündnis90/Die Grünen	9	Bayern	238: Coburg	238	8155.0	1.0	120676.0	0.06757764592793927
+Bündnis90/Die Grünen	9	Bayern	239: Hof	239	6989.0	0.2	123640.0	0.05652701391135555
+Bündnis90/Die Grünen	9	Bayern	240: Kulmbach	240	7966.0	0.7	131949.0	0.060371810320654196
+Bündnis90/Die Grünen	9	Bayern	241: Ansbach	241	16239.0	0.5	182014.0	0.08921841177052314
+Bündnis90/Die Grünen	9	Bayern	242: Erlangen	242	19862.0	2.0	144967.0	0.13701049204301669
+Bündnis90/Die Grünen	9	Bayern	243: FÃ¼rth	243	20540.0	1.3	193896.0	0.10593307752609646
+Bündnis90/Die Grünen	9	Bayern	244: NÃ¼rnberg-Nord	244	21909.0	1.8	141534.0	0.15479672728814278
+Bündnis90/Die Grünen	9	Bayern	245: NÃ¼rnberg-SÃ¼d	245	12166.0	1.2	128355.0	0.09478399750691442
+Bündnis90/Die Grünen	9	Bayern	246: Roth	246	18033.0	1.3	181912.0	0.09913034874005014
+Bündnis90/Die Grünen	9	Bayern	247: Aschaffenburg	247	13432.0	0.8	140899.0	0.09533069787578337
+Bündnis90/Die Grünen	9	Bayern	248: Bad Kissingen	248	11359.0	0.3	167556.0	0.06779226049798276
+Bündnis90/Die Grünen	9	Bayern	249: Main-Spessart	249	11939.0	0.6	153427.0	0.0778155083525064
+Bündnis90/Die Grünen	9	Bayern	250: Schweinfurt	250	11717.0	0.5	152680.0	0.07674220592088027
+Bündnis90/Die Grünen	9	Bayern	251: WÃ¼rzburg	251	23719.0	1.4	178076.0	0.1331959388126418
+Bündnis90/Die Grünen	9	Bayern	252: Augsburg-Stadt	252	18782.0	1.8	148474.0	0.12650026267225237
+Bündnis90/Die Grünen	9	Bayern	253: Augsburg-Land	253	17447.0	1.6	195118.0	0.08941768570813559
+Bündnis90/Die Grünen	9	Bayern	254: Donau-Ries	254	10102.0	0.9	145290.0	0.06952990570582972
+Bündnis90/Die Grünen	9	Bayern	255: Neu-Ulm	255	14898.0	1.7	178256.0	0.08357642940490081
+Bündnis90/Die Grünen	9	Bayern	256: OberallgÃ¤u	256	19792.0	2.0	172642.0	0.11464186003405892
+Bündnis90/Die Grünen	9	Bayern	257: OstallgÃ¤u	257	16214.0	1.4	187656.0	0.08640277955407767
+Bündnis90/Die Grünen	10	Saarland	296: SaarbrÃ¼cken	296	11748.0	0.2	141916.0	0.08278136362355196
+Bündnis90/Die Grünen	10	Saarland	297: Saarlouis	297	8598.0	0.2	154810.0	0.055539047865124994
+Bündnis90/Die Grünen	10	Saarland	298: St. Wendel	298	6662.0	0.3	136200.0	0.048913362701908956
+Bündnis90/Die Grünen	10	Saarland	299: Homburg	299	8109.0	0.5	140799.0	0.05759273858479109
+Bündnis90/Die Grünen	11	Berlin	075: Berlin-Mitte	75	25708.0	0.5	143699.0	0.17890173209277727
+Bündnis90/Die Grünen	11	Berlin	076: Berlin-Pankow	76	26651.0	0.2	179167.0	0.14874949069862195
+Bündnis90/Die Grünen	11	Berlin	077: Berlin-Reinickendorf	77	12305.0	0.4	130076.0	0.09459854239060242
+Bündnis90/Die Grünen	11	Berlin	078: Berlin-Spandau â Charlottenburg Nord	78	11063.0	0.2	125812.0	0.08793278860522048
+Bündnis90/Die Grünen	11	Berlin	079: Berlin-Steglitz-Zehlendorf	79	25361.0	0.6	174170.0	0.1456106103232474
+Bündnis90/Die Grünen	11	Berlin	080: Berlin-Charlottenburg-Wilmersdorf	80	24770.0	0.4	152657.0	0.16225918234997413
+Bündnis90/Die Grünen	11	Berlin	081: Berlin-Tempelhof-SchÃ¶neberg	81	27956.0	0.2	173196.0	0.1614125037529735
+Bündnis90/Die Grünen	11	Berlin	082: Berlin-NeukÃ¶lln	82	18446.0	-0.8	135324.0	0.1363098932931335
+Bündnis90/Die Grünen	11	Berlin	083: Berlin-Friedrichshain-Kreuzberg â Prenzlauer Berg Ost	83	35077.0	-0.3	164561.0	0.21315500027345483
+Bündnis90/Die Grünen	11	Berlin	084: Berlin-Treptow-KÃ¶penick	84	12168.0	0.5	149101.0	0.08160911060287993
+Bündnis90/Die Grünen	11	Berlin	085: Berlin-Marzahn-Hellersdorf	85	5621.0	0.2	130856.0	0.04295561533288501
+Bündnis90/Die Grünen	11	Berlin	086: Berlin-Lichtenberg	86	9821.0	0.8	140057.0	0.07012145055227514
+Bündnis90/Die Grünen	12	Brandenburg	056: Prignitz â Ostprignitz-Ruppin â Havelland I	56	4231.0	0.1	114917.0	0.03681787725053735
+Bündnis90/Die Grünen	12	Brandenburg	057: Uckermark â Barnim I	57	5187.0	0.2	123364.0	0.04204630200058364
+Bündnis90/Die Grünen	12	Brandenburg	058: Oberhavel â Havelland II	58	11684.0	0.7	174844.0	0.0668252842533916
+Bündnis90/Die Grünen	12	Brandenburg	059: MÃ¤rkisch-Oderland â Barnim II	59	7800.0	0.5	160075.0	0.048727159144151176
+Bündnis90/Die Grünen	12	Brandenburg	060: Brandenburg an der Havel â Potsdam-Mittelmark I â Havelland III â Teltow-FlÃ¤ming I	60	5238.0	0.4	121331.0	0.04317115988494284
+Bündnis90/Die Grünen	12	Brandenburg	061: Potsdam â Potsdam-Mittelmark II â Teltow-FlÃ¤ming II	61	19079.0	0.7	184308.0	0.10351693903682965
+Bündnis90/Die Grünen	12	Brandenburg	062: Dahme-Spreewald â Teltow-FlÃ¤ming III â Oberspreewald-Lausitz I	62	8617.0	0.1	177224.0	0.04862208278788426
+Bündnis90/Die Grünen	12	Brandenburg	063: Frankfurt (Oder) â Oder-Spree	63	5896.0	0.3	131910.0	0.04469714199075127
+Bündnis90/Die Grünen	12	Brandenburg	064: Cottbus â Spree-NeiÃe	64	4093.0	-0.4	124157.0	0.032966324895092505
+Bündnis90/Die Grünen	12	Brandenburg	065: Elbe-Elster â Oberspreewald-Lausitz II	65	3146.0	-0.1	116843.0	0.02692501904264697
+Bündnis90/Die Grünen	13	Mecklenburg-Vorpommern	012: Schwerin â Ludwigslust-Parchim I â Nordwestmecklenburg I	12	6606.0	-0.2	151692.0	0.04354876987580097
+Bündnis90/Die Grünen	13	Mecklenburg-Vorpommern	013: Ludwigslust-Parchim II â Nordwestmecklenburg II â Landkreis Rostock I	13	5521.0	-0.2	141548.0	0.039004436657529604
+Bündnis90/Die Grünen	13	Mecklenburg-Vorpommern	014: Rostock â Landkreis Rostock II	14	10229.0	-0.2	156884.0	0.0652010402590449
+Bündnis90/Die Grünen	13	Mecklenburg-Vorpommern	015: Vorpommern-RÃ¼gen â Vorpommern-Greifswald I	15	8498.0	0.3	161340.0	0.05267137721581753
+Bündnis90/Die Grünen	13	Mecklenburg-Vorpommern	016: Mecklenburgische Seenplatte I â Vorpommern-Greifswald II	16	4068.0	-0.1	150830.0	0.026970761784790825
+Bündnis90/Die Grünen	13	Mecklenburg-Vorpommern	017: Mecklenburgische Seenplatte II â Landkreis Rostock III	17	4592.0	-0.1	139161.0	0.03299775080661967
+Bündnis90/Die Grünen	14	Sachsen	151: Nordsachsen	151	3021.0	-0.3	113142.0	0.026700959855756483
+Bündnis90/Die Grünen	14	Sachsen	152: Leipzig I	152	11300.0	0.1	151539.0	0.07456826295541082
+Bündnis90/Die Grünen	14	Sachsen	153: Leipzig II	153	18154.0	-0.8	164092.0	0.11063305950320552
+Bündnis90/Die Grünen	14	Sachsen	154: Leipzig-Land	154	5157.0	0.0	154436.0	0.03339247325753063
+Bündnis90/Die Grünen	14	Sachsen	155: MeiÃen	155	5531.0	-0.3	145841.0	0.03792486337861095
+Bündnis90/Die Grünen	14	Sachsen	156: Bautzen I	156	3768.0	-0.4	153814.0	0.024497119898058695
+Bündnis90/Die Grünen	14	Sachsen	157: GÃ¶rlitz	157	4476.0	-0.5	148427.0	0.030156238420233517
+Bündnis90/Die Grünen	14	Sachsen	158: SÃ¤chsische Schweiz-Osterzgebirge	158	4643.0	-0.6	149616.0	0.031032777243075606
+Bündnis90/Die Grünen	14	Sachsen	159: Dresden I	159	13936.0	-0.2	173051.0	0.0805311728912286
+Bündnis90/Die Grünen	14	Sachsen	160: Dresden II â Bautzen II	160	16588.0	-0.6	175481.0	0.09452875240054479
+Bündnis90/Die Grünen	14	Sachsen	161: Mittelsachsen	161	4112.0	-0.5	144364.0	0.02848355545703915
+Bündnis90/Die Grünen	14	Sachsen	162: Chemnitz	162	6818.0	-0.7	139613.0	0.04883499387592846
+Bündnis90/Die Grünen	14	Sachsen	163: Chemnitzer Umland â Erzgebirgskreis II	163	3850.0	-0.4	132807.0	0.028989435797811863
+Bündnis90/Die Grünen	14	Sachsen	164: Erzgebirgskreis I	164	3661.0	-0.3	158840.0	0.023048350541425334
+Bündnis90/Die Grünen	14	Sachsen	165: Zwickau	165	4327.0	-0.3	144192.0	0.030008599644917887
+Bündnis90/Die Grünen	14	Sachsen	166: Vogtlandkreis	166	4266.0	-0.3	136236.0	0.031313309257464984
+Bündnis90/Die Grünen	15	Sachsen-Anhalt	066: Altmark	66	3648.0	0.0	106662.0	0.0342014963154638
+Bündnis90/Die Grünen	15	Sachsen-Anhalt	067: BÃ¶rde â Jerichower Land	67	4236.0	-0.2	143283.0	0.029563870103222294
+Bündnis90/Die Grünen	15	Sachsen-Anhalt	068: Harz	68	4968.0	-0.1	136988.0	0.03626595030221625
+Bündnis90/Die Grünen	15	Sachsen-Anhalt	069: Magdeburg	69	8564.0	-0.3	152026.0	0.05633246944601581
+Bündnis90/Die Grünen	15	Sachsen-Anhalt	070: Dessau â Wittenberg	70	4299.0	-0.4	118117.0	0.03639611571577334
+Bündnis90/Die Grünen	15	Sachsen-Anhalt	071: Anhalt	71	3455.0	-0.2	141138.0	0.02447958735422069
+Bündnis90/Die Grünen	15	Sachsen-Anhalt	072: Halle	72	10457.0	-0.3	143223.0	0.07301201622644407
+Bündnis90/Die Grünen	15	Sachsen-Anhalt	073: Burgenland â Saalekreis	73	3366.0	-0.5	125388.0	0.026844674131495837
+Bündnis90/Die Grünen	15	Sachsen-Anhalt	074: Mansfeld	74	3250.0	-0.4	133599.0	0.024326529390190046
+Bündnis90/Die Grünen	16	ThÃ¼ringen	189: Eichsfeld â Nordhausen â KyffhÃ¤userkreis	189	4778.0	-0.7	153000.0	0.03122875816993464
+Bündnis90/Die Grünen	16	ThÃ¼ringen	190: Eisenach â Wartburgkreis â Unstrut-Hainich-Kreis	190	5596.0	-0.6	157494.0	0.035531512311580124
+Bündnis90/Die Grünen	16	ThÃ¼ringen	191: Jena â SÃ¶mmerda â Weimarer Land I	191	9497.0	-1.1	148869.0	0.06379434267711881
+Bündnis90/Die Grünen	16	ThÃ¼ringen	192: Gotha â Ilm-Kreis	192	5411.0	-0.9	141589.0	0.038216245612300394
+Bündnis90/Die Grünen	16	ThÃ¼ringen	193: Erfurt â Weimar â Weimarer Land II	193	12666.0	-0.9	160228.0	0.07904985395810969
+Bündnis90/Die Grünen	16	ThÃ¼ringen	194: Gera â Greiz â Altenburger Land	194	4709.0	-0.8	170360.0	0.027641465132660248
+Bündnis90/Die Grünen	16	ThÃ¼ringen	195: Saalfeld-Rudolstadt â Saale-Holzland-Kreis â Saale-Orla-Kreis	195	5124.0	-1.0	165449.0	0.030970268783733962
+Bündnis90/Die Grünen	16	ThÃ¼ringen	196: Suhl â Schmalkalden-Meiningen â Hildburghausen â Sonneberg	196	5559.0	-0.5	164622.0	0.03376826912563327
+CDU	1	Schleswig-Holstein	001: Flensburg â Schleswig	1	58320.0	-4.0	167225.0	0.34875168186574973
+CDU	1	Schleswig-Holstein	002: Nordfriesland â Dithmarschen Nord	2	52928.0	-5.0	136092.0	0.3889133821238574
+CDU	1	Schleswig-Holstein	003: Steinburg â Dithmarschen SÃ¼d	3	47366.0	-5.7	128827.0	0.36767137323697674
+CDU	1	Schleswig-Holstein	004: Rendsburg-EckernfÃ¶rde	4	56585.0	-4.6	153692.0	0.36817140775056606
+CDU	1	Schleswig-Holstein	005: Kiel	5	40736.0	-3.5	147878.0	0.2754703201287548
+CDU	1	Schleswig-Holstein	006: PlÃ¶n â NeumÃ¼nster	6	43778.0	-5.2	128575.0	0.34048609760839976
+CDU	1	Schleswig-Holstein	007: Pinneberg	7	63863.0	-6.3	183203.0	0.34859145319672713
+CDU	1	Schleswig-Holstein	008: Segeberg â Stormarn-Mitte	8	66367.0	-6.3	188914.0	0.351308002583186
+CDU	1	Schleswig-Holstein	009: Ostholstein â Stormarn-Nord	9	48898.0	-5.5	135600.0	0.3606047197640118
+CDU	1	Schleswig-Holstein	010: Herzogtum Lauenburg â Stormarn-SÃ¼d	10	66031.0	-6.2	188914.0	0.34952941550123334
+CDU	1	Schleswig-Holstein	011: LÃ¼beck	11	38263.0	-4.8	127203.0	0.30080265402545536
+CDU	2	Hamburg	018: Hamburg-Mitte	18	40909.0	-3.3	169759.0	0.24098280503537367
+CDU	2	Hamburg	019: Hamburg-Altona	19	36139.0	-4.6	142253.0	0.25404736631213404
+CDU	2	Hamburg	020: Hamburg-EimsbÃ¼ttel	20	41826.0	-4.1	152170.0	0.27486363935072616
+CDU	2	Hamburg	021: Hamburg-Nord	21	55737.0	-5.1	174987.0	0.31852080440261277
+CDU	2	Hamburg	022: Hamburg-Wandsbek	22	49482.0	-5.6	167826.0	0.2948410854098888
+CDU	2	Hamburg	023: Hamburg-Bergedorf â Harburg	23	42219.0	-6.4	150858.0	0.2798592053454242
+CDU	3	Niedersachsen	024: Aurich â Emden	24	39552.0	-4.4	139388.0	0.28375469911326656
+CDU	3	Niedersachsen	025: Unterems	25	74173.0	-6.4	172873.0	0.4290606398917124
+CDU	3	Niedersachsen	026: Friesland â Wilhelmshaven â Wittmund	26	45098.0	-5.6	135637.0	0.332490397163016
+CDU	3	Niedersachsen	027: Oldenburg â Ammerland	27	53417.0	-4.6	171103.0	0.3121920714423476
+CDU	3	Niedersachsen	028: Delmenhorst â Wesermarsch â Oldenburg-Land	28	56526.0	-5.5	166400.0	0.33969951923076924
+CDU	3	Niedersachsen	029: Cuxhaven â Stade II	29	54163.0	-5.4	139126.0	0.3893089717234737
+CDU	3	Niedersachsen	030: Stade I â Rotenburg II	30	59229.0	-5.8	150058.0	0.3947073798131389
+CDU	3	Niedersachsen	031: Mittelems	31	88310.0	-6.7	177060.0	0.4987574833389811
+CDU	3	Niedersachsen	032: Cloppenburg â Vechta	32	86301.0	-10.1	161009.0	0.5360010931065965
+CDU	3	Niedersachsen	033: Diepholz â Nienburg I	33	55833.0	-5.6	145121.0	0.3847341184253141
+CDU	3	Niedersachsen	034: Osterholz â Verden	34	53035.0	-5.0	149353.0	0.355098324104638
+CDU	3	Niedersachsen	035: Rotenburg I â Heidekreis	35	47558.0	-5.9	124421.0	0.38223451025148486
+CDU	3	Niedersachsen	036: Harburg	36	57815.0	-6.9	158445.0	0.36489002492978634
+CDU	3	Niedersachsen	037: LÃ¼chow-Dannenberg â LÃ¼neburg	37	43861.0	-5.5	136769.0	0.32069401691903865
+CDU	3	Niedersachsen	038: OsnabrÃ¼ck-Land	38	60737.0	-7.5	148481.0	0.40905570409682046
+CDU	3	Niedersachsen	039: Stadt OsnabrÃ¼ck	39	53977.0	-7.3	148451.0	0.36360145772005575
+CDU	3	Niedersachsen	040: Nienburg II â Schaumburg	40	49896.0	-5.8	143631.0	0.3473901873550974
+CDU	3	Niedersachsen	041: Stadt Hannover I	41	36401.0	-6.3	130413.0	0.27912094653140407
+CDU	3	Niedersachsen	042: Stadt Hannover II	42	36203.0	-5.5	143023.0	0.25312711941435995
+CDU	3	Niedersachsen	043: Hannover-Land I	43	62828.0	-6.4	177535.0	0.35389078209930436
+CDU	3	Niedersachsen	044: Celle â Uelzen	44	58858.0	-7.5	158707.0	0.3708595084022759
+CDU	3	Niedersachsen	045: Gifhorn â Peine	45	56567.0	-6.4	164960.0	0.3429134335596508
+CDU	3	Niedersachsen	046: Hameln-Pyrmont â Holzminden	46	44424.0	-5.4	137003.0	0.32425567323343285
+CDU	3	Niedersachsen	047: Hannover-Land II	47	58984.0	-6.9	183945.0	0.3206610671668162
+CDU	3	Niedersachsen	048: Hildesheim	48	54871.0	-6.1	165520.0	0.3315067665538908
+CDU	3	Niedersachsen	049: Salzgitter â WolfenbÃ¼ttel	49	45985.0	-6.2	152997.0	0.300561448917299
+CDU	3	Niedersachsen	050: Braunschweig	50	42534.0	-5.0	142328.0	0.29884492158956777
+CDU	3	Niedersachsen	051: Helmstedt â Wolfsburg	51	47037.0	-6.5	133800.0	0.35154708520179373
+CDU	3	Niedersachsen	052: Goslar â Northeim â Osterode	52	48131.0	-5.7	147545.0	0.3262123419973567
+CDU	3	Niedersachsen	053: GÃ¶ttingen	53	51177.0	-5.7	166120.0	0.3080724777269444
+CDU	4	Bremen	054: Bremen I	54	48458.0	-4.2	183863.0	0.2635549294855409
+CDU	4	Bremen	055: Bremen II â Bremerhaven	55	34951.0	-4.1	143951.0	0.24279789650645012
+CDU	5	Nordrhein-Westfalen	087: Aachen I	87	38827.0	-8.8	137514.0	0.2823494335122242
+CDU	5	Nordrhein-Westfalen	088: Aachen II	88	52656.0	-10.2	168868.0	0.311817514271502
+CDU	5	Nordrhein-Westfalen	089: Heinsberg	89	55605.0	-9.9	138622.0	0.4011268052690049
+CDU	5	Nordrhein-Westfalen	090: DÃ¼ren	90	52412.0	-9.4	147719.0	0.35480879236929574
+CDU	5	Nordrhein-Westfalen	091: Rhein-Erft-Kreis I	91	63664.0	-8.7	186745.0	0.3409140806982784
+CDU	5	Nordrhein-Westfalen	092: Euskirchen â Rhein-Erft-Kreis II	92	66503.0	-9.3	183028.0	0.36334877723626985
+CDU	5	Nordrhein-Westfalen	093: KÃ¶ln I	93	36565.0	-7.0	135304.0	0.2702433039673624
+CDU	5	Nordrhein-Westfalen	094: KÃ¶ln II	94	56165.0	-7.0	193964.0	0.2895640428120682
+CDU	5	Nordrhein-Westfalen	095: KÃ¶ln III	95	36500.0	-6.2	145768.0	0.2503978925415729
+CDU	5	Nordrhein-Westfalen	096: Bonn	96	53334.0	-6.5	176667.0	0.30188999643396897
+CDU	5	Nordrhein-Westfalen	097: Rhein-Sieg-Kreis I	97	62334.0	-9.3	179691.0	0.3468955039484448
+CDU	5	Nordrhein-Westfalen	098: Rhein-Sieg-Kreis II	98	61425.0	-9.9	170851.0	0.3595237955879685
+CDU	5	Nordrhein-Westfalen	099: Oberbergischer Kreis	99	56567.0	-8.8	152264.0	0.3715060684075028
+CDU	5	Nordrhein-Westfalen	100: Rheinisch-Bergischer Kreis	100	61423.0	-8.1	169962.0	0.36139254656923314
+CDU	5	Nordrhein-Westfalen	101: Leverkusen â KÃ¶ln IV	101	43175.0	-7.5	150474.0	0.28692664513470767
+CDU	5	Nordrhein-Westfalen	102: Wuppertal I	102	39341.0	-6.5	145322.0	0.2707160650142442
+CDU	5	Nordrhein-Westfalen	103: Solingen â Remscheid â Wuppertal II	103	51318.0	-7.4	158842.0	0.32307576081892697
+CDU	5	Nordrhein-Westfalen	104: Mettmann I	104	54126.0	-9.0	156340.0	0.3462069847767686
+CDU	5	Nordrhein-Westfalen	105: Mettmann II	105	40601.0	-8.7	122087.0	0.3325579300007372
+CDU	5	Nordrhein-Westfalen	106: DÃ¼sseldorf I	106	55052.0	-8.3	169246.0	0.32527799770747906
+CDU	5	Nordrhein-Westfalen	107: DÃ¼sseldorf II	107	40606.0	-8.5	139776.0	0.2905076694139194
+CDU	5	Nordrhein-Westfalen	108: Neuss I	108	56983.0	-9.6	155602.0	0.366209945887585
+CDU	5	Nordrhein-Westfalen	109: MÃ¶nchengladbach	109	46786.0	-7.9	128266.0	0.3647576130853071
+CDU	5	Nordrhein-Westfalen	110: Krefeld I â Neuss II	110	54907.0	-9.1	151600.0	0.36218337730870714
+CDU	5	Nordrhein-Westfalen	111: Viersen	111	65475.0	-8.2	169259.0	0.3868331964622265
+CDU	5	Nordrhein-Westfalen	112: Kleve	112	69700.0	-7.0	165611.0	0.42086576374757717
+CDU	5	Nordrhein-Westfalen	113: Wesel I	113	53623.0	-5.6	156622.0	0.34237208055062507
+CDU	5	Nordrhein-Westfalen	114: Krefeld II â Wesel II	114	40955.0	-6.0	130116.0	0.31475760090995725
+CDU	5	Nordrhein-Westfalen	115: Duisburg I	115	30746.0	-4.3	116168.0	0.2646684112664417
+CDU	5	Nordrhein-Westfalen	116: Duisburg II	116	22830.0	-4.1	97605.0	0.2339019517442754
+CDU	5	Nordrhein-Westfalen	117: Oberhausen â Wesel III	117	39085.0	-3.8	145719.0	0.2682217143955147
+CDU	5	Nordrhein-Westfalen	118: MÃ¼lheim â Essen I	118	39847.0	-5.7	138935.0	0.28680318134379384
+CDU	5	Nordrhein-Westfalen	119: Essen II	119	25606.0	-5.0	106358.0	0.24075292878767934
+CDU	5	Nordrhein-Westfalen	120: Essen III	120	45826.0	-6.2	149581.0	0.3063624390798297
+CDU	5	Nordrhein-Westfalen	121: Recklinghausen I	121	35108.0	-5.3	120260.0	0.2919341426908365
+CDU	5	Nordrhein-Westfalen	122: Recklinghausen II	122	41079.0	-5.2	136511.0	0.3009208049168199
+CDU	5	Nordrhein-Westfalen	123: Gelsenkirchen	123	26452.0	-5.3	114202.0	0.2316246650671617
+CDU	5	Nordrhein-Westfalen	124: Steinfurt I â Borken I	124	67425.0	-5.9	151846.0	0.44403540429118976
+CDU	5	Nordrhein-Westfalen	125: Bottrop â Recklinghausen III	125	44967.0	-5.0	147046.0	0.3058022659575915
+CDU	5	Nordrhein-Westfalen	126: Borken II	126	73881.0	-6.4	155566.0	0.4749173984032501
+CDU	5	Nordrhein-Westfalen	127: Coesfeld â Steinfurt II	127	68636.0	-6.1	154239.0	0.44499769837719383
+CDU	5	Nordrhein-Westfalen	128: Steinfurt III	128	57215.0	-5.5	149700.0	0.3821977287909152
+CDU	5	Nordrhein-Westfalen	129: MÃ¼nster	129	62276.0	-5.1	187920.0	0.3313963388676032
+CDU	5	Nordrhein-Westfalen	130: Warendorf	130	65357.0	-6.8	160036.0	0.40838936239346146
+CDU	5	Nordrhein-Westfalen	131: GÃ¼tersloh I	131	67175.0	-7.9	172709.0	0.3889490414512272
+CDU	5	Nordrhein-Westfalen	132: Bielefeld â GÃ¼tersloh II	132	50995.0	-7.7	181140.0	0.28152257922049245
+CDU	5	Nordrhein-Westfalen	133: Herford â Minden-LÃ¼bbecke II	133	52994.0	-7.6	164612.0	0.3219327874031055
+CDU	5	Nordrhein-Westfalen	134: Minden-LÃ¼bbecke I	134	49160.0	-8.2	147656.0	0.3329360134366365
+CDU	5	Nordrhein-Westfalen	135: Lippe I	135	40214.0	-7.7	125826.0	0.31960008265382356
+CDU	5	Nordrhein-Westfalen	136: HÃ¶xter â Lippe II	136	58939.0	-8.5	156266.0	0.37717097769188435
+CDU	5	Nordrhein-Westfalen	137: Paderborn â GÃ¼tersloh III	137	75628.0	-10.6	183356.0	0.4124653679181483
+CDU	5	Nordrhein-Westfalen	138: Hagen â Ennepe-Ruhr-Kreis I	138	42972.0	-6.4	145557.0	0.29522455120674373
+CDU	5	Nordrhein-Westfalen	139: Ennepe-Ruhr-Kreis II	139	37284.0	-5.7	133832.0	0.2785880805786359
+CDU	5	Nordrhein-Westfalen	140: Bochum I	140	39580.0	-5.1	152175.0	0.26009528503367835
+CDU	5	Nordrhein-Westfalen	141: Herne â Bochum II	141	29629.0	-4.7	123123.0	0.24064553332846017
+CDU	5	Nordrhein-Westfalen	142: Dortmund I	142	37967.0	-4.5	151574.0	0.2504849116603111
+CDU	5	Nordrhein-Westfalen	143: Dortmund II	143	34822.0	-4.7	139104.0	0.25033068783068785
+CDU	5	Nordrhein-Westfalen	144: Unna I	144	40697.0	-4.7	146716.0	0.2773862428092369
+CDU	5	Nordrhein-Westfalen	145: Hamm â Unna II	145	51475.0	-6.5	166139.0	0.30983092470762436
+CDU	5	Nordrhein-Westfalen	146: Soest	146	62764.0	-8.5	170707.0	0.3676709215205
+CDU	5	Nordrhein-Westfalen	147: Hochsauerlandkreis	147	63651.0	-8.0	150962.0	0.4216359083742929
+CDU	5	Nordrhein-Westfalen	148: Siegen-Wittgenstein	148	54648.0	-7.6	158559.0	0.3446540404518192
+CDU	5	Nordrhein-Westfalen	149: Olpe â MÃ¤rkischer Kreis I	149	61394.0	-7.4	149098.0	0.4117694402339401
+CDU	5	Nordrhein-Westfalen	150: MÃ¤rkischer Kreis II	150	49061.0	-7.5	141456.0	0.34682869584888587
+CDU	6	Hessen	167: Waldeck	167	42232.0	-6.5	138727.0	0.3044252380574798
+CDU	6	Hessen	168: Kassel	168	41736.0	-5.7	162467.0	0.256889091323161
+CDU	6	Hessen	169: Werra-MeiÃner â Hersfeld-Rotenburg	169	38531.0	-6.6	129309.0	0.2979761656187891
+CDU	6	Hessen	170: Schwalm-Eder	170	41795.0	-6.4	141090.0	0.29622935714791976
+CDU	6	Hessen	171: Marburg	171	42377.0	-6.6	138611.0	0.30572609677442625
+CDU	6	Hessen	172: Lahn-Dill	172	51125.0	-8.3	150144.0	0.340506447144075
+CDU	6	Hessen	173: GieÃen	173	49518.0	-8.5	161445.0	0.30671745795781846
+CDU	6	Hessen	174: Fulda	174	61811.0	-12.2	156200.0	0.39571702944942383
+CDU	6	Hessen	175: Main-Kinzig â Wetterau II â Schotten	175	43147.0	-9.5	133448.0	0.3233244409807565
+CDU	6	Hessen	176: Hochtaunus	176	48436.0	-9.5	141954.0	0.34120912408244924
+CDU	6	Hessen	177: Wetterau I	177	43951.0	-8.9	134615.0	0.3264940756973591
+CDU	6	Hessen	178: Rheingau-Taunus â Limburg	178	59346.0	-10.9	168651.0	0.3518864400448263
+CDU	6	Hessen	179: Wiesbaden	179	40022.0	-9.7	135843.0	0.29461952400933433
+CDU	6	Hessen	180: Hanau	180	39126.0	-9.7	128993.0	0.3033187847402572
+CDU	6	Hessen	181: Main-Taunus	181	54902.0	-9.3	156333.0	0.3511862498640722
+CDU	6	Hessen	182: Frankfurt am Main I	182	37221.0	-7.5	140601.0	0.26472784688586853
+CDU	6	Hessen	183: Frankfurt am Main II	183	45731.0	-7.1	167761.0	0.27259613378556397
+CDU	6	Hessen	184: GroÃ-Gerau	184	39950.0	-6.2	128583.0	0.31069425973884573
+CDU	6	Hessen	185: Offenbach	185	49302.0	-8.3	158341.0	0.31136597596326915
+CDU	6	Hessen	186: Darmstadt	186	52218.0	-7.5	186727.0	0.27964889919508157
+CDU	6	Hessen	187: Odenwald	187	59635.0	-8.1	178579.0	0.3339418408659473
+CDU	6	Hessen	188: BergstraÃe	188	51088.0	-9.3	151260.0	0.3377495702763454
+CDU	7	Rheinland-Pfalz	197: Neuwied	197	68357.0	-7.4	176872.0	0.38647722646885885
+CDU	7	Rheinland-Pfalz	198: Ahrweiler	198	60937.0	-8.2	148038.0	0.41163079749793974
+CDU	7	Rheinland-Pfalz	199: Koblenz	199	56616.0	-7.2	147302.0	0.3843532334930958
+CDU	7	Rheinland-Pfalz	200: Mosel/Rhein-HunsrÃ¼ck	200	55606.0	-7.8	131956.0	0.4213980417714996
+CDU	7	Rheinland-Pfalz	201: Kreuznach	201	47189.0	-6.9	136355.0	0.3460745847236992
+CDU	7	Rheinland-Pfalz	202: Bitburg	202	55591.0	-7.7	123672.0	0.44950352545442784
+CDU	7	Rheinland-Pfalz	203: Trier	203	55882.0	-6.7	147685.0	0.37838643057859633
+CDU	7	Rheinland-Pfalz	204: Montabaur	204	60594.0	-7.8	159526.0	0.3798377693918233
+CDU	7	Rheinland-Pfalz	205: Mainz	205	65713.0	-5.7	197400.0	0.33289260385005065
+CDU	7	Rheinland-Pfalz	206: Worms	206	54721.0	-6.8	165209.0	0.33122287526708594
+CDU	7	Rheinland-Pfalz	207: Ludwigshafen/Frankenthal	207	49226.0	-8.1	156820.0	0.31390128810100754
+CDU	7	Rheinland-Pfalz	208: Neustadt â Speyer	208	61407.0	-8.4	171994.0	0.3570298963917346
+CDU	7	Rheinland-Pfalz	209: Kaiserslautern	209	49400.0	-6.8	166693.0	0.2963531761981607
+CDU	7	Rheinland-Pfalz	210: Pirmasens	210	47455.0	-7.9	130529.0	0.36355905584199677
+CDU	7	Rheinland-Pfalz	211: SÃ¼dpfalz	211	59309.0	-7.9	167790.0	0.35347160140652006
+CDU	8	Baden-WÃ¼rttemberg	258: Stuttgart I	258	46243.0	-8.6	156669.0	0.29516368905143964
+CDU	8	Baden-WÃ¼rttemberg	259: Stuttgart II	259	40109.0	-10.3	135016.0	0.29706849558570836
+CDU	8	Baden-WÃ¼rttemberg	260: BÃ¶blingen	260	68991.0	-11.4	191782.0	0.35973657590389085
+CDU	8	Baden-WÃ¼rttemberg	261: Esslingen	261	44748.0	-11.5	132175.0	0.33855116323056555
+CDU	8	Baden-WÃ¼rttemberg	262: NÃ¼rtingen	262	56105.0	-12.3	164015.0	0.3420723714294424
+CDU	8	Baden-WÃ¼rttemberg	263: GÃ¶ppingen	263	45290.0	-12.5	133795.0	0.3385029335924362
+CDU	8	Baden-WÃ¼rttemberg	264: Waiblingen	264	58372.0	-12.6	174351.0	0.33479590022426026
+CDU	8	Baden-WÃ¼rttemberg	265: Ludwigsburg	265	58003.0	-10.8	171056.0	0.33908778411748197
+CDU	8	Baden-WÃ¼rttemberg	266: Neckar-Zaber	266	60898.0	-12.3	182015.0	0.33457682059170946
+CDU	8	Baden-WÃ¼rttemberg	267: Heilbronn	267	58755.0	-13.7	179760.0	0.3268524699599466
+CDU	8	Baden-WÃ¼rttemberg	268: SchwÃ¤bisch Hall â Hohenlohe	268	58215.0	-12.3	167089.0	0.34840713631657383
+CDU	8	Baden-WÃ¼rttemberg	269: Backnang â SchwÃ¤bisch GmÃ¼nd	269	47588.0	-13.2	133138.0	0.3574336402830146
+CDU	8	Baden-WÃ¼rttemberg	270: Aalen â Heidenheim	270	64217.0	-11.2	165758.0	0.38741418212092327
+CDU	8	Baden-WÃ¼rttemberg	271: Karlsruhe-Stadt	271	44776.0	-9.7	156634.0	0.28586386097526717
+CDU	8	Baden-WÃ¼rttemberg	272: Karlsruhe-Land	272	59137.0	-11.3	163951.0	0.36069923330751263
+CDU	8	Baden-WÃ¼rttemberg	273: Rastatt	273	58798.0	-11.3	152766.0	0.38488930783027636
+CDU	8	Baden-WÃ¼rttemberg	274: Heidelberg	274	53138.0	-7.6	174300.0	0.3048651749856569
+CDU	8	Baden-WÃ¼rttemberg	275: Mannheim	275	38746.0	-7.9	139045.0	0.2786579884210148
+CDU	8	Baden-WÃ¼rttemberg	276: Odenwald â Tauber	276	64208.0	-12.1	158730.0	0.4045108045108045
+CDU	8	Baden-WÃ¼rttemberg	277: Rhein-Neckar	277	51797.0	-10.3	151760.0	0.3413086452293094
+CDU	8	Baden-WÃ¼rttemberg	278: Bruchsal â Schwetzingen	278	53147.0	-11.8	149894.0	0.3545638918168839
+CDU	8	Baden-WÃ¼rttemberg	279: Pforzheim	279	54364.0	-12.4	163252.0	0.33300664004116337
+CDU	8	Baden-WÃ¼rttemberg	280: Calw	280	56330.0	-14.0	149446.0	0.3769254446422119
+CDU	8	Baden-WÃ¼rttemberg	281: Freiburg	281	50423.0	-7.3	175179.0	0.28783701242728865
+CDU	8	Baden-WÃ¼rttemberg	282: LÃ¶rrach â MÃ¼llheim	282	60513.0	-9.3	172283.0	0.3512418520689795
+CDU	8	Baden-WÃ¼rttemberg	283: Emmendingen â Lahr	283	59784.0	-9.9	164147.0	0.3642101287260809
+CDU	8	Baden-WÃ¼rttemberg	284: Offenburg	284	57033.0	-11.2	150984.0	0.3777420123986648
+CDU	8	Baden-WÃ¼rttemberg	285: Rottweil â Tuttlingen	285	57060.0	-13.7	147257.0	0.3874858241034382
+CDU	8	Baden-WÃ¼rttemberg	286: Schwarzwald-Baar	286	46812.0	-11.5	121822.0	0.38426556779563625
+CDU	8	Baden-WÃ¼rttemberg	287: Konstanz	287	52194.0	-10.4	154179.0	0.3385285933882046
+CDU	8	Baden-WÃ¼rttemberg	288: Waldshut	288	53066.0	-10.0	132990.0	0.39902248289345066
+CDU	8	Baden-WÃ¼rttemberg	289: Reutlingen	289	53873.0	-11.7	153545.0	0.35086131101631446
+CDU	8	Baden-WÃ¼rttemberg	290: TÃ¼bingen	290	48828.0	-10.9	155479.0	0.3140488426089697
+CDU	8	Baden-WÃ¼rttemberg	291: Ulm	291	64988.0	-11.6	172730.0	0.3762403751519713
+CDU	8	Baden-WÃ¼rttemberg	292: Biberach	292	56162.0	-13.2	128335.0	0.437620290645576
+CDU	8	Baden-WÃ¼rttemberg	293: Bodensee	293	50428.0	-11.6	133629.0	0.3773731749844719
+CDU	8	Baden-WÃ¼rttemberg	294: Ravensburg	294	56264.0	-11.1	142410.0	0.39508461484446317
+CDU	8	Baden-WÃ¼rttemberg	295: Zollernalb â Sigmaringen	295	52284.0	-14.8	135657.0	0.38541321126075323
+CDU	10	Saarland	296: SaarbrÃ¼cken	296	41394.0	-4.9	141916.0	0.29167958510668285
+CDU	10	Saarland	297: Saarlouis	297	52981.0	-6.4	154810.0	0.3422324139267489
+CDU	10	Saarland	298: St. Wendel	298	50660.0	-4.4	136200.0	0.37195301027900146
+CDU	10	Saarland	299: Homburg	299	44538.0	-5.6	140799.0	0.3163232693414016
+CDU	11	Berlin	075: Berlin-Mitte	75	27861.0	-4.0	143699.0	0.1938844390009673
+CDU	11	Berlin	076: Berlin-Pankow	76	36994.0	-3.7	179167.0	0.20647775539022253
+CDU	11	Berlin	077: Berlin-Reinickendorf	77	41912.0	-9.1	130076.0	0.32221163012392756
+CDU	11	Berlin	078: Berlin-Spandau â Charlottenburg Nord	78	36712.0	-8.5	125812.0	0.2918004641846565
+CDU	11	Berlin	079: Berlin-Steglitz-Zehlendorf	79	53281.0	-7.4	174170.0	0.3059137624160303
+CDU	11	Berlin	080: Berlin-Charlottenburg-Wilmersdorf	80	40085.0	-6.9	152657.0	0.2625821285627256
+CDU	11	Berlin	081: Berlin-Tempelhof-SchÃ¶neberg	81	44721.0	-6.7	173196.0	0.25821035127832054
+CDU	11	Berlin	082: Berlin-NeukÃ¶lln	82	31592.0	-6.7	135324.0	0.23345452395731725
+CDU	11	Berlin	083: Berlin-Friedrichshain-Kreuzberg â Prenzlauer Berg Ost	83	23887.0	-1.5	164561.0	0.14515589963600123
+CDU	11	Berlin	084: Berlin-Treptow-KÃ¶penick	84	31372.0	-5.2	149101.0	0.21040771020985774
+CDU	11	Berlin	085: Berlin-Marzahn-Hellersdorf	85	28620.0	-5.1	130856.0	0.21871370055633674
+CDU	11	Berlin	086: Berlin-Lichtenberg	86	27284.0	-4.5	140057.0	0.19480640025132626
+CDU	12	Brandenburg	056: Prignitz â Ostprignitz-Ruppin â Havelland I	56	35215.0	-6.3	114917.0	0.3064385600041769
+CDU	12	Brandenburg	057: Uckermark â Barnim I	57	36160.0	-8.0	123364.0	0.29311630621575174
+CDU	12	Brandenburg	058: Oberhavel â Havelland II	58	51968.0	-8.0	174844.0	0.29722495481686534
+CDU	12	Brandenburg	059: MÃ¤rkisch-Oderland â Barnim II	59	42113.0	-7.0	160075.0	0.26308292987662035
+CDU	12	Brandenburg	060: Brandenburg an der Havel â Potsdam-Mittelmark I â Havelland III â Teltow-FlÃ¤ming I	60	35556.0	-5.9	121331.0	0.2930495916130255
+CDU	12	Brandenburg	061: Potsdam â Potsdam-Mittelmark II â Teltow-FlÃ¤ming II	61	48015.0	-6.3	184308.0	0.26051500748746664
+CDU	12	Brandenburg	062: Dahme-Spreewald â Teltow-FlÃ¤ming III â Oberspreewald-Lausitz I	62	49982.0	-8.0	177224.0	0.28202726493025776
+CDU	12	Brandenburg	063: Frankfurt (Oder) â Oder-Spree	63	33888.0	-8.8	131910.0	0.25690243347737096
+CDU	12	Brandenburg	064: Cottbus â Spree-NeiÃe	64	31366.0	-11.6	124157.0	0.2526317485119647
+CDU	12	Brandenburg	065: Elbe-Elster â Oberspreewald-Lausitz II	65	33576.0	-11.8	116843.0	0.28735996165795125
+CDU	13	Mecklenburg-Vorpommern	012: Schwerin â Ludwigslust-Parchim I â Nordwestmecklenburg I	12	51083.0	-7.5	151692.0	0.3367547398676265
+CDU	13	Mecklenburg-Vorpommern	013: Ludwigslust-Parchim II â Nordwestmecklenburg II â Landkreis Rostock I	13	48841.0	-8.4	141548.0	0.3450490293045469
+CDU	13	Mecklenburg-Vorpommern	014: Rostock â Landkreis Rostock II	14	49433.0	-7.5	156884.0	0.3150926799418679
+CDU	13	Mecklenburg-Vorpommern	015: Vorpommern-RÃ¼gen â Vorpommern-Greifswald I	15	55110.0	-12.0	161340.0	0.341576794347341
+CDU	13	Mecklenburg-Vorpommern	016: Mecklenburgische Seenplatte I â Vorpommern-Greifswald II	16	51789.0	-11.5	150830.0	0.34336007425578463
+CDU	13	Mecklenburg-Vorpommern	017: Mecklenburgische Seenplatte II â Landkreis Rostock III	17	51007.0	-9.3	139161.0	0.3665322899375543
+CDU	14	Sachsen	151: Nordsachsen	151	34321.0	-15.5	113142.0	0.3033444697813367
+CDU	14	Sachsen	152: Leipzig I	152	37622.0	-13.4	151539.0	0.2482661229122536
+CDU	14	Sachsen	153: Leipzig II	153	38111.0	-10.6	164092.0	0.2322538575920825
+CDU	14	Sachsen	154: Leipzig-Land	154	47944.0	-15.7	154436.0	0.31044575099070165
+CDU	14	Sachsen	155: MeiÃen	155	39406.0	-19.0	145841.0	0.2701983667144356
+CDU	14	Sachsen	156: Bautzen I	156	42995.0	-18.5	153814.0	0.27952592091747175
+CDU	14	Sachsen	157: GÃ¶rlitz	157	41000.0	-17.4	148427.0	0.27623006595834987
+CDU	14	Sachsen	158: SÃ¤chsische Schweiz-Osterzgebirge	158	39581.0	-20.3	149616.0	0.26455058282536625
+CDU	14	Sachsen	159: Dresden I	159	44104.0	-15.5	173051.0	0.25486128366782046
+CDU	14	Sachsen	160: Dresden II â Bautzen II	160	42792.0	-15.5	175481.0	0.2438554601352853
+CDU	14	Sachsen	161: Mittelsachsen	161	41189.0	-17.7	144364.0	0.28531351306419883
+CDU	14	Sachsen	162: Chemnitz	162	36270.0	-14.1	139613.0	0.2597895611440195
+CDU	14	Sachsen	163: Chemnitzer Umland â Erzgebirgskreis II	163	41947.0	-14.7	132807.0	0.31584931517164005
+CDU	14	Sachsen	164: Erzgebirgskreis I	164	50759.0	-15.1	158840.0	0.31956056408964995
+CDU	14	Sachsen	165: Zwickau	165	45106.0	-14.1	144192.0	0.31281901908566356
+CDU	14	Sachsen	166: Vogtlandkreis	166	42604.0	-14.0	136236.0	0.3127220411638627
+CDU	15	Sachsen-Anhalt	066: Altmark	66	36022.0	-9.3	106662.0	0.33772102529485665
+CDU	15	Sachsen-Anhalt	067: BÃ¶rde â Jerichower Land	67	47566.0	-11.1	143283.0	0.33197239030450226
+CDU	15	Sachsen-Anhalt	068: Harz	68	47574.0	-9.9	136988.0	0.3472858936549187
+CDU	15	Sachsen-Anhalt	069: Magdeburg	69	44616.0	-9.7	152026.0	0.2934761159275387
+CDU	15	Sachsen-Anhalt	070: Dessau â Wittenberg	70	38751.0	-10.7	118117.0	0.3280730123521593
+CDU	15	Sachsen-Anhalt	071: Anhalt	71	44620.0	-10.9	141138.0	0.3161444827048704
+CDU	15	Sachsen-Anhalt	072: Halle	72	39833.0	-11.2	143223.0	0.2781187379122068
+CDU	15	Sachsen-Anhalt	073: Burgenland â Saalekreis	73	38678.0	-12.9	125388.0	0.3084665199221616
+CDU	15	Sachsen-Anhalt	074: Mansfeld	74	39751.0	-12.4	133599.0	0.297539652242906
+CDU	16	ThÃ¼ringen	189: Eichsfeld â Nordhausen â KyffhÃ¤userkreis	189	52667.0	-9.7	153000.0	0.34422875816993465
+CDU	16	ThÃ¼ringen	190: Eisenach â Wartburgkreis â Unstrut-Hainich-Kreis	190	48340.0	-10.1	157494.0	0.30693232758073324
+CDU	16	ThÃ¼ringen	191: Jena â SÃ¶mmerda â Weimarer Land I	191	42092.0	-8.5	148869.0	0.28274523238552013
+CDU	16	ThÃ¼ringen	192: Gotha â Ilm-Kreis	192	40576.0	-10.4	141589.0	0.28657593457118846
+CDU	16	ThÃ¼ringen	193: Erfurt â Weimar â Weimarer Land II	193	42168.0	-9.1	160228.0	0.26317497565968495
+CDU	16	ThÃ¼ringen	194: Gera â Greiz â Altenburger Land	194	47690.0	-12.5	170360.0	0.27993660483681615
+CDU	16	ThÃ¼ringen	195: Saalfeld-Rudolstadt â Saale-Holzland-Kreis â Saale-Orla-Kreis	195	47769.0	-10.1	165449.0	0.28872341325725753
+CDU	16	ThÃ¼ringen	196: Suhl â Schmalkalden-Meiningen â Hildburghausen â Sonneberg	196	50956.0	-9.1	164622.0	0.3095333552016134
+CSU	9	Bayern	212: AltÃ¶tting	212	55417.0	-14.6	124253.0	0.44600130379145775
+CSU	9	Bayern	213: Erding â Ebersberg	213	63525.0	-12.0	160213.0	0.3965034048423037
+CSU	9	Bayern	214: Freising	214	73650.0	-12.1	182702.0	0.4031154557695044
+CSU	9	Bayern	215: FÃ¼rstenfeldbruck	215	75621.0	-11.1	187059.0	0.40426282616714515
+CSU	9	Bayern	216: Ingolstadt	216	76236.0	-13.9	180250.0	0.4229459084604716
+CSU	9	Bayern	217: MÃ¼nchen-Nord	217	49953.0	-8.0	170233.0	0.2934389924397737
+CSU	9	Bayern	218: MÃ¼nchen-Ost	218	58483.0	-8.1	182831.0	0.31987463832719837
+CSU	9	Bayern	219: MÃ¼nchen-SÃ¼d	219	50686.0	-8.0	166394.0	0.30461434907508683
+CSU	9	Bayern	220: MÃ¼nchen-West/Mitte	220	57322.0	-7.2	188762.0	0.3036734088428815
+CSU	9	Bayern	221: MÃ¼nchen-Land	221	73189.0	-9.8	193530.0	0.37817909368056635
+CSU	9	Bayern	222: Rosenheim	222	75178.0	-13.6	182834.0	0.41118172768741046
+CSU	9	Bayern	223: Bad TÃ¶lz-Wolfratshausen â Miesbach	223	54786.0	-12.3	130108.0	0.4210809481353952
+CSU	9	Bayern	224: Starnberg â Landsberg am Lech	224	67512.0	-10.4	173656.0	0.3887685999907864
+CSU	9	Bayern	225: Traunstein	225	71196.0	-12.6	157572.0	0.45183154367527223
+CSU	9	Bayern	226: Weilheim	226	57254.0	-9.9	131724.0	0.4346512404725031
+CSU	9	Bayern	227: Deggendorf	227	48182.0	-15.6	117808.0	0.4089875050930327
+CSU	9	Bayern	228: Landshut	228	75521.0	-14.5	189411.0	0.39871496375606486
+CSU	9	Bayern	229: Passau	229	52937.0	-13.4	129191.0	0.4097576456564312
+CSU	9	Bayern	230: Rottal-Inn	230	52752.0	-16.1	122367.0	0.4310966191865454
+CSU	9	Bayern	231: Straubing	231	53712.0	-15.9	127137.0	0.42247339484178487
+CSU	9	Bayern	232: Amberg	232	71720.0	-10.8	166192.0	0.43154905169923946
+CSU	9	Bayern	233: Regensburg	233	74720.0	-10.6	194901.0	0.3833741232728411
+CSU	9	Bayern	234: Schwandorf	234	66827.0	-13.3	159878.0	0.41798746544239984
+CSU	9	Bayern	235: Weiden	235	55691.0	-9.7	128004.0	0.43507234148932844
+CSU	9	Bayern	236: Bamberg	236	56138.0	-10.0	141945.0	0.39549121138469123
+CSU	9	Bayern	237: Bayreuth	237	53063.0	-7.6	124342.0	0.4267504141802448
+CSU	9	Bayern	238: Coburg	238	48410.0	-7.1	120676.0	0.401156816599821
+CSU	9	Bayern	239: Hof	239	48772.0	-8.1	123640.0	0.3944678097703009
+CSU	9	Bayern	240: Kulmbach	240	58112.0	-8.9	131949.0	0.44041258364974345
+CSU	9	Bayern	241: Ansbach	241	74425.0	-7.3	182014.0	0.40889711780412497
+CSU	9	Bayern	242: Erlangen	242	52414.0	-6.1	144967.0	0.36155814771637684
+CSU	9	Bayern	243: FÃ¼rth	243	69472.0	-7.6	193896.0	0.3582951685439617
+CSU	9	Bayern	244: NÃ¼rnberg-Nord	244	40106.0	-7.1	141534.0	0.2833665409018328
+CSU	9	Bayern	245: NÃ¼rnberg-SÃ¼d	245	40882.0	-9.3	128355.0	0.31850726500720655
+CSU	9	Bayern	246: Roth	246	69743.0	-7.7	181912.0	0.3833886714455341
+CSU	9	Bayern	247: Aschaffenburg	247	55009.0	-9.4	140899.0	0.3904144103222876
+CSU	9	Bayern	248: Bad Kissingen	248	75788.0	-9.3	167556.0	0.4523144500942968
+CSU	9	Bayern	249: Main-Spessart	249	65245.0	-7.6	153427.0	0.42525109661272137
+CSU	9	Bayern	250: Schweinfurt	250	63674.0	-9.9	152680.0	0.417042179722295
+CSU	9	Bayern	251: WÃ¼rzburg	251	67585.0	-7.7	178076.0	0.37952896516094253
+CSU	9	Bayern	252: Augsburg-Stadt	252	48420.0	-11.8	148474.0	0.32611770410981045
+CSU	9	Bayern	253: Augsburg-Land	253	81831.0	-12.3	195118.0	0.41939236769544586
+CSU	9	Bayern	254: Donau-Ries	254	63638.0	-12.2	145290.0	0.4380067451304288
+CSU	9	Bayern	255: Neu-Ulm	255	72104.0	-12.9	178256.0	0.4044969033300422
+CSU	9	Bayern	256: OberallgÃ¤u	256	72855.0	-10.8	172642.0	0.42200044021732835
+CSU	9	Bayern	257: OstallgÃ¤u	257	79932.0	-13.1	187656.0	0.4259496099245428
+Die Linke	1	Schleswig-Holstein	001: Flensburg â Schleswig	1	14002.0	2.6	167225.0	0.08373149947675287
+Die Linke	1	Schleswig-Holstein	002: Nordfriesland â Dithmarschen Nord	2	8589.0	1.8	136092.0	0.06311171854333833
+Die Linke	1	Schleswig-Holstein	003: Steinburg â Dithmarschen SÃ¼d	3	8732.0	1.6	128827.0	0.06778082234314235
+Die Linke	1	Schleswig-Holstein	004: Rendsburg-EckernfÃ¶rde	4	9962.0	2.0	153692.0	0.06481794758347864
+Die Linke	1	Schleswig-Holstein	005: Kiel	5	15546.0	3.3	147878.0	0.10512719944819378
+Die Linke	1	Schleswig-Holstein	006: PlÃ¶n â NeumÃ¼nster	6	8503.0	1.7	128575.0	0.06613260742757146
+Die Linke	1	Schleswig-Holstein	007: Pinneberg	7	13111.0	2.0	183203.0	0.07156542196361414
+Die Linke	1	Schleswig-Holstein	008: Segeberg â Stormarn-Mitte	8	13237.0	1.9	188914.0	0.07006892024942567
+Die Linke	1	Schleswig-Holstein	009: Ostholstein â Stormarn-Nord	9	8303.0	1.7	135600.0	0.06123156342182891
+Die Linke	1	Schleswig-Holstein	010: Herzogtum Lauenburg â Stormarn-SÃ¼d	10	12480.0	1.6	188914.0	0.06606180590109785
+Die Linke	1	Schleswig-Holstein	011: LÃ¼beck	11	12213.0	2.9	127203.0	0.09601188651211057
+Die Linke	2	Hamburg	018: Hamburg-Mitte	18	26109.0	3.9	169759.0	0.15380038760831533
+Die Linke	2	Hamburg	019: Hamburg-Altona	19	22766.0	4.9	142253.0	0.16003880410254967
+Die Linke	2	Hamburg	020: Hamburg-EimsbÃ¼ttel	20	19290.0	3.9	152170.0	0.12676611684300454
+Die Linke	2	Hamburg	021: Hamburg-Nord	21	16720.0	2.9	174987.0	0.09554995513952465
+Die Linke	2	Hamburg	022: Hamburg-Wandsbek	22	16847.0	2.1	167826.0	0.10038373076877243
+Die Linke	2	Hamburg	023: Hamburg-Bergedorf â Harburg	23	17344.0	2.8	150858.0	0.11496904373649393
+Die Linke	3	Niedersachsen	024: Aurich â Emden	24	10142.0	2.2	139388.0	0.0727609263351221
+Die Linke	3	Niedersachsen	025: Unterems	25	9459.0	1.3	172873.0	0.0547164681587061
+Die Linke	3	Niedersachsen	026: Friesland â Wilhelmshaven â Wittmund	26	9738.0	1.9	135637.0	0.07179456932842808
+Die Linke	3	Niedersachsen	027: Oldenburg â Ammerland	27	16351.0	2.9	171103.0	0.09556232211007405
+Die Linke	3	Niedersachsen	028: Delmenhorst â Wesermarsch â Oldenburg-Land	28	11567.0	1.4	166400.0	0.06951322115384616
+Die Linke	3	Niedersachsen	029: Cuxhaven â Stade II	29	9121.0	1.9	139126.0	0.06555927720196081
+Die Linke	3	Niedersachsen	030: Stade I â Rotenburg II	30	9564.0	2.1	150058.0	0.06373535566247718
+Die Linke	3	Niedersachsen	031: Mittelems	31	8167.0	1.5	177060.0	0.046125607138823
+Die Linke	3	Niedersachsen	032: Cloppenburg â Vechta	32	7145.0	1.6	161009.0	0.044376401319180914
+Die Linke	3	Niedersachsen	033: Diepholz â Nienburg I	33	8951.0	1.6	145121.0	0.06167956395008303
+Die Linke	3	Niedersachsen	034: Osterholz â Verden	34	11055.0	1.7	149353.0	0.07401926978366688
+Die Linke	3	Niedersachsen	035: Rotenburg I â Heidekreis	35	7422.0	1.3	124421.0	0.05965230949759285
+Die Linke	3	Niedersachsen	036: Harburg	36	10117.0	1.9	158445.0	0.06385180977626306
+Die Linke	3	Niedersachsen	037: LÃ¼chow-Dannenberg â LÃ¼neburg	37	12705.0	2.1	136769.0	0.09289385752619381
+Die Linke	3	Niedersachsen	038: OsnabrÃ¼ck-Land	38	9156.0	2.1	148481.0	0.06166445538486406
+Die Linke	3	Niedersachsen	039: Stadt OsnabrÃ¼ck	39	12759.0	3.3	148451.0	0.0859475517174017
+Die Linke	3	Niedersachsen	040: Nienburg II â Schaumburg	40	8289.0	1.4	143631.0	0.05771038285606868
+Die Linke	3	Niedersachsen	041: Stadt Hannover I	41	12470.0	3.1	130413.0	0.09561930175672671
+Die Linke	3	Niedersachsen	042: Stadt Hannover II	42	17823.0	4.0	143023.0	0.12461632045195528
+Die Linke	3	Niedersachsen	043: Hannover-Land I	43	10890.0	1.5	177535.0	0.06134001746134565
+Die Linke	3	Niedersachsen	044: Celle â Uelzen	44	9297.0	1.2	158707.0	0.05857964677046381
+Die Linke	3	Niedersachsen	045: Gifhorn â Peine	45	10166.0	1.3	164960.0	0.0616270611057226
+Die Linke	3	Niedersachsen	046: Hameln-Pyrmont â Holzminden	46	9130.0	1.3	137003.0	0.06664087647715744
+Die Linke	3	Niedersachsen	047: Hannover-Land II	47	12305.0	1.8	183945.0	0.0668949957867841
+Die Linke	3	Niedersachsen	048: Hildesheim	48	10932.0	1.5	165520.0	0.06604639922667956
+Die Linke	3	Niedersachsen	049: Salzgitter â WolfenbÃ¼ttel	49	11266.0	1.6	152997.0	0.07363543076008026
+Die Linke	3	Niedersachsen	050: Braunschweig	50	13673.0	2.6	142328.0	0.09606683154403912
+Die Linke	3	Niedersachsen	051: Helmstedt â Wolfsburg	51	9050.0	1.8	133800.0	0.06763826606875935
+Die Linke	3	Niedersachsen	052: Goslar â Northeim â Osterode	52	9521.0	1.3	147545.0	0.06452946558677014
+Die Linke	3	Niedersachsen	053: GÃ¶ttingen	53	14748.0	2.4	166120.0	0.08877919576209968
+Die Linke	4	Bremen	054: Bremen I	54	26425.0	4.1	183863.0	0.14372114019677695
+Die Linke	4	Bremen	055: Bremen II â Bremerhaven	55	18204.0	2.4	143951.0	0.12645969809171176
+Die Linke	5	Nordrhein-Westfalen	087: Aachen I	87	14459.0	2.7	137514.0	0.10514565789665052
+Die Linke	5	Nordrhein-Westfalen	088: Aachen II	88	10105.0	-0.6	168868.0	0.059839638060496955
+Die Linke	5	Nordrhein-Westfalen	089: Heinsberg	89	7909.0	0.4	138622.0	0.05705443580384066
+Die Linke	5	Nordrhein-Westfalen	090: DÃ¼ren	90	8809.0	0.2	147719.0	0.05963349332177986
+Die Linke	5	Nordrhein-Westfalen	091: Rhein-Erft-Kreis I	91	11392.0	0.8	186745.0	0.06100297196712094
+Die Linke	5	Nordrhein-Westfalen	092: Euskirchen â Rhein-Erft-Kreis II	92	11403.0	1.0	183028.0	0.062301942872128854
+Die Linke	5	Nordrhein-Westfalen	093: KÃ¶ln I	93	15271.0	2.9	135304.0	0.11286436468988352
+Die Linke	5	Nordrhein-Westfalen	094: KÃ¶ln II	94	21100.0	3.8	193964.0	0.1087830731475944
+Die Linke	5	Nordrhein-Westfalen	095: KÃ¶ln III	95	19118.0	3.6	145768.0	0.13115361396191208
+Die Linke	5	Nordrhein-Westfalen	096: Bonn	96	17133.0	3.2	176667.0	0.09697906230365604
+Die Linke	5	Nordrhein-Westfalen	097: Rhein-Sieg-Kreis I	97	13038.0	1.6	179691.0	0.07255789104629615
+Die Linke	5	Nordrhein-Westfalen	098: Rhein-Sieg-Kreis II	98	11116.0	1.9	170851.0	0.06506253987392523
+Die Linke	5	Nordrhein-Westfalen	099: Oberbergischer Kreis	99	9887.0	1.0	152264.0	0.064933273787632
+Die Linke	5	Nordrhein-Westfalen	100: Rheinisch-Bergischer Kreis	100	11042.0	1.3	169962.0	0.06496746331532931
+Die Linke	5	Nordrhein-Westfalen	101: Leverkusen â KÃ¶ln IV	101	14284.0	2.1	150474.0	0.09492669830003854
+Die Linke	5	Nordrhein-Westfalen	102: Wuppertal I	102	16100.0	2.2	145322.0	0.11078845598051223
+Die Linke	5	Nordrhein-Westfalen	103: Solingen â Remscheid â Wuppertal II	103	12689.0	1.1	158842.0	0.07988441344228857
+Die Linke	5	Nordrhein-Westfalen	104: Mettmann I	104	10216.0	1.3	156340.0	0.06534476141742357
+Die Linke	5	Nordrhein-Westfalen	105: Mettmann II	105	8458.0	1.3	122087.0	0.06927846535667188
+Die Linke	5	Nordrhein-Westfalen	106: DÃ¼sseldorf I	106	14675.0	2.1	169246.0	0.08670810536142656
+Die Linke	5	Nordrhein-Westfalen	107: DÃ¼sseldorf II	107	14111.0	2.1	139776.0	0.10095438415750915
+Die Linke	5	Nordrhein-Westfalen	108: Neuss I	108	9895.0	1.3	155602.0	0.06359172761275562
+Die Linke	5	Nordrhein-Westfalen	109: MÃ¶nchengladbach	109	9627.0	0.9	128266.0	0.07505496390313879
+Die Linke	5	Nordrhein-Westfalen	110: Krefeld I â Neuss II	110	9805.0	1.2	151600.0	0.06467678100263852
+Die Linke	5	Nordrhein-Westfalen	111: Viersen	111	10342.0	0.6	169259.0	0.0611016253197762
+Die Linke	5	Nordrhein-Westfalen	112: Kleve	112	9366.0	1.0	165611.0	0.056554214393971416
+Die Linke	5	Nordrhein-Westfalen	113: Wesel I	113	10637.0	0.7	156622.0	0.06791510771156031
+Die Linke	5	Nordrhein-Westfalen	114: Krefeld II â Wesel II	114	10090.0	1.0	130116.0	0.07754618955393648
+Die Linke	5	Nordrhein-Westfalen	115: Duisburg I	115	10369.0	0.8	116168.0	0.08925865987190965
+Die Linke	5	Nordrhein-Westfalen	116: Duisburg II	116	8546.0	-0.4	97605.0	0.08755698990830388
+Die Linke	5	Nordrhein-Westfalen	117: Oberhausen â Wesel III	117	12373.0	0.3	145719.0	0.08490999800986831
+Die Linke	5	Nordrhein-Westfalen	118: MÃ¼lheim â Essen I	118	10546.0	1.0	138935.0	0.07590599920826285
+Die Linke	5	Nordrhein-Westfalen	119: Essen II	119	9524.0	0.6	106358.0	0.0895466255476786
+Die Linke	5	Nordrhein-Westfalen	120: Essen III	120	12574.0	1.7	149581.0	0.08406147839632039
+Die Linke	5	Nordrhein-Westfalen	121: Recklinghausen I	121	8970.0	0.5	120260.0	0.07458839181772825
+Die Linke	5	Nordrhein-Westfalen	122: Recklinghausen II	122	9201.0	0.3	136511.0	0.0674011618111361
+Die Linke	5	Nordrhein-Westfalen	123: Gelsenkirchen	123	8703.0	-0.2	114202.0	0.07620707168000561
+Die Linke	5	Nordrhein-Westfalen	124: Steinfurt I â Borken I	124	8433.0	1.1	151846.0	0.05553653043214836
+Die Linke	5	Nordrhein-Westfalen	125: Bottrop â Recklinghausen III	125	10292.0	0.6	147046.0	0.06999170327652571
+Die Linke	5	Nordrhein-Westfalen	126: Borken II	126	6540.0	0.5	155566.0	0.04204003445482946
+Die Linke	5	Nordrhein-Westfalen	127: Coesfeld â Steinfurt II	127	8394.0	1.2	154239.0	0.054422033337871746
+Die Linke	5	Nordrhein-Westfalen	128: Steinfurt III	128	9692.0	1.7	149700.0	0.06474281897127589
+Die Linke	5	Nordrhein-Westfalen	129: MÃ¼nster	129	19287.0	3.9	187920.0	0.10263409961685824
+Die Linke	5	Nordrhein-Westfalen	130: Warendorf	130	8997.0	1.2	160036.0	0.056218600814816666
+Die Linke	5	Nordrhein-Westfalen	131: GÃ¼tersloh I	131	10595.0	1.1	172709.0	0.061345963441395646
+Die Linke	5	Nordrhein-Westfalen	132: Bielefeld â GÃ¼tersloh II	132	20522.0	2.7	181140.0	0.11329358507231975
+Die Linke	5	Nordrhein-Westfalen	133: Herford â Minden-LÃ¼bbecke II	133	11589.0	1.1	164612.0	0.07040191480572498
+Die Linke	5	Nordrhein-Westfalen	134: Minden-LÃ¼bbecke I	134	9432.0	1.4	147656.0	0.06387820339166712
+Die Linke	5	Nordrhein-Westfalen	135: Lippe I	135	8399.0	1.5	125826.0	0.06675090998680717
+Die Linke	5	Nordrhein-Westfalen	136: HÃ¶xter â Lippe II	136	10188.0	1.3	156266.0	0.0651965238759551
+Die Linke	5	Nordrhein-Westfalen	137: Paderborn â GÃ¼tersloh III	137	12292.0	1.4	183356.0	0.06703898427103558
+Die Linke	5	Nordrhein-Westfalen	138: Hagen â Ennepe-Ruhr-Kreis I	138	10743.0	0.5	145557.0	0.07380613780168593
+Die Linke	5	Nordrhein-Westfalen	139: Ennepe-Ruhr-Kreis II	139	11092.0	1.7	133832.0	0.08288002869268934
+Die Linke	5	Nordrhein-Westfalen	140: Bochum I	140	15953.0	2.3	152175.0	0.10483325119106292
+Die Linke	5	Nordrhein-Westfalen	141: Herne â Bochum II	141	10860.0	0.5	123123.0	0.08820447844838089
+Die Linke	5	Nordrhein-Westfalen	142: Dortmund I	142	15506.0	2.1	151574.0	0.10229986673176139
+Die Linke	5	Nordrhein-Westfalen	143: Dortmund II	143	12924.0	1.3	139104.0	0.09290890269151139
+Die Linke	5	Nordrhein-Westfalen	144: Unna I	144	10313.0	0.7	146716.0	0.07029226532893482
+Die Linke	5	Nordrhein-Westfalen	145: Hamm â Unna II	145	11837.0	0.7	166139.0	0.07124756980600581
+Die Linke	5	Nordrhein-Westfalen	146: Soest	146	11702.0	1.5	170707.0	0.06855020590836931
+Die Linke	5	Nordrhein-Westfalen	147: Hochsauerlandkreis	147	8183.0	0.7	150962.0	0.05420569414819623
+Die Linke	5	Nordrhein-Westfalen	148: Siegen-Wittgenstein	148	12624.0	2.1	158559.0	0.07961705106616465
+Die Linke	5	Nordrhein-Westfalen	149: Olpe â MÃ¤rkischer Kreis I	149	8205.0	0.6	149098.0	0.055030919261157094
+Die Linke	5	Nordrhein-Westfalen	150: MÃ¤rkischer Kreis II	150	9427.0	0.6	141456.0	0.06664263092410361
+Die Linke	6	Hessen	167: Waldeck	167	9891.0	1.6	138727.0	0.07129830530466312
+Die Linke	6	Hessen	168: Kassel	168	18677.0	2.5	162467.0	0.11495873008057021
+Die Linke	6	Hessen	169: Werra-MeiÃner â Hersfeld-Rotenburg	169	8746.0	0.7	129309.0	0.06763643675227556
+Die Linke	6	Hessen	170: Schwalm-Eder	170	9270.0	1.0	141090.0	0.06570274293004465
+Die Linke	6	Hessen	171: Marburg	171	14420.0	3.4	138611.0	0.10403214752075954
+Die Linke	6	Hessen	172: Lahn-Dill	172	10210.0	1.5	150144.0	0.0680013853367434
+Die Linke	6	Hessen	173: GieÃen	173	13798.0	1.9	161445.0	0.08546563845272384
+Die Linke	6	Hessen	174: Fulda	174	9266.0	1.2	156200.0	0.0593213828425096
+Die Linke	6	Hessen	175: Main-Kinzig â Wetterau II â Schotten	175	8938.0	1.1	133448.0	0.06697739943648462
+Die Linke	6	Hessen	176: Hochtaunus	176	9562.0	2.0	141954.0	0.06735984896515773
+Die Linke	6	Hessen	177: Wetterau I	177	9249.0	1.6	134615.0	0.06870705344872415
+Die Linke	6	Hessen	178: Rheingau-Taunus â Limburg	178	11069.0	1.9	168651.0	0.06563257852013922
+Die Linke	6	Hessen	179: Wiesbaden	179	13160.0	3.6	135843.0	0.09687654130135524
+Die Linke	6	Hessen	180: Hanau	180	10006.0	1.4	128993.0	0.07757010070313893
+Die Linke	6	Hessen	181: Main-Taunus	181	9504.0	1.8	156333.0	0.06079330659553645
+Die Linke	6	Hessen	182: Frankfurt am Main I	182	17179.0	3.1	140601.0	0.12218263028001224
+Die Linke	6	Hessen	183: Frankfurt am Main II	183	20059.0	3.6	167761.0	0.11956891053343745
+Die Linke	6	Hessen	184: GroÃ-Gerau	184	10755.0	2.0	128583.0	0.08364247217750402
+Die Linke	6	Hessen	185: Offenbach	185	14261.0	2.2	158341.0	0.09006511263665128
+Die Linke	6	Hessen	186: Darmstadt	186	19508.0	3.5	186727.0	0.10447337556968195
+Die Linke	6	Hessen	187: Odenwald	187	13433.0	1.9	178579.0	0.07522161060371041
+Die Linke	6	Hessen	188: BergstraÃe	188	10197.0	1.8	151260.0	0.0674137247124157
+Die Linke	7	Rheinland-Pfalz	197: Neuwied	197	11338.0	1.1	176872.0	0.06410285404134063
+Die Linke	7	Rheinland-Pfalz	198: Ahrweiler	198	8519.0	1.0	148038.0	0.05754603547737743
+Die Linke	7	Rheinland-Pfalz	199: Koblenz	199	10332.0	1.7	147302.0	0.07014161382737505
+Die Linke	7	Rheinland-Pfalz	200: Mosel/Rhein-HunsrÃ¼ck	200	8143.0	1.3	131956.0	0.06170996392736973
+Die Linke	7	Rheinland-Pfalz	201: Kreuznach	201	9493.0	1.1	136355.0	0.06961974258369696
+Die Linke	7	Rheinland-Pfalz	202: Bitburg	202	7433.0	1.6	123672.0	0.060102529270974835
+Die Linke	7	Rheinland-Pfalz	203: Trier	203	12934.0	2.4	147685.0	0.08757829163422148
+Die Linke	7	Rheinland-Pfalz	204: Montabaur	204	9576.0	0.9	159526.0	0.06002783245364392
+Die Linke	7	Rheinland-Pfalz	205: Mainz	205	17148.0	3.0	197400.0	0.0868693009118541
+Die Linke	7	Rheinland-Pfalz	206: Worms	206	10811.0	1.4	165209.0	0.06543832357801331
+Die Linke	7	Rheinland-Pfalz	207: Ludwigshafen/Frankenthal	207	10614.0	1.1	156820.0	0.06768269353398801
+Die Linke	7	Rheinland-Pfalz	208: Neustadt â Speyer	208	10537.0	1.2	171994.0	0.06126376501505867
+Die Linke	7	Rheinland-Pfalz	209: Kaiserslautern	209	13548.0	0.4	166693.0	0.08127515852495305
+Die Linke	7	Rheinland-Pfalz	210: Pirmasens	210	9511.0	0.7	130529.0	0.0728650338239012
+Die Linke	7	Rheinland-Pfalz	211: SÃ¼dpfalz	211	10975.0	1.6	167790.0	0.0654091423803564
+Die Linke	8	Baden-WÃ¼rttemberg	258: Stuttgart I	258	14830.0	3.0	156669.0	0.09465816466563264
+Die Linke	8	Baden-WÃ¼rttemberg	259: Stuttgart II	259	12553.0	2.4	135016.0	0.09297416602476744
+Die Linke	8	Baden-WÃ¼rttemberg	260: BÃ¶blingen	260	10434.0	1.0	191782.0	0.054405522937501956
+Die Linke	8	Baden-WÃ¼rttemberg	261: Esslingen	261	8361.0	1.7	132175.0	0.06325704558350671
+Die Linke	8	Baden-WÃ¼rttemberg	262: NÃ¼rtingen	262	9132.0	1.4	164015.0	0.05567783434441972
+Die Linke	8	Baden-WÃ¼rttemberg	263: GÃ¶ppingen	263	6882.0	0.8	133795.0	0.05143689973466871
+Die Linke	8	Baden-WÃ¼rttemberg	264: Waiblingen	264	9881.0	1.1	174351.0	0.056673033134309526
+Die Linke	8	Baden-WÃ¼rttemberg	265: Ludwigsburg	265	10451.0	1.3	171056.0	0.061096950706201476
+Die Linke	8	Baden-WÃ¼rttemberg	266: Neckar-Zaber	266	9719.0	1.1	182015.0	0.05339669807433453
+Die Linke	8	Baden-WÃ¼rttemberg	267: Heilbronn	267	10520.0	1.0	179760.0	0.058522474410324876
+Die Linke	8	Baden-WÃ¼rttemberg	268: SchwÃ¤bisch Hall â Hohenlohe	268	9594.0	0.8	167089.0	0.05741850151715553
+Die Linke	8	Baden-WÃ¼rttemberg	269: Backnang â SchwÃ¤bisch GmÃ¼nd	269	7999.0	1.7	133138.0	0.06008051795880966
+Die Linke	8	Baden-WÃ¼rttemberg	270: Aalen â Heidenheim	270	9233.0	0.8	165758.0	0.055701685589835785
+Die Linke	8	Baden-WÃ¼rttemberg	271: Karlsruhe-Stadt	271	15452.0	3.6	156634.0	0.09865035688292452
+Die Linke	8	Baden-WÃ¼rttemberg	272: Karlsruhe-Land	272	9119.0	1.4	163951.0	0.05562027679001653
+Die Linke	8	Baden-WÃ¼rttemberg	273: Rastatt	273	8369.0	1.2	152766.0	0.05478313237238652
+Die Linke	8	Baden-WÃ¼rttemberg	274: Heidelberg	274	14812.0	2.7	174300.0	0.08497991967871486
+Die Linke	8	Baden-WÃ¼rttemberg	275: Mannheim	275	12989.0	1.6	139045.0	0.09341580064008055
+Die Linke	8	Baden-WÃ¼rttemberg	276: Odenwald â Tauber	276	8907.0	1.4	158730.0	0.056114156114156113
+Die Linke	8	Baden-WÃ¼rttemberg	277: Rhein-Neckar	277	9738.0	1.5	151760.0	0.06416710595677386
+Die Linke	8	Baden-WÃ¼rttemberg	278: Bruchsal â Schwetzingen	278	8674.0	1.2	149894.0	0.057867559742217835
+Die Linke	8	Baden-WÃ¼rttemberg	279: Pforzheim	279	8952.0	0.8	163252.0	0.05483546909073089
+Die Linke	8	Baden-WÃ¼rttemberg	280: Calw	280	7759.0	1.0	149446.0	0.05191841869303963
+Die Linke	8	Baden-WÃ¼rttemberg	281: Freiburg	281	20168.0	3.4	175179.0	0.11512795483476901
+Die Linke	8	Baden-WÃ¼rttemberg	282: LÃ¶rrach â MÃ¼llheim	282	10898.0	1.4	172283.0	0.06325638629464311
+Die Linke	8	Baden-WÃ¼rttemberg	283: Emmendingen â Lahr	283	9588.0	1.1	164147.0	0.05841105838059788
+Die Linke	8	Baden-WÃ¼rttemberg	284: Offenburg	284	8411.0	0.7	150984.0	0.0557078895777036
+Die Linke	8	Baden-WÃ¼rttemberg	285: Rottweil â Tuttlingen	285	7141.0	0.8	147257.0	0.048493450226474805
+Die Linke	8	Baden-WÃ¼rttemberg	286: Schwarzwald-Baar	286	6608.0	1.2	121822.0	0.054243075963290706
+Die Linke	8	Baden-WÃ¼rttemberg	287: Konstanz	287	11306.0	2.2	154179.0	0.07333034978823316
+Die Linke	8	Baden-WÃ¼rttemberg	288: Waldshut	288	7369.0	1.1	132990.0	0.05541018121663283
+Die Linke	8	Baden-WÃ¼rttemberg	289: Reutlingen	289	9543.0	1.3	153545.0	0.06215116089745677
+Die Linke	8	Baden-WÃ¼rttemberg	290: TÃ¼bingen	290	15096.0	2.9	155479.0	0.09709349815730742
+Die Linke	8	Baden-WÃ¼rttemberg	291: Ulm	291	9976.0	1.4	172730.0	0.057754877554564925
+Die Linke	8	Baden-WÃ¼rttemberg	292: Biberach	292	5997.0	1.2	128335.0	0.046729263256321346
+Die Linke	8	Baden-WÃ¼rttemberg	293: Bodensee	293	8316.0	1.7	133629.0	0.0622320005388052
+Die Linke	8	Baden-WÃ¼rttemberg	294: Ravensburg	294	8889.0	1.8	142410.0	0.06241836949652412
+Die Linke	8	Baden-WÃ¼rttemberg	295: Zollernalb â Sigmaringen	295	7061.0	1.0	135657.0	0.05205039179695851
+Die Linke	9	Bayern	212: AltÃ¶tting	212	6659.0	2.4	124253.0	0.05359226738992218
+Die Linke	9	Bayern	213: Erding â Ebersberg	213	8352.0	2.2	160213.0	0.052130601137236054
+Die Linke	9	Bayern	214: Freising	214	9506.0	1.9	182702.0	0.05203008177250386
+Die Linke	9	Bayern	215: FÃ¼rstenfeldbruck	215	9633.0	2.1	187059.0	0.051497121229130915
+Die Linke	9	Bayern	216: Ingolstadt	216	9830.0	1.7	180250.0	0.054535367545076284
+Die Linke	9	Bayern	217: MÃ¼nchen-Nord	217	14302.0	3.7	170233.0	0.08401426280450912
+Die Linke	9	Bayern	218: MÃ¼nchen-Ost	218	14124.0	3.3	182831.0	0.0772516695746345
+Die Linke	9	Bayern	219: MÃ¼nchen-SÃ¼d	219	14694.0	3.9	166394.0	0.08830847266127384
+Die Linke	9	Bayern	220: MÃ¼nchen-West/Mitte	220	16638.0	3.8	188762.0	0.08814274059397548
+Die Linke	9	Bayern	221: MÃ¼nchen-Land	221	9996.0	2.3	193530.0	0.05165090683614943
+Die Linke	9	Bayern	222: Rosenheim	222	9449.0	2.2	182834.0	0.05168075959613638
+Die Linke	9	Bayern	223: Bad TÃ¶lz-Wolfratshausen â Miesbach	223	6486.0	2.3	130108.0	0.049850893104190365
+Die Linke	9	Bayern	224: Starnberg â Landsberg am Lech	224	9594.0	2.5	173656.0	0.05524715529552679
+Die Linke	9	Bayern	225: Traunstein	225	8508.0	2.3	157572.0	0.05399436448099916
+Die Linke	9	Bayern	226: Weilheim	226	7214.0	2.4	131724.0	0.05476602593301145
+Die Linke	9	Bayern	227: Deggendorf	227	5892.0	1.6	117808.0	0.0500135814206166
+Die Linke	9	Bayern	228: Landshut	228	9270.0	1.8	189411.0	0.048941191377480715
+Die Linke	9	Bayern	229: Passau	229	7357.0	1.9	129191.0	0.05694669133298759
+Die Linke	9	Bayern	230: Rottal-Inn	230	5510.0	1.8	122367.0	0.045028479900626805
+Die Linke	9	Bayern	231: Straubing	231	5590.0	1.4	127137.0	0.04396831764159922
+Die Linke	9	Bayern	232: Amberg	232	8948.0	1.9	166192.0	0.05384134013670935
+Die Linke	9	Bayern	233: Regensburg	233	13259.0	2.8	194901.0	0.06802940980292559
+Die Linke	9	Bayern	234: Schwandorf	234	7339.0	1.3	159878.0	0.04590375161060308
+Die Linke	9	Bayern	235: Weiden	235	6204.0	1.4	128004.0	0.04846723539889378
+Die Linke	9	Bayern	236: Bamberg	236	9351.0	2.4	141945.0	0.06587762865898764
+Die Linke	9	Bayern	237: Bayreuth	237	7022.0	2.3	124342.0	0.056473275321291275
+Die Linke	9	Bayern	238: Coburg	238	6895.0	1.7	120676.0	0.05713646458284995
+Die Linke	9	Bayern	239: Hof	239	7185.0	0.9	123640.0	0.058112261404076354
+Die Linke	9	Bayern	240: Kulmbach	240	6431.0	1.2	131949.0	0.04873852776451508
+Die Linke	9	Bayern	241: Ansbach	241	12208.0	2.8	182014.0	0.0670717637104838
+Die Linke	9	Bayern	242: Erlangen	242	11115.0	3.2	144967.0	0.07667262204501714
+Die Linke	9	Bayern	243: FÃ¼rth	243	15442.0	2.8	193896.0	0.07964063209143046
+Die Linke	9	Bayern	244: NÃ¼rnberg-Nord	244	16962.0	4.6	141534.0	0.11984399508245369
+Die Linke	9	Bayern	245: NÃ¼rnberg-SÃ¼d	245	11640.0	3.1	128355.0	0.09068598807993455
+Die Linke	9	Bayern	246: Roth	246	11635.0	2.5	181912.0	0.0639594968995998
+Die Linke	9	Bayern	247: Aschaffenburg	247	8699.0	2.4	140899.0	0.061739260037331704
+Die Linke	9	Bayern	248: Bad Kissingen	248	10085.0	1.4	167556.0	0.060188832390365016
+Die Linke	9	Bayern	249: Main-Spessart	249	8562.0	2.1	153427.0	0.055805040833751554
+Die Linke	9	Bayern	250: Schweinfurt	250	10422.0	1.8	152680.0	0.06826041393764737
+Die Linke	9	Bayern	251: WÃ¼rzburg	251	12931.0	3.1	178076.0	0.07261506323142927
+Die Linke	9	Bayern	252: Augsburg-Stadt	252	13649.0	3.4	148474.0	0.0919285531473524
+Die Linke	9	Bayern	253: Augsburg-Land	253	9737.0	1.7	195118.0	0.04990313553849465
+Die Linke	9	Bayern	254: Donau-Ries	254	6687.0	1.3	145290.0	0.04602519099731572
+Die Linke	9	Bayern	255: Neu-Ulm	255	9274.0	1.4	178256.0	0.05202629925500404
+Die Linke	9	Bayern	256: OberallgÃ¤u	256	10130.0	2.2	172642.0	0.05867633600166819
+Die Linke	9	Bayern	257: OstallgÃ¤u	257	10387.0	2.3	187656.0	0.055351281067485186
+Die Linke	10	Saarland	296: SaarbrÃ¼cken	296	21669.0	3.2	141916.0	0.15268891456918177
+Die Linke	10	Saarland	297: Saarlouis	297	20320.0	3.9	154810.0	0.13125767069310768
+Die Linke	10	Saarland	298: St. Wendel	298	15686.0	2.3	136200.0	0.11516886930983847
+Die Linke	10	Saarland	299: Homburg	299	17773.0	2.2	140799.0	0.12622958969879047
+Die Linke	11	Berlin	075: Berlin-Mitte	75	32118.0	2.8	143699.0	0.2235088622746157
+Die Linke	11	Berlin	076: Berlin-Pankow	76	43774.0	-1.7	179167.0	0.24431954545200846
+Die Linke	11	Berlin	077: Berlin-Reinickendorf	77	11516.0	0.6	130076.0	0.08853285771395185
+Die Linke	11	Berlin	078: Berlin-Spandau â Charlottenburg Nord	78	12780.0	0.3	125812.0	0.10158013544018059
+Die Linke	11	Berlin	079: Berlin-Steglitz-Zehlendorf	79	16352.0	2.0	174170.0	0.09388528449216282
+Die Linke	11	Berlin	080: Berlin-Charlottenburg-Wilmersdorf	80	18367.0	2.9	152657.0	0.12031547849099615
+Die Linke	11	Berlin	081: Berlin-Tempelhof-SchÃ¶neberg	81	23625.0	2.9	173196.0	0.13640615256703387
+Die Linke	11	Berlin	082: Berlin-NeukÃ¶lln	82	25752.0	3.9	135324.0	0.1902988383435311
+Die Linke	11	Berlin	083: Berlin-Friedrichshain-Kreuzberg â Prenzlauer Berg Ost	83	49016.0	3.4	164561.0	0.29785915253310324
+Die Linke	11	Berlin	084: Berlin-Treptow-KÃ¶penick	84	39000.0	-4.3	149101.0	0.26156766218871774
+Die Linke	11	Berlin	085: Berlin-Marzahn-Hellersdorf	85	35698.0	-6.8	130856.0	0.27280369260866905
+Die Linke	11	Berlin	086: Berlin-Lichtenberg	86	43172.0	-5.2	140057.0	0.30824592844341947
+Die Linke	12	Brandenburg	056: Prignitz â Ostprignitz-Ruppin â Havelland I	56	19447.0	-6.1	114917.0	0.16922648520236344
+Die Linke	12	Brandenburg	057: Uckermark â Barnim I	57	23870.0	-5.4	123364.0	0.19349242890956844
+Die Linke	12	Brandenburg	058: Oberhavel â Havelland II	58	26091.0	-3.9	174844.0	0.14922445151106128
+Die Linke	12	Brandenburg	059: MÃ¤rkisch-Oderland â Barnim II	59	34632.0	-5.8	160075.0	0.21634858660003123
+Die Linke	12	Brandenburg	060: Brandenburg an der Havel â Potsdam-Mittelmark I â Havelland III â Teltow-FlÃ¤ming I	60	20925.0	-6.3	121331.0	0.17246210778778712
+Die Linke	12	Brandenburg	061: Potsdam â Potsdam-Mittelmark II â Teltow-FlÃ¤ming II	61	35106.0	-2.9	184308.0	0.19047464027605965
+Die Linke	12	Brandenburg	062: Dahme-Spreewald â Teltow-FlÃ¤ming III â Oberspreewald-Lausitz I	62	29217.0	-5.7	177224.0	0.1648591612874103
+Die Linke	12	Brandenburg	063: Frankfurt (Oder) â Oder-Spree	63	26202.0	-5.8	131910.0	0.19863543324994315
+Die Linke	12	Brandenburg	064: Cottbus â Spree-NeiÃe	64	21456.0	-6.1	124157.0	0.17281345393332637
+Die Linke	12	Brandenburg	065: Elbe-Elster â Oberspreewald-Lausitz II	65	18775.0	-6.2	116843.0	0.16068570646080638
+Die Linke	13	Mecklenburg-Vorpommern	012: Schwerin â Ludwigslust-Parchim I â Nordwestmecklenburg I	12	25929.0	-3.7	151692.0	0.17093188829997627
+Die Linke	13	Mecklenburg-Vorpommern	013: Ludwigslust-Parchim II â Nordwestmecklenburg II â Landkreis Rostock I	13	24409.0	-4.5	141548.0	0.17244327012744792
+Die Linke	13	Mecklenburg-Vorpommern	014: Rostock â Landkreis Rostock II	14	33575.0	-3.1	156884.0	0.21401162642461946
+Die Linke	13	Mecklenburg-Vorpommern	015: Vorpommern-RÃ¼gen â Vorpommern-Greifswald I	15	30107.0	-2.6	161340.0	0.1866059253749845
+Die Linke	13	Mecklenburg-Vorpommern	016: Mecklenburgische Seenplatte I â Vorpommern-Greifswald II	16	27246.0	-4.0	150830.0	0.18064045614267718
+Die Linke	13	Mecklenburg-Vorpommern	017: Mecklenburgische Seenplatte II â Landkreis Rostock III	17	24102.0	-4.6	139161.0	0.17319507620669583
+Die Linke	14	Sachsen	151: Nordsachsen	151	17173.0	-5.9	113142.0	0.15178271552562267
+Die Linke	14	Sachsen	152: Leipzig I	152	31137.0	-1.8	151539.0	0.205471858729436
+Die Linke	14	Sachsen	153: Leipzig II	153	39058.0	-0.1	164092.0	0.23802501036004192
+Die Linke	14	Sachsen	154: Leipzig-Land	154	23368.0	-5.3	154436.0	0.15131187028931078
+Die Linke	14	Sachsen	155: MeiÃen	155	20111.0	-5.3	145841.0	0.13789675057082712
+Die Linke	14	Sachsen	156: Bautzen I	156	22597.0	-5.7	153814.0	0.1469112044417283
+Die Linke	14	Sachsen	157: GÃ¶rlitz	157	21534.0	-5.6	148427.0	0.1450814204962709
+Die Linke	14	Sachsen	158: SÃ¤chsische Schweiz-Osterzgebirge	158	19708.0	-4.4	149616.0	0.13172387979895198
+Die Linke	14	Sachsen	159: Dresden I	159	31004.0	-1.9	173051.0	0.17916105656713915
+Die Linke	14	Sachsen	160: Dresden II â Bautzen II	160	32040.0	-0.8	175481.0	0.182583869478747
+Die Linke	14	Sachsen	161: Mittelsachsen	161	21582.0	-6.1	144364.0	0.1494971045412984
+Die Linke	14	Sachsen	162: Chemnitz	162	28010.0	-3.9	139613.0	0.20062601620192963
+Die Linke	14	Sachsen	163: Chemnitzer Umland â Erzgebirgskreis II	163	20972.0	-4.7	132807.0	0.15791336300044426
+Die Linke	14	Sachsen	164: Erzgebirgskreis I	164	23090.0	-5.3	158840.0	0.14536640644673884
+Die Linke	14	Sachsen	165: Zwickau	165	24665.0	-4.7	144192.0	0.17105664669329781
+Die Linke	14	Sachsen	166: Vogtlandkreis	166	22578.0	-4.2	136236.0	0.16572712058486744
+Die Linke	15	Sachsen-Anhalt	066: Altmark	66	20346.0	-6.1	106662.0	0.19075209540417393
+Die Linke	15	Sachsen-Anhalt	067: BÃ¶rde â Jerichower Land	67	24555.0	-5.1	143283.0	0.1713741337074182
+Die Linke	15	Sachsen-Anhalt	068: Harz	68	25069.0	-5.2	136988.0	0.1830014307822583
+Die Linke	15	Sachsen-Anhalt	069: Magdeburg	69	30056.0	-5.3	152026.0	0.19770302448265428
+Die Linke	15	Sachsen-Anhalt	070: Dessau â Wittenberg	70	21102.0	-5.5	118117.0	0.1786533691170619
+Die Linke	15	Sachsen-Anhalt	071: Anhalt	71	25887.0	-7.9	141138.0	0.1834162309229265
+Die Linke	15	Sachsen-Anhalt	072: Halle	72	28892.0	-5.2	143223.0	0.20172737618957848
+Die Linke	15	Sachsen-Anhalt	073: Burgenland â Saalekreis	73	21042.0	-7.5	125388.0	0.16781510192362906
+Die Linke	15	Sachsen-Anhalt	074: Mansfeld	74	23909.0	-8.4	133599.0	0.1789609203661704
+Die Linke	16	ThÃ¼ringen	189: Eichsfeld â Nordhausen â KyffhÃ¤userkreis	189	22613.0	-7.2	153000.0	0.14779738562091504
+Die Linke	16	ThÃ¼ringen	190: Eisenach â Wartburgkreis â Unstrut-Hainich-Kreis	190	25171.0	-6.9	157494.0	0.15982196147154812
+Die Linke	16	ThÃ¼ringen	191: Jena â SÃ¶mmerda â Weimarer Land I	191	28312.0	-4.6	148869.0	0.19018062860635862
+Die Linke	16	ThÃ¼ringen	192: Gotha â Ilm-Kreis	192	22920.0	-6.4	141589.0	0.16187698196893827
+Die Linke	16	ThÃ¼ringen	193: Erfurt â Weimar â Weimarer Land II	193	32239.0	-3.6	160228.0	0.20120702998227527
+Die Linke	16	ThÃ¼ringen	194: Gera â Greiz â Altenburger Land	194	30402.0	-7.6	170360.0	0.17845738436252642
+Die Linke	16	ThÃ¼ringen	195: Saalfeld-Rudolstadt â Saale-Holzland-Kreis â Saale-Orla-Kreis	195	28088.0	-7.8	165449.0	0.1697683273999843
+Die Linke	16	ThÃ¼ringen	196: Suhl â Schmalkalden-Meiningen â Hildburghausen â Sonneberg	196	28467.0	-8.3	164622.0	0.17292342457265736
+FDP	1	Schleswig-Holstein	001: Flensburg â Schleswig	1	18955.0	6.1	167225.0	0.11335027657347885
+FDP	1	Schleswig-Holstein	002: Nordfriesland â Dithmarschen Nord	2	18050.0	6.7	136092.0	0.13263086735443672
+FDP	1	Schleswig-Holstein	003: Steinburg â Dithmarschen SÃ¼d	3	17298.0	7.1	128827.0	0.13427309492575315
+FDP	1	Schleswig-Holstein	004: Rendsburg-EckernfÃ¶rde	4	19071.0	6.7	153692.0	0.12408583400567369
+FDP	1	Schleswig-Holstein	005: Kiel	5	17804.0	6.4	147878.0	0.12039654309633617
+FDP	1	Schleswig-Holstein	006: PlÃ¶n â NeumÃ¼nster	6	16481.0	7.3	128575.0	0.12818199494458488
+FDP	1	Schleswig-Holstein	007: Pinneberg	7	24735.0	7.7	183203.0	0.13501416461520827
+FDP	1	Schleswig-Holstein	008: Segeberg â Stormarn-Mitte	8	26043.0	7.8	188914.0	0.13785637909313234
+FDP	1	Schleswig-Holstein	009: Ostholstein â Stormarn-Nord	9	18147.0	7.1	135600.0	0.1338274336283186
+FDP	1	Schleswig-Holstein	010: Herzogtum Lauenburg â Stormarn-SÃ¼d	10	26163.0	7.6	188914.0	0.13849158876525827
+FDP	1	Schleswig-Holstein	011: LÃ¼beck	11	14097.0	6.1	127203.0	0.1108228579514634
+FDP	2	Hamburg	018: Hamburg-Mitte	18	16255.0	5.5	169759.0	0.09575339157275903
+FDP	2	Hamburg	019: Hamburg-Altona	19	16306.0	5.8	142253.0	0.1146267565534646
+FDP	2	Hamburg	020: Hamburg-EimsbÃ¼ttel	20	17463.0	6.1	152170.0	0.11475980810935138
+FDP	2	Hamburg	021: Hamburg-Nord	21	24652.0	7.6	174987.0	0.14087903672844268
+FDP	2	Hamburg	022: Hamburg-Wandsbek	22	17621.0	5.8	167826.0	0.10499565025681361
+FDP	2	Hamburg	023: Hamburg-Bergedorf â Harburg	23	13313.0	5.1	150858.0	0.08824855161807793
+FDP	3	Niedersachsen	024: Aurich â Emden	24	10079.0	3.9	139388.0	0.07230895055528452
+FDP	3	Niedersachsen	025: Unterems	25	13629.0	3.8	172873.0	0.07883822227878269
+FDP	3	Niedersachsen	026: Friesland â Wilhelmshaven â Wittmund	26	12958.0	5.1	135637.0	0.09553440432920221
+FDP	3	Niedersachsen	027: Oldenburg â Ammerland	27	18136.0	5.3	171103.0	0.10599463481061115
+FDP	3	Niedersachsen	028: Delmenhorst â Wesermarsch â Oldenburg-Land	28	17076.0	5.1	166400.0	0.1026201923076923
+FDP	3	Niedersachsen	029: Cuxhaven â Stade II	29	11483.0	4.5	139126.0	0.08253669335710076
+FDP	3	Niedersachsen	030: Stade I â Rotenburg II	30	14538.0	5.4	150058.0	0.09688253875168268
+FDP	3	Niedersachsen	031: Mittelems	31	16181.0	4.9	177060.0	0.09138710041793742
+FDP	3	Niedersachsen	032: Cloppenburg â Vechta	32	15298.0	4.8	161009.0	0.09501332223664516
+FDP	3	Niedersachsen	033: Diepholz â Nienburg I	33	15515.0	5.6	145121.0	0.10691078479337932
+FDP	3	Niedersachsen	034: Osterholz â Verden	34	13464.0	5.2	149353.0	0.09014884200518235
+FDP	3	Niedersachsen	035: Rotenburg I â Heidekreis	35	10699.0	4.4	124421.0	0.08599030710249878
+FDP	3	Niedersachsen	036: Harburg	36	18839.0	6.8	158445.0	0.11889930259711572
+FDP	3	Niedersachsen	037: LÃ¼chow-Dannenberg â LÃ¼neburg	37	12959.0	5.3	136769.0	0.09475100351687883
+FDP	3	Niedersachsen	038: OsnabrÃ¼ck-Land	38	14603.0	5.1	148481.0	0.09834928374674201
+FDP	3	Niedersachsen	039: Stadt OsnabrÃ¼ck	39	14309.0	5.3	148451.0	0.09638870738492836
+FDP	3	Niedersachsen	040: Nienburg II â Schaumburg	40	12430.0	5.0	143631.0	0.08654120628555118
+FDP	3	Niedersachsen	041: Stadt Hannover I	41	13658.0	5.5	130413.0	0.10472882304678215
+FDP	3	Niedersachsen	042: Stadt Hannover II	42	14735.0	5.7	143023.0	0.10302538752508338
+FDP	3	Niedersachsen	043: Hannover-Land I	43	18869.0	5.5	177535.0	0.10628326808798265
+FDP	3	Niedersachsen	044: Celle â Uelzen	44	16334.0	6.0	158707.0	0.1029192159136018
+FDP	3	Niedersachsen	045: Gifhorn â Peine	45	14004.0	4.8	164960.0	0.0848933074684772
+FDP	3	Niedersachsen	046: Hameln-Pyrmont â Holzminden	46	12531.0	4.6	137003.0	0.09146515039816647
+FDP	3	Niedersachsen	047: Hannover-Land II	47	17925.0	5.6	183945.0	0.09744760662154449
+FDP	3	Niedersachsen	048: Hildesheim	48	13876.0	4.8	165520.0	0.08383276945384244
+FDP	3	Niedersachsen	049: Salzgitter â WolfenbÃ¼ttel	49	12450.0	4.6	152997.0	0.08137414459107041
+FDP	3	Niedersachsen	050: Braunschweig	50	14684.0	5.6	142328.0	0.10317014220673375
+FDP	3	Niedersachsen	051: Helmstedt â Wolfsburg	51	10988.0	4.4	133800.0	0.08212257100149477
+FDP	3	Niedersachsen	052: Goslar â Northeim â Osterode	52	13734.0	5.0	147545.0	0.09308346606120167
+FDP	3	Niedersachsen	053: GÃ¶ttingen	53	15421.0	5.0	166120.0	0.09283048398747894
+FDP	4	Bremen	054: Bremen I	54	19138.0	6.3	183863.0	0.10408837014516244
+FDP	4	Bremen	055: Bremen II â Bremerhaven	55	11918.0	5.4	143951.0	0.08279206118748741
+FDP	5	Nordrhein-Westfalen	087: Aachen I	87	19795.0	7.9	137514.0	0.14394897974024462
+FDP	5	Nordrhein-Westfalen	088: Aachen II	88	19213.0	6.3	168868.0	0.11377525641329322
+FDP	5	Nordrhein-Westfalen	089: Heinsberg	89	16111.0	6.5	138622.0	0.11622253321983524
+FDP	5	Nordrhein-Westfalen	090: DÃ¼ren	90	17155.0	6.5	147719.0	0.11613265727496125
+FDP	5	Nordrhein-Westfalen	091: Rhein-Erft-Kreis I	91	27398.0	8.7	186745.0	0.14671343275589707
+FDP	5	Nordrhein-Westfalen	092: Euskirchen â Rhein-Erft-Kreis II	92	27410.0	8.1	183028.0	0.14975850689511988
+FDP	5	Nordrhein-Westfalen	093: KÃ¶ln I	93	18067.0	7.5	135304.0	0.13352894223378467
+FDP	5	Nordrhein-Westfalen	094: KÃ¶ln II	94	33760.0	9.0	193964.0	0.17405291703615103
+FDP	5	Nordrhein-Westfalen	095: KÃ¶ln III	95	16850.0	6.8	145768.0	0.11559464354316448
+FDP	5	Nordrhein-Westfalen	096: Bonn	96	28113.0	7.4	176667.0	0.15912988843417278
+FDP	5	Nordrhein-Westfalen	097: Rhein-Sieg-Kreis I	97	27267.0	8.6	179691.0	0.1517438269028499
+FDP	5	Nordrhein-Westfalen	098: Rhein-Sieg-Kreis II	98	30142.0	9.1	170851.0	0.17642273091758315
+FDP	5	Nordrhein-Westfalen	099: Oberbergischer Kreis	99	21353.0	8.1	152264.0	0.14023669416276993
+FDP	5	Nordrhein-Westfalen	100: Rheinisch-Bergischer Kreis	100	28787.0	9.7	169962.0	0.16937315399912922
+FDP	5	Nordrhein-Westfalen	101: Leverkusen â KÃ¶ln IV	101	18719.0	7.3	150474.0	0.12440022861092281
+FDP	5	Nordrhein-Westfalen	102: Wuppertal I	102	18437.0	6.7	145322.0	0.126869985274081
+FDP	5	Nordrhein-Westfalen	103: Solingen â Remscheid â Wuppertal II	103	22947.0	8.1	158842.0	0.14446431044685915
+FDP	5	Nordrhein-Westfalen	104: Mettmann I	104	25757.0	9.9	156340.0	0.16474990405526416
+FDP	5	Nordrhein-Westfalen	105: Mettmann II	105	19691.0	9.7	122087.0	0.16128662347342468
+FDP	5	Nordrhein-Westfalen	106: DÃ¼sseldorf I	106	33940.0	10.6	169246.0	0.20053649716980018
+FDP	5	Nordrhein-Westfalen	107: DÃ¼sseldorf II	107	21277.0	9.1	139776.0	0.15222212683150182
+FDP	5	Nordrhein-Westfalen	108: Neuss I	108	23585.0	8.7	155602.0	0.1515726018945772
+FDP	5	Nordrhein-Westfalen	109: MÃ¶nchengladbach	109	17946.0	7.8	128266.0	0.13991236960691064
+FDP	5	Nordrhein-Westfalen	110: Krefeld I â Neuss II	110	26859.0	10.1	151600.0	0.17717018469656992
+FDP	5	Nordrhein-Westfalen	111: Viersen	111	27576.0	9.7	169259.0	0.16292191257185734
+FDP	5	Nordrhein-Westfalen	112: Kleve	112	22687.0	7.9	165611.0	0.13698969271364825
+FDP	5	Nordrhein-Westfalen	113: Wesel I	113	19709.0	7.6	156622.0	0.1258380048779865
+FDP	5	Nordrhein-Westfalen	114: Krefeld II â Wesel II	114	18032.0	8.0	130116.0	0.1385840327092748
+FDP	5	Nordrhein-Westfalen	115: Duisburg I	115	12491.0	7.1	116168.0	0.10752530817436816
+FDP	5	Nordrhein-Westfalen	116: Duisburg II	116	8369.0	5.4	97605.0	0.08574355821935352
+FDP	5	Nordrhein-Westfalen	117: Oberhausen â Wesel III	117	14890.0	6.7	145719.0	0.10218296859023189
+FDP	5	Nordrhein-Westfalen	118: MÃ¼lheim â Essen I	118	18337.0	8.4	138935.0	0.1319825817828481
+FDP	5	Nordrhein-Westfalen	119: Essen II	119	10583.0	6.3	106358.0	0.09950356343669493
+FDP	5	Nordrhein-Westfalen	120: Essen III	120	23068.0	9.4	149581.0	0.15421744740307927
+FDP	5	Nordrhein-Westfalen	121: Recklinghausen I	121	12674.0	6.9	120260.0	0.10538832529519375
+FDP	5	Nordrhein-Westfalen	122: Recklinghausen II	122	14759.0	7.0	136511.0	0.10811582949359393
+FDP	5	Nordrhein-Westfalen	123: Gelsenkirchen	123	10834.0	6.2	114202.0	0.09486699007022643
+FDP	5	Nordrhein-Westfalen	124: Steinfurt I â Borken I	124	19339.0	7.5	151846.0	0.12735929823637107
+FDP	5	Nordrhein-Westfalen	125: Bottrop â Recklinghausen III	125	15741.0	7.0	147046.0	0.10704813459733689
+FDP	5	Nordrhein-Westfalen	126: Borken II	126	20609.0	7.9	155566.0	0.13247753365131198
+FDP	5	Nordrhein-Westfalen	127: Coesfeld â Steinfurt II	127	21116.0	7.9	154239.0	0.13690441457737668
+FDP	5	Nordrhein-Westfalen	128: Steinfurt III	128	17205.0	6.7	149700.0	0.11492985971943888
+FDP	5	Nordrhein-Westfalen	129: MÃ¼nster	129	25684.0	6.7	187920.0	0.1366751809280545
+FDP	5	Nordrhein-Westfalen	130: Warendorf	130	21175.0	7.6	160036.0	0.1323139793546452
+FDP	5	Nordrhein-Westfalen	131: GÃ¼tersloh I	131	22848.0	8.1	172709.0	0.13229188982623952
+FDP	5	Nordrhein-Westfalen	132: Bielefeld â GÃ¼tersloh II	132	21364.0	7.6	181140.0	0.11794192337418571
+FDP	5	Nordrhein-Westfalen	133: Herford â Minden-LÃ¼bbecke II	133	19186.0	7.3	164612.0	0.1165528637037397
+FDP	5	Nordrhein-Westfalen	134: Minden-LÃ¼bbecke I	134	16865.0	6.7	147656.0	0.11421818280327248
+FDP	5	Nordrhein-Westfalen	135: Lippe I	135	15916.0	7.9	125826.0	0.12649213993928124
+FDP	5	Nordrhein-Westfalen	136: HÃ¶xter â Lippe II	136	19543.0	7.5	156266.0	0.12506239361089425
+FDP	5	Nordrhein-Westfalen	137: Paderborn â GÃ¼tersloh III	137	24976.0	8.4	183356.0	0.13621588603590828
+FDP	5	Nordrhein-Westfalen	138: Hagen â Ennepe-Ruhr-Kreis I	138	18722.0	8.0	145557.0	0.1286231510679665
+FDP	5	Nordrhein-Westfalen	139: Ennepe-Ruhr-Kreis II	139	17270.0	8.2	133832.0	0.12904238149321537
+FDP	5	Nordrhein-Westfalen	140: Bochum I	140	17449.0	7.4	152175.0	0.11466403811401348
+FDP	5	Nordrhein-Westfalen	141: Herne â Bochum II	141	11560.0	6.3	123123.0	0.09388984998741097
+FDP	5	Nordrhein-Westfalen	142: Dortmund I	142	17193.0	7.0	151574.0	0.11342974388747411
+FDP	5	Nordrhein-Westfalen	143: Dortmund II	143	15403.0	7.0	139104.0	0.11073010121923166
+FDP	5	Nordrhein-Westfalen	144: Unna I	144	17196.0	7.5	146716.0	0.11720603069876497
+FDP	5	Nordrhein-Westfalen	145: Hamm â Unna II	145	17678.0	6.7	166139.0	0.10640487784325174
+FDP	5	Nordrhein-Westfalen	146: Soest	146	23296.0	8.5	170707.0	0.1364677488327954
+FDP	5	Nordrhein-Westfalen	147: Hochsauerlandkreis	147	21919.0	9.3	150962.0	0.14519547965713225
+FDP	5	Nordrhein-Westfalen	148: Siegen-Wittgenstein	148	19125.0	7.2	158559.0	0.12061756191701511
+FDP	5	Nordrhein-Westfalen	149: Olpe â MÃ¤rkischer Kreis I	149	20758.0	8.6	149098.0	0.13922386618197427
+FDP	5	Nordrhein-Westfalen	150: MÃ¤rkischer Kreis II	150	19328.0	8.9	141456.0	0.1366361271349395
+FDP	6	Hessen	167: Waldeck	167	13918.0	5.1	138727.0	0.10032654061574171
+FDP	6	Hessen	168: Kassel	168	15046.0	5.1	162467.0	0.09260957609853078
+FDP	6	Hessen	169: Werra-MeiÃner â Hersfeld-Rotenburg	169	11096.0	4.5	129309.0	0.08580995909024121
+FDP	6	Hessen	170: Schwalm-Eder	170	13118.0	4.5	141090.0	0.09297611453682048
+FDP	6	Hessen	171: Marburg	171	12191.0	4.7	138611.0	0.08795117270635086
+FDP	6	Hessen	172: Lahn-Dill	172	14821.0	5.3	150144.0	0.0987119032395567
+FDP	6	Hessen	173: GieÃen	173	16926.0	5.4	161445.0	0.10484065780916102
+FDP	6	Hessen	174: Fulda	174	17122.0	5.9	156200.0	0.10961587708066581
+FDP	6	Hessen	175: Main-Kinzig â Wetterau II â Schotten	175	14144.0	5.3	133448.0	0.10598884958935316
+FDP	6	Hessen	176: Hochtaunus	176	21713.0	7.5	141954.0	0.1529580004790284
+FDP	6	Hessen	177: Wetterau I	177	17462.0	6.8	134615.0	0.12971808490881404
+FDP	6	Hessen	178: Rheingau-Taunus â Limburg	178	22650.0	6.9	168651.0	0.13430101214934984
+FDP	6	Hessen	179: Wiesbaden	179	18400.0	6.5	135843.0	0.1354504832784906
+FDP	6	Hessen	180: Hanau	180	15185.0	6.2	128993.0	0.11771956617800966
+FDP	6	Hessen	181: Main-Taunus	181	26571.0	8.1	156333.0	0.16996411506207904
+FDP	6	Hessen	182: Frankfurt am Main I	182	19989.0	6.9	140601.0	0.14216826338361746
+FDP	6	Hessen	183: Frankfurt am Main II	183	24336.0	7.3	167761.0	0.14506351297381392
+FDP	6	Hessen	184: GroÃ-Gerau	184	12645.0	5.0	128583.0	0.0983411492965633
+FDP	6	Hessen	185: Offenbach	185	20372.0	6.3	158341.0	0.12865903335206927
+FDP	6	Hessen	186: Darmstadt	186	20893.0	5.9	186727.0	0.11189062106711938
+FDP	6	Hessen	187: Odenwald	187	19948.0	5.7	178579.0	0.11170406374769709
+FDP	6	Hessen	188: BergstraÃe	188	18196.0	6.3	151260.0	0.12029617876504033
+FDP	7	Rheinland-Pfalz	197: Neuwied	197	18071.0	5.4	176872.0	0.10216993079741282
+FDP	7	Rheinland-Pfalz	198: Ahrweiler	198	17397.0	6.0	148038.0	0.11751712398168038
+FDP	7	Rheinland-Pfalz	199: Koblenz	199	16152.0	5.4	147302.0	0.10965227899145973
+FDP	7	Rheinland-Pfalz	200: Mosel/Rhein-HunsrÃ¼ck	200	14924.0	4.9	131956.0	0.11309830549577132
+FDP	7	Rheinland-Pfalz	201: Kreuznach	201	13654.0	4.3	136355.0	0.1001356752594331
+FDP	7	Rheinland-Pfalz	202: Bitburg	202	12888.0	4.2	123672.0	0.10421113914224724
+FDP	7	Rheinland-Pfalz	203: Trier	203	13841.0	4.3	147685.0	0.09371974134136846
+FDP	7	Rheinland-Pfalz	204: Montabaur	204	17703.0	5.7	159526.0	0.11097250604917067
+FDP	7	Rheinland-Pfalz	205: Mainz	205	22608.0	4.7	197400.0	0.11452887537993921
+FDP	7	Rheinland-Pfalz	206: Worms	206	17543.0	4.5	165209.0	0.10618670895653384
+FDP	7	Rheinland-Pfalz	207: Ludwigshafen/Frankenthal	207	16321.0	5.0	156820.0	0.10407473536538707
+FDP	7	Rheinland-Pfalz	208: Neustadt â Speyer	208	19251.0	5.3	171994.0	0.11192832308103771
+FDP	7	Rheinland-Pfalz	209: Kaiserslautern	209	15519.0	4.6	166693.0	0.09309929031213068
+FDP	7	Rheinland-Pfalz	210: Pirmasens	210	11803.0	3.8	130529.0	0.09042435014441236
+FDP	7	Rheinland-Pfalz	211: SÃ¼dpfalz	211	17560.0	4.1	167790.0	0.10465462780857024
+FDP	8	Baden-WÃ¼rttemberg	258: Stuttgart I	258	26203.0	8.1	156669.0	0.16725070052148158
+FDP	8	Baden-WÃ¼rttemberg	259: Stuttgart II	259	19210.0	7.2	135016.0	0.14227943354861647
+FDP	8	Baden-WÃ¼rttemberg	260: BÃ¶blingen	260	29510.0	8.0	191782.0	0.15387262621101042
+FDP	8	Baden-WÃ¼rttemberg	261: Esslingen	261	18512.0	7.7	132175.0	0.1400567429544165
+FDP	8	Baden-WÃ¼rttemberg	262: NÃ¼rtingen	262	24922.0	8.1	164015.0	0.15194951681248667
+FDP	8	Baden-WÃ¼rttemberg	263: GÃ¶ppingen	263	17188.0	6.8	133795.0	0.1284651892821107
+FDP	8	Baden-WÃ¼rttemberg	264: Waiblingen	264	28617.0	8.3	174351.0	0.16413441850061083
+FDP	8	Baden-WÃ¼rttemberg	265: Ludwigsburg	265	25538.0	7.8	171056.0	0.14929613693761107
+FDP	8	Baden-WÃ¼rttemberg	266: Neckar-Zaber	266	27145.0	8.0	182015.0	0.14913606021481746
+FDP	8	Baden-WÃ¼rttemberg	267: Heilbronn	267	23872.0	6.7	179760.0	0.13279928793947485
+FDP	8	Baden-WÃ¼rttemberg	268: SchwÃ¤bisch Hall â Hohenlohe	268	21629.0	6.1	167089.0	0.12944598387685605
+FDP	8	Baden-WÃ¼rttemberg	269: Backnang â SchwÃ¤bisch GmÃ¼nd	269	16717.0	6.6	133138.0	0.1255614475206177
+FDP	8	Baden-WÃ¼rttemberg	270: Aalen â Heidenheim	270	17707.0	6.0	165758.0	0.10682440666513833
+FDP	8	Baden-WÃ¼rttemberg	271: Karlsruhe-Stadt	271	19251.0	5.9	156634.0	0.12290435026877945
+FDP	8	Baden-WÃ¼rttemberg	272: Karlsruhe-Land	272	21441.0	6.8	163951.0	0.13077687845758793
+FDP	8	Baden-WÃ¼rttemberg	273: Rastatt	273	17847.0	5.7	152766.0	0.11682573347472605
+FDP	8	Baden-WÃ¼rttemberg	274: Heidelberg	274	22556.0	5.7	174300.0	0.12940906483075157
+FDP	8	Baden-WÃ¼rttemberg	275: Mannheim	275	16050.0	5.8	139045.0	0.1154302563918156
+FDP	8	Baden-WÃ¼rttemberg	276: Odenwald â Tauber	276	17564.0	5.7	158730.0	0.11065331065331065
+FDP	8	Baden-WÃ¼rttemberg	277: Rhein-Neckar	277	18933.0	5.8	151760.0	0.12475619399051133
+FDP	8	Baden-WÃ¼rttemberg	278: Bruchsal â Schwetzingen	278	18180.0	6.2	149894.0	0.12128570856738762
+FDP	8	Baden-WÃ¼rttemberg	279: Pforzheim	279	22643.0	6.5	163252.0	0.13869967902384045
+FDP	8	Baden-WÃ¼rttemberg	280: Calw	280	21646.0	7.9	149446.0	0.1448416150315164
+FDP	8	Baden-WÃ¼rttemberg	281: Freiburg	281	16725.0	4.5	175179.0	0.09547377254122925
+FDP	8	Baden-WÃ¼rttemberg	282: LÃ¶rrach â MÃ¼llheim	282	19449.0	5.4	172283.0	0.11288983823128225
+FDP	8	Baden-WÃ¼rttemberg	283: Emmendingen â Lahr	283	17626.0	5.5	164147.0	0.10737936118235485
+FDP	8	Baden-WÃ¼rttemberg	284: Offenburg	284	16940.0	5.3	150984.0	0.1121973189212102
+FDP	8	Baden-WÃ¼rttemberg	285: Rottweil â Tuttlingen	285	20328.0	7.2	147257.0	0.13804437140509448
+FDP	8	Baden-WÃ¼rttemberg	286: Schwarzwald-Baar	286	15124.0	6.3	121822.0	0.12414834758910541
+FDP	8	Baden-WÃ¼rttemberg	287: Konstanz	287	20758.0	5.8	154179.0	0.13463571562923615
+FDP	8	Baden-WÃ¼rttemberg	288: Waldshut	288	14647.0	5.1	132990.0	0.11013610045868111
+FDP	8	Baden-WÃ¼rttemberg	289: Reutlingen	289	21425.0	6.7	153545.0	0.13953564101729135
+FDP	8	Baden-WÃ¼rttemberg	290: TÃ¼bingen	290	18718.0	6.3	155479.0	0.12038924870882885
+FDP	8	Baden-WÃ¼rttemberg	291: Ulm	291	20277.0	6.3	172730.0	0.11739130434782609
+FDP	8	Baden-WÃ¼rttemberg	292: Biberach	292	14321.0	6.1	128335.0	0.11159075856157712
+FDP	8	Baden-WÃ¼rttemberg	293: Bodensee	293	17954.0	6.8	133629.0	0.13435706321232666
+FDP	8	Baden-WÃ¼rttemberg	294: Ravensburg	294	16441.0	6.1	142410.0	0.11544835334597289
+FDP	8	Baden-WÃ¼rttemberg	295: Zollernalb â Sigmaringen	295	18394.0	7.7	135657.0	0.13559197092667535
+FDP	9	Bayern	212: AltÃ¶tting	212	11209.0	5.0	124253.0	0.09021110154281989
+FDP	9	Bayern	213: Erding â Ebersberg	213	19407.0	6.8	160213.0	0.12113249236953307
+FDP	9	Bayern	214: Freising	214	19308.0	5.8	182702.0	0.10568028811945135
+FDP	9	Bayern	215: FÃ¼rstenfeldbruck	215	22005.0	6.7	187059.0	0.1176366814748288
+FDP	9	Bayern	216: Ingolstadt	216	17154.0	5.1	180250.0	0.09516782246879334
+FDP	9	Bayern	217: MÃ¼nchen-Nord	217	26241.0	6.9	170233.0	0.15414755070990935
+FDP	9	Bayern	218: MÃ¼nchen-Ost	218	27459.0	6.6	182831.0	0.15018787842324333
+FDP	9	Bayern	219: MÃ¼nchen-SÃ¼d	219	22587.0	6.3	166394.0	0.13574407731047994
+FDP	9	Bayern	220: MÃ¼nchen-West/Mitte	220	26356.0	6.3	188762.0	0.13962556022928344
+FDP	9	Bayern	221: MÃ¼nchen-Land	221	30054.0	7.0	193530.0	0.1552937529065261
+FDP	9	Bayern	222: Rosenheim	222	20311.0	6.0	182834.0	0.1110898410580089
+FDP	9	Bayern	223: Bad TÃ¶lz-Wolfratshausen â Miesbach	223	16343.0	6.5	130108.0	0.12561103083592093
+FDP	9	Bayern	224: Starnberg â Landsberg am Lech	224	24950.0	6.5	173656.0	0.14367485143041414
+FDP	9	Bayern	225: Traunstein	225	14614.0	4.8	157572.0	0.09274490391693956
+FDP	9	Bayern	226: Weilheim	226	13909.0	5.2	131724.0	0.10559199538428836
+FDP	9	Bayern	227: Deggendorf	227	8968.0	3.7	117808.0	0.07612386255602337
+FDP	9	Bayern	228: Landshut	228	19361.0	5.4	189411.0	0.10221687230414284
+FDP	9	Bayern	229: Passau	229	11918.0	4.6	129191.0	0.09225100819716543
+FDP	9	Bayern	230: Rottal-Inn	230	11215.0	5.0	122367.0	0.0916505266942885
+FDP	9	Bayern	231: Straubing	231	10308.0	3.8	127137.0	0.08107789235234432
+FDP	9	Bayern	232: Amberg	232	12854.0	3.9	166192.0	0.0773442764994705
+FDP	9	Bayern	233: Regensburg	233	17719.0	4.4	194901.0	0.09091282240727344
+FDP	9	Bayern	234: Schwandorf	234	10608.0	3.2	159878.0	0.06635059232664907
+FDP	9	Bayern	235: Weiden	235	8479.0	3.2	128004.0	0.06624011749632824
+FDP	9	Bayern	236: Bamberg	236	13776.0	4.7	141945.0	0.09705167494452077
+FDP	9	Bayern	237: Bayreuth	237	11369.0	4.2	124342.0	0.09143330491708353
+FDP	9	Bayern	238: Coburg	238	9967.0	4.1	120676.0	0.08259305910040107
+FDP	9	Bayern	239: Hof	239	9890.0	4.1	123640.0	0.07999029440310579
+FDP	9	Bayern	240: Kulmbach	240	10335.0	4.0	131949.0	0.07832571675420048
+FDP	9	Bayern	241: Ansbach	241	13825.0	2.9	182014.0	0.07595569571571417
+FDP	9	Bayern	242: Erlangen	242	14973.0	4.6	144967.0	0.10328557533783551
+FDP	9	Bayern	243: FÃ¼rth	243	17545.0	4.2	193896.0	0.09048665263852787
+FDP	9	Bayern	244: NÃ¼rnberg-Nord	244	15412.0	5.2	141534.0	0.10889256291774414
+FDP	9	Bayern	245: NÃ¼rnberg-SÃ¼d	245	11199.0	4.3	128355.0	0.08725020451092673
+FDP	9	Bayern	246: Roth	246	15990.0	4.2	181912.0	0.08789964378380756
+FDP	9	Bayern	247: Aschaffenburg	247	15610.0	5.5	140899.0	0.11078857905308058
+FDP	9	Bayern	248: Bad Kissingen	248	15084.0	4.1	167556.0	0.09002363388956527
+FDP	9	Bayern	249: Main-Spessart	249	13720.0	4.3	153427.0	0.08942363469272031
+FDP	9	Bayern	250: Schweinfurt	250	13789.0	4.7	152680.0	0.09031307309405293
+FDP	9	Bayern	251: WÃ¼rzburg	251	18813.0	5.2	178076.0	0.10564590399604663
+FDP	9	Bayern	252: Augsburg-Stadt	252	15149.0	5.3	148474.0	0.10203133208507886
+FDP	9	Bayern	253: Augsburg-Land	253	20565.0	5.7	195118.0	0.10539775930462592
+FDP	9	Bayern	254: Donau-Ries	254	13440.0	4.7	145290.0	0.09250464588065249
+FDP	9	Bayern	255: Neu-Ulm	255	18627.0	5.6	178256.0	0.10449578134817342
+FDP	9	Bayern	256: OberallgÃ¤u	256	18935.0	5.1	172642.0	0.10967783042365126
+FDP	9	Bayern	257: OstallgÃ¤u	257	19898.0	5.8	187656.0	0.10603444600758835
+FDP	10	Saarland	296: SaarbrÃ¼cken	296	11753.0	3.6	141916.0	0.08281659573268695
+FDP	10	Saarland	297: Saarlouis	297	12059.0	4.0	154810.0	0.0778954847878044
+FDP	10	Saarland	298: St. Wendel	298	9569.0	3.5	136200.0	0.07025697503671072
+FDP	10	Saarland	299: Homburg	299	11096.0	3.9	140799.0	0.0788073778933089
+FDP	11	Berlin	075: Berlin-Mitte	75	12972.0	5.0	143699.0	0.09027202694521187
+FDP	11	Berlin	076: Berlin-Pankow	76	12321.0	4.1	179167.0	0.0687682441521039
+FDP	11	Berlin	077: Berlin-Reinickendorf	77	15376.0	7.0	130076.0	0.11820781696854146
+FDP	11	Berlin	078: Berlin-Spandau â Charlottenburg Nord	78	12927.0	6.1	125812.0	0.10274854544876483
+FDP	11	Berlin	079: Berlin-Steglitz-Zehlendorf	79	25461.0	7.9	174170.0	0.14618476201412414
+FDP	11	Berlin	080: Berlin-Charlottenburg-Wilmersdorf	80	23280.0	8.0	152657.0	0.15249873900312466
+FDP	11	Berlin	081: Berlin-Tempelhof-SchÃ¶neberg	81	18569.0	6.3	173196.0	0.10721379246633872
+FDP	11	Berlin	082: Berlin-NeukÃ¶lln	82	10891.0	4.7	135324.0	0.08048091986639473
+FDP	11	Berlin	083: Berlin-Friedrichshain-Kreuzberg â Prenzlauer Berg Ost	83	10147.0	3.7	164561.0	0.061661025394838385
+FDP	11	Berlin	084: Berlin-Treptow-KÃ¶penick	84	10067.0	4.5	149101.0	0.0675179911603544
+FDP	11	Berlin	085: Berlin-Marzahn-Hellersdorf	85	7290.0	3.6	130856.0	0.05571009353793483
+FDP	11	Berlin	086: Berlin-Lichtenberg	86	7745.0	3.7	140057.0	0.05529891401358018
+FDP	12	Brandenburg	056: Prignitz â Ostprignitz-Ruppin â Havelland I	56	6555.0	3.3	114917.0	0.057041168843600165
+FDP	12	Brandenburg	057: Uckermark â Barnim I	57	7021.0	3.4	123364.0	0.05691287571738919
+FDP	12	Brandenburg	058: Oberhavel â Havelland II	58	13912.0	4.6	174844.0	0.0795680721099952
+FDP	12	Brandenburg	059: MÃ¤rkisch-Oderland â Barnim II	59	11007.0	4.3	160075.0	0.0687615180384195
+FDP	12	Brandenburg	060: Brandenburg an der Havel â Potsdam-Mittelmark I â Havelland III â Teltow-FlÃ¤ming I	60	8194.0	4.2	121331.0	0.0675342657688472
+FDP	12	Brandenburg	061: Potsdam â Potsdam-Mittelmark II â Teltow-FlÃ¤ming II	61	17768.0	5.9	184308.0	0.09640384573648458
+FDP	12	Brandenburg	062: Dahme-Spreewald â Teltow-FlÃ¤ming III â Oberspreewald-Lausitz I	62	13718.0	4.6	177224.0	0.07740486615808242
+FDP	12	Brandenburg	063: Frankfurt (Oder) â Oder-Spree	63	9241.0	4.5	131910.0	0.0700553407626412
+FDP	12	Brandenburg	064: Cottbus â Spree-NeiÃe	64	9941.0	5.2	124157.0	0.08006797844664416
+FDP	12	Brandenburg	065: Elbe-Elster â Oberspreewald-Lausitz II	65	8128.0	4.2	116843.0	0.0695634312710218
+FDP	13	Mecklenburg-Vorpommern	012: Schwerin â Ludwigslust-Parchim I â Nordwestmecklenburg I	12	9879.0	4.1	151692.0	0.06512538564986947
+FDP	13	Mecklenburg-Vorpommern	013: Ludwigslust-Parchim II â Nordwestmecklenburg II â Landkreis Rostock I	13	9008.0	4.0	141548.0	0.06363918953287931
+FDP	13	Mecklenburg-Vorpommern	014: Rostock â Landkreis Rostock II	14	10661.0	4.6	156884.0	0.06795466714260218
+FDP	13	Mecklenburg-Vorpommern	015: Vorpommern-RÃ¼gen â Vorpommern-Greifswald I	15	11490.0	4.2	161340.0	0.07121606545184084
+FDP	13	Mecklenburg-Vorpommern	016: Mecklenburgische Seenplatte I â Vorpommern-Greifswald II	16	8659.0	3.6	150830.0	0.05740900351388981
+FDP	13	Mecklenburg-Vorpommern	017: Mecklenburgische Seenplatte II â Landkreis Rostock III	17	8198.0	3.7	139161.0	0.05891018316913503
+FDP	14	Sachsen	151: Nordsachsen	151	9189.0	5.2	113142.0	0.08121652436760884
+FDP	14	Sachsen	152: Leipzig I	152	13565.0	5.5	151539.0	0.08951491035311042
+FDP	14	Sachsen	153: Leipzig II	153	14866.0	5.5	164092.0	0.09059551958657339
+FDP	14	Sachsen	154: Leipzig-Land	154	12859.0	5.2	154436.0	0.08326426480872336
+FDP	14	Sachsen	155: MeiÃen	155	13156.0	5.0	145841.0	0.09020782907412868
+FDP	14	Sachsen	156: Bautzen I	156	12122.0	4.5	153814.0	0.07880947117947651
+FDP	14	Sachsen	157: GÃ¶rlitz	157	10810.0	4.2	148427.0	0.07283041495145762
+FDP	14	Sachsen	158: SÃ¤chsische Schweiz-Osterzgebirge	158	12795.0	5.1	149616.0	0.08551892845684954
+FDP	14	Sachsen	159: Dresden I	159	18610.0	7.2	173051.0	0.10754055162928848
+FDP	14	Sachsen	160: Dresden II â Bautzen II	160	17684.0	6.4	175481.0	0.10077444281717109
+FDP	14	Sachsen	161: Mittelsachsen	161	11767.0	4.5	144364.0	0.08150924053088028
+FDP	14	Sachsen	162: Chemnitz	162	12184.0	5.5	139613.0	0.08726981011796896
+FDP	14	Sachsen	163: Chemnitzer Umland â Erzgebirgskreis II	163	10542.0	5.0	132807.0	0.07937834602091758
+FDP	14	Sachsen	164: Erzgebirgskreis I	164	12106.0	3.7	158840.0	0.0762150591790481
+FDP	14	Sachsen	165: Zwickau	165	11253.0	4.9	144192.0	0.07804177762982689
+FDP	14	Sachsen	166: Vogtlandkreis	166	10154.0	4.4	136236.0	0.0745324290202296
+FDP	15	Sachsen-Anhalt	066: Altmark	66	7838.0	5.0	106662.0	0.07348446494534136
+FDP	15	Sachsen-Anhalt	067: BÃ¶rde â Jerichower Land	67	11413.0	4.8	143283.0	0.07965355275922475
+FDP	15	Sachsen-Anhalt	068: Harz	68	9902.0	4.7	136988.0	0.07228370368207435
+FDP	15	Sachsen-Anhalt	069: Magdeburg	69	12713.0	5.5	152026.0	0.08362385381447911
+FDP	15	Sachsen-Anhalt	070: Dessau â Wittenberg	70	8940.0	4.9	118117.0	0.07568766561968218
+FDP	15	Sachsen-Anhalt	071: Anhalt	71	10848.0	4.9	141138.0	0.07686094460740552
+FDP	15	Sachsen-Anhalt	072: Halle	72	13533.0	5.9	143223.0	0.094489013636078
+FDP	15	Sachsen-Anhalt	073: Burgenland â Saalekreis	73	10132.0	5.1	125388.0	0.08080518071904808
+FDP	15	Sachsen-Anhalt	074: Mansfeld	74	11236.0	5.2	133599.0	0.08410242591636165
+FDP	16	ThÃ¼ringen	189: Eichsfeld â Nordhausen â KyffhÃ¤userkreis	189	11974.0	5.0	153000.0	0.07826143790849673
+FDP	16	ThÃ¼ringen	190: Eisenach â Wartburgkreis â Unstrut-Hainich-Kreis	190	11545.0	4.7	157494.0	0.07330437984939109
+FDP	16	ThÃ¼ringen	191: Jena â SÃ¶mmerda â Weimarer Land I	191	13310.0	5.5	148869.0	0.08940746562413934
+FDP	16	ThÃ¼ringen	192: Gotha â Ilm-Kreis	192	11218.0	5.3	141589.0	0.07922931866176045
+FDP	16	ThÃ¼ringen	193: Erfurt â Weimar â Weimarer Land II	193	14260.0	6.0	160228.0	0.08899817759692438
+FDP	16	ThÃ¼ringen	194: Gera â Greiz â Altenburger Land	194	14315.0	5.6	170360.0	0.08402794083118102
+FDP	16	ThÃ¼ringen	195: Saalfeld-Rudolstadt â Saale-Holzland-Kreis â Saale-Orla-Kreis	195	13209.0	5.2	165449.0	0.07983729124987156
+FDP	16	ThÃ¼ringen	196: Suhl â Schmalkalden-Meiningen â Hildburghausen â Sonneberg	196	11298.0	4.3	164622.0	0.06862995225425521
+Others	1	Schleswig-Holstein	001: Flensburg â Schleswig	1	1603.0	-0.30000000000000004	167225.0	0.009585887277619973
+Others	1	Schleswig-Holstein	002: Nordfriesland â Dithmarschen Nord	2	1231.0	-0.3	136092.0	0.009045351673867677
+Others	1	Schleswig-Holstein	003: Steinburg â Dithmarschen SÃ¼d	3	1535.0	-0.4	128827.0	0.011915204110939477
+Others	1	Schleswig-Holstein	004: Rendsburg-EckernfÃ¶rde	4	1393.0	-0.2	153692.0	0.00906358170887229
+Others	1	Schleswig-Holstein	005: Kiel	5	937.0	-0.4	147878.0	0.006336304250801336
+Others	1	Schleswig-Holstein	006: PlÃ¶n â NeumÃ¼nster	6	1289.0	-0.6	128575.0	0.010025277075636788
+Others	1	Schleswig-Holstein	007: Pinneberg	7	1452.0	-0.4	183203.0	0.007925634405550127
+Others	1	Schleswig-Holstein	008: Segeberg â Stormarn-Mitte	8	2064.0	-0.3	188914.0	0.010925606360566184
+Others	1	Schleswig-Holstein	009: Ostholstein â Stormarn-Nord	9	1213.0	-0.19999999999999998	135600.0	0.00894542772861357
+Others	1	Schleswig-Holstein	010: Herzogtum Lauenburg â Stormarn-SÃ¼d	10	1807.0	-0.3	188914.0	0.009565198979429793
+Others	1	Schleswig-Holstein	011: LÃ¼beck	11	1604.0	-0.3	127203.0	0.01260976549295221
+Others	2	Hamburg	018: Hamburg-Mitte	18	5831.0	0.9	169759.0	0.03434869432548495
+Others	2	Hamburg	019: Hamburg-Altona	19	3298.0	0.30000000000000004	142253.0	0.023184045327690805
+Others	2	Hamburg	020: Hamburg-EimsbÃ¼ttel	20	3506.0	0.6000000000000001	152170.0	0.02304002102911218
+Others	2	Hamburg	021: Hamburg-Nord	21	3181.0	0.5	174987.0	0.018178493259499277
+Others	2	Hamburg	022: Hamburg-Wandsbek	22	3829.0	0.4	167826.0	0.022815296795490568
+Others	2	Hamburg	023: Hamburg-Bergedorf â Harburg	23	4466.0	0.6000000000000001	150858.0	0.02960399846212995
+Others	3	Niedersachsen	024: Aurich â Emden	24	2882.0	-1.7	139388.0	0.020676098372887194
+Others	3	Niedersachsen	025: Unterems	25	2540.0	-1.9000000000000001	172873.0	0.0146928670179843
+Others	3	Niedersachsen	026: Friesland â Wilhelmshaven â Wittmund	26	3162.0	-1.8999999999999997	135637.0	0.023312223065977574
+Others	3	Niedersachsen	027: Oldenburg â Ammerland	27	3239.0	-2.1	171103.0	0.018930118115988614
+Others	3	Niedersachsen	028: Delmenhorst â Wesermarsch â Oldenburg-Land	28	3692.0	-1.9	166400.0	0.0221875
+Others	3	Niedersachsen	029: Cuxhaven â Stade II	29	3077.0	-1.5	139126.0	0.022116642467978665
+Others	3	Niedersachsen	030: Stade I â Rotenburg II	30	3342.0	-1.3	150058.0	0.02227138839648669
+Others	3	Niedersachsen	031: Mittelems	31	1915.0	-1.4	177060.0	0.010815542753868744
+Others	3	Niedersachsen	032: Cloppenburg â Vechta	32	2043.0	-1.5999999999999999	161009.0	0.012688731685806384
+Others	3	Niedersachsen	033: Diepholz â Nienburg I	33	2891.0	-1.6999999999999997	145121.0	0.019921307047222662
+Others	3	Niedersachsen	034: Osterholz â Verden	34	3025.0	-2.0	149353.0	0.020254029045281983
+Others	3	Niedersachsen	035: Rotenburg I â Heidekreis	35	2792.0	-1.7	124421.0	0.022439941810466078
+Others	3	Niedersachsen	036: Harburg	36	3840.0	-1.7999999999999998	158445.0	0.024235539146075926
+Others	3	Niedersachsen	037: LÃ¼chow-Dannenberg â LÃ¼neburg	37	2975.0	-2.1	136769.0	0.021752005205858054
+Others	3	Niedersachsen	038: OsnabrÃ¼ck-Land	38	2170.0	-1.7	148481.0	0.014614664502528943
+Others	3	Niedersachsen	039: Stadt OsnabrÃ¼ck	39	2218.0	-1.9000000000000001	148451.0	0.014940956948757503
+Others	3	Niedersachsen	040: Nienburg II â Schaumburg	40	2933.0	-1.5000000000000002	143631.0	0.020420382786445822
+Others	3	Niedersachsen	041: Stadt Hannover I	41	2721.0	-1.7000000000000002	130413.0	0.020864484368889605
+Others	3	Niedersachsen	042: Stadt Hannover II	42	2978.0	-1.9	143023.0	0.020821825860176335
+Others	3	Niedersachsen	043: Hannover-Land I	43	3464.0	-1.7000000000000002	177535.0	0.019511645591010224
+Others	3	Niedersachsen	044: Celle â Uelzen	44	3287.0	-2.0999999999999996	158707.0	0.020711121752663715
+Others	3	Niedersachsen	045: Gifhorn â Peine	45	3395.0	-1.9999999999999998	164960.0	0.020580746847720658
+Others	3	Niedersachsen	046: Hameln-Pyrmont â Holzminden	46	2679.0	-1.7	137003.0	0.019554316328839513
+Others	3	Niedersachsen	047: Hannover-Land II	47	3888.0	-1.7000000000000002	183945.0	0.021136752833727474
+Others	3	Niedersachsen	048: Hildesheim	48	3263.0	-1.7	165520.0	0.01971362977283712
+Others	3	Niedersachsen	049: Salzgitter â WolfenbÃ¼ttel	49	3486.0	-2.0	152997.0	0.022784760485499714
+Others	3	Niedersachsen	050: Braunschweig	50	3179.0	-2.9	142328.0	0.02233573154965994
+Others	3	Niedersachsen	051: Helmstedt â Wolfsburg	51	3059.0	-2.4	133800.0	0.022862481315396112
+Others	3	Niedersachsen	052: Goslar â Northeim â Osterode	52	3082.0	-1.6999999999999997	147545.0	0.02088854247856586
+Others	3	Niedersachsen	053: GÃ¶ttingen	53	3781.0	-2.1	166120.0	0.022760654948230194
+Others	4	Bremen	054: Bremen I	54	5006.0	-1.6	183863.0	0.027226793862821775
+Others	4	Bremen	055: Bremen II â Bremerhaven	55	4793.0	-1.5	143951.0	0.0332960521288494
+Others	5	Nordrhein-Westfalen	087: Aachen I	87	3581.0	-2.7	137514.0	0.02604098491789927
+Others	5	Nordrhein-Westfalen	088: Aachen II	88	3066.0	-2.6	168868.0	0.01815619300281877
+Others	5	Nordrhein-Westfalen	089: Heinsberg	89	2982.0	-2.3	138622.0	0.02151173695373029
+Others	5	Nordrhein-Westfalen	090: DÃ¼ren	90	2897.0	-2.6	147719.0	0.019611559785809543
+Others	5	Nordrhein-Westfalen	091: Rhein-Erft-Kreis I	91	3660.0	-2.500000000000001	186745.0	0.01959891831106589
+Others	5	Nordrhein-Westfalen	092: Euskirchen â Rhein-Erft-Kreis II	92	3442.0	-2.5	183028.0	0.01880586576917193
+Others	5	Nordrhein-Westfalen	093: KÃ¶ln I	93	3645.0	-2.1000000000000005	135304.0	0.02693933660497842
+Others	5	Nordrhein-Westfalen	094: KÃ¶ln II	94	3860.0	-1.7999999999999998	193964.0	0.01990060011136087
+Others	5	Nordrhein-Westfalen	095: KÃ¶ln III	95	3747.0	-2.5000000000000004	145768.0	0.025705230228856814
+Others	5	Nordrhein-Westfalen	096: Bonn	96	3635.0	-2.1	176667.0	0.020575432876541743
+Others	5	Nordrhein-Westfalen	097: Rhein-Sieg-Kreis I	97	4136.0	-2.1	179691.0	0.023017290793640195
+Others	5	Nordrhein-Westfalen	098: Rhein-Sieg-Kreis II	98	3167.0	-1.9000000000000004	170851.0	0.018536619627628752
+Others	5	Nordrhein-Westfalen	099: Oberbergischer Kreis	99	2971.0	-2.0	152264.0	0.019512163085167865
+Others	5	Nordrhein-Westfalen	100: Rheinisch-Bergischer Kreis	100	3131.0	-1.9999999999999998	169962.0	0.01842176486508749
+Others	5	Nordrhein-Westfalen	101: Leverkusen â KÃ¶ln IV	101	4183.0	-2.5000000000000004	150474.0	0.027798822387920835
+Others	5	Nordrhein-Westfalen	102: Wuppertal I	102	3563.0	-2.7	145322.0	0.024517966997426404
+Others	5	Nordrhein-Westfalen	103: Solingen â Remscheid â Wuppertal II	103	3198.0	-2.6	158842.0	0.020133214137318844
+Others	5	Nordrhein-Westfalen	104: Mettmann I	104	2796.0	-2.1	156340.0	0.01788409875911475
+Others	5	Nordrhein-Westfalen	105: Mettmann II	105	2320.0	-2.0	122087.0	0.019002842235455043
+Others	5	Nordrhein-Westfalen	106: DÃ¼sseldorf I	106	2909.0	-1.8000000000000003	169246.0	0.017187998534677333
+Others	5	Nordrhein-Westfalen	107: DÃ¼sseldorf II	107	3217.0	-2.0	139776.0	0.023015396062271064
+Others	5	Nordrhein-Westfalen	108: Neuss I	108	3231.0	-2.4000000000000004	155602.0	0.020764514594928087
+Others	5	Nordrhein-Westfalen	109: MÃ¶nchengladbach	109	2818.0	-2.6000000000000005	128266.0	0.021969968658880762
+Others	5	Nordrhein-Westfalen	110: Krefeld I â Neuss II	110	3003.0	-2.0	151600.0	0.019808707124010554
+Others	5	Nordrhein-Westfalen	111: Viersen	111	3066.0	-2.1	169259.0	0.018114250940865773
+Others	5	Nordrhein-Westfalen	112: Kleve	112	2823.0	-1.9	165611.0	0.017045969168714637
+Others	5	Nordrhein-Westfalen	113: Wesel I	113	2958.0	-2.3000000000000003	156622.0	0.01888623565016409
+Others	5	Nordrhein-Westfalen	114: Krefeld II â Wesel II	114	2832.0	-2.2	130116.0	0.021765194134464632
+Others	5	Nordrhein-Westfalen	115: Duisburg I	115	3244.0	-3.0	116168.0	0.027925074030714137
+Others	5	Nordrhein-Westfalen	116: Duisburg II	116	2878.0	-3.9	97605.0	0.029486194354797397
+Others	5	Nordrhein-Westfalen	117: Oberhausen â Wesel III	117	3418.0	-3.0999999999999996	145719.0	0.023456103871149266
+Others	5	Nordrhein-Westfalen	118: MÃ¼lheim â Essen I	118	2809.0	-2.4	138935.0	0.02021808759491849
+Others	5	Nordrhein-Westfalen	119: Essen II	119	2833.0	-3.2	106358.0	0.026636454239455425
+Others	5	Nordrhein-Westfalen	120: Essen III	120	3367.0	-1.7	149581.0	0.02250954332435269
+Others	5	Nordrhein-Westfalen	121: Recklinghausen I	121	2777.0	-2.1999999999999997	120260.0	0.023091634791285547
+Others	5	Nordrhein-Westfalen	122: Recklinghausen II	122	2672.0	-2.6000000000000005	136511.0	0.019573514222297105
+Others	5	Nordrhein-Westfalen	123: Gelsenkirchen	123	3087.0	-3.1	114202.0	0.027031050244303953
+Others	5	Nordrhein-Westfalen	124: Steinfurt I â Borken I	124	2322.0	-1.7	151846.0	0.015291808806290583
+Others	5	Nordrhein-Westfalen	125: Bottrop â Recklinghausen III	125	3075.0	-2.5	147046.0	0.02091182351101016
+Others	5	Nordrhein-Westfalen	126: Borken II	126	2214.0	-1.6	155566.0	0.014231901572323001
+Others	5	Nordrhein-Westfalen	127: Coesfeld â Steinfurt II	127	2143.0	-1.5999999999999999	154239.0	0.013894021615804044
+Others	5	Nordrhein-Westfalen	128: Steinfurt III	128	2405.0	-1.5999999999999999	149700.0	0.016065464261857048
+Others	5	Nordrhein-Westfalen	129: MÃ¼nster	129	3827.0	-1.5	187920.0	0.02036504895700298
+Others	5	Nordrhein-Westfalen	130: Warendorf	130	2675.0	-1.9000000000000004	160036.0	0.016714989127446324
+Others	5	Nordrhein-Westfalen	131: GÃ¼tersloh I	131	3089.0	-1.7000000000000002	172709.0	0.01788557631623135
+Others	5	Nordrhein-Westfalen	132: Bielefeld â GÃ¼tersloh II	132	4295.0	-1.5999999999999999	181140.0	0.02371094181296235
+Others	5	Nordrhein-Westfalen	133: Herford â Minden-LÃ¼bbecke II	133	3320.0	-1.9	164612.0	0.020168638981362234
+Others	5	Nordrhein-Westfalen	134: Minden-LÃ¼bbecke I	134	2779.0	-1.7000000000000002	147656.0	0.01882077260659912
+Others	5	Nordrhein-Westfalen	135: Lippe I	135	2772.0	-2.0	125826.0	0.02203042296504697
+Others	5	Nordrhein-Westfalen	136: HÃ¶xter â Lippe II	136	3167.0	-1.9000000000000001	156266.0	0.02026672468739201
+Others	5	Nordrhein-Westfalen	137: Paderborn â GÃ¼tersloh III	137	3309.0	-2.0	183356.0	0.018046859660987367
+Others	5	Nordrhein-Westfalen	138: Hagen â Ennepe-Ruhr-Kreis I	138	3277.0	-2.2	145557.0	0.02251351704143394
+Others	5	Nordrhein-Westfalen	139: Ennepe-Ruhr-Kreis II	139	3087.0	-1.7999999999999998	133832.0	0.023066232291230795
+Others	5	Nordrhein-Westfalen	140: Bochum I	140	3898.0	-2.4	152175.0	0.025615245605388533
+Others	5	Nordrhein-Westfalen	141: Herne â Bochum II	141	3347.0	-2.6	123123.0	0.027184197915905234
+Others	5	Nordrhein-Westfalen	142: Dortmund I	142	4585.0	-2.3000000000000003	151574.0	0.03024925119083748
+Others	5	Nordrhein-Westfalen	143: Dortmund II	143	3742.0	-2.6	139104.0	0.026900736139866575
+Others	5	Nordrhein-Westfalen	144: Unna I	144	3362.0	-2.2	146716.0	0.022915019493443115
+Others	5	Nordrhein-Westfalen	145: Hamm â Unna II	145	3676.0	-2.2	166139.0	0.022126051077712035
+Others	5	Nordrhein-Westfalen	146: Soest	146	2873.0	-1.9	170707.0	0.016830006971008806
+Others	5	Nordrhein-Westfalen	147: Hochsauerlandkreis	147	2930.0	-1.7000000000000004	150962.0	0.019408857858268968
+Others	5	Nordrhein-Westfalen	148: Siegen-Wittgenstein	148	3600.0	-1.4999999999999998	158559.0	0.022704482243202845
+Others	5	Nordrhein-Westfalen	149: Olpe â MÃ¤rkischer Kreis I	149	2759.0	-2.1	149098.0	0.018504607707682197
+Others	5	Nordrhein-Westfalen	150: MÃ¤rkischer Kreis II	150	2699.0	-2.6999999999999997	141456.0	0.019080137993439657
+Others	6	Hessen	167: Waldeck	167	3169.0	-1.5	138727.0	0.02284342629769259
+Others	6	Hessen	168: Kassel	168	4016.0	-1.6999999999999997	162467.0	0.024718865985092358
+Others	6	Hessen	169: Werra-MeiÃner â Hersfeld-Rotenburg	169	3183.0	-1.8999999999999997	129309.0	0.024615456000742407
+Others	6	Hessen	170: Schwalm-Eder	170	4120.0	-1.5	141090.0	0.029201219080019845
+Others	6	Hessen	171: Marburg	171	3208.0	-1.4	138611.0	0.023143906327780624
+Others	6	Hessen	172: Lahn-Dill	172	4495.0	-1.6999999999999997	150144.0	0.029937926257459505
+Others	6	Hessen	173: GieÃen	173	5695.0	-1.8	161445.0	0.03527517111090464
+Others	6	Hessen	174: Fulda	174	3518.0	-2.0	156200.0	0.022522407170294495
+Others	6	Hessen	175: Main-Kinzig â Wetterau II â Schotten	175	4609.0	-2.5	133448.0	0.034537797494155024
+Others	6	Hessen	176: Hochtaunus	176	3090.0	-1.2999999999999998	141954.0	0.021767614861152203
+Others	6	Hessen	177: Wetterau I	177	3904.0	-2.4000000000000004	134615.0	0.029001225717787765
+Others	6	Hessen	178: Rheingau-Taunus â Limburg	178	4310.0	-1.4000000000000001	168651.0	0.025555733437690853
+Others	6	Hessen	179: Wiesbaden	179	3232.0	-1.3000000000000003	135843.0	0.02379217184543922
+Others	6	Hessen	180: Hanau	180	3555.0	-2.3	128993.0	0.027559635018954518
+Others	6	Hessen	181: Main-Taunus	181	3423.0	-1.5	156333.0	0.021895569073708047
+Others	6	Hessen	182: Frankfurt am Main I	182	3652.0	-1.9	140601.0	0.025974210709738908
+Others	6	Hessen	183: Frankfurt am Main II	183	3972.0	-1.7000000000000002	167761.0	0.023676539839414406
+Others	6	Hessen	184: GroÃ-Gerau	184	4110.0	-1.9	128583.0	0.03196378992557337
+Others	6	Hessen	185: Offenbach	185	4416.0	-2.3000000000000003	158341.0	0.02788917589253573
+Others	6	Hessen	186: Darmstadt	186	5499.0	-2.1999999999999997	186727.0	0.029449410101377946
+Others	6	Hessen	187: Odenwald	187	4705.0	-2.2	178579.0	0.02634688289216537
+Others	6	Hessen	188: BergstraÃe	188	3826.0	-2.1999999999999997	151260.0	0.02529419542509586
+Others	7	Rheinland-Pfalz	197: Neuwied	197	3648.0	-2.0999999999999996	176872.0	0.020625084807092135
+Others	7	Rheinland-Pfalz	198: Ahrweiler	198	2576.0	-2.1999999999999997	148038.0	0.017400937597103445
+Others	7	Rheinland-Pfalz	199: Koblenz	199	2960.0	-2.3	147302.0	0.020094771286201137
+Others	7	Rheinland-Pfalz	200: Mosel/Rhein-HunsrÃ¼ck	200	3001.0	-2.2	131956.0	0.022742429294613356
+Others	7	Rheinland-Pfalz	201: Kreuznach	201	3286.0	-2.0999999999999996	136355.0	0.024098859594440983
+Others	7	Rheinland-Pfalz	202: Bitburg	202	2737.0	-2.3	123672.0	0.022131121029820816
+Others	7	Rheinland-Pfalz	203: Trier	203	2640.0	-2.7	147685.0	0.01787588448386769
+Others	7	Rheinland-Pfalz	204: Montabaur	204	3863.0	-2.3000000000000003	159526.0	0.024215488384338603
+Others	7	Rheinland-Pfalz	205: Mainz	205	4778.0	-2.0999999999999996	197400.0	0.02420466058763931
+Others	7	Rheinland-Pfalz	206: Worms	206	4236.0	-2.4999999999999996	165209.0	0.025640249623204547
+Others	7	Rheinland-Pfalz	207: Ludwigshafen/Frankenthal	207	4575.0	-2.8	156820.0	0.029173574799132764
+Others	7	Rheinland-Pfalz	208: Neustadt â Speyer	208	5446.0	-2.3000000000000003	171994.0	0.03166389525215996
+Others	7	Rheinland-Pfalz	209: Kaiserslautern	209	5674.0	-3.3	166693.0	0.03403862189774016
+Others	7	Rheinland-Pfalz	210: Pirmasens	210	4158.0	-2.9000000000000004	130529.0	0.03185499007883306
+Others	7	Rheinland-Pfalz	211: SÃ¼dpfalz	211	4674.0	-3.0000000000000004	167790.0	0.027856248882531735
+Others	8	Baden-WÃ¼rttemberg	258: Stuttgart I	258	3305.0	-2.5	156669.0	0.021095430493588394
+Others	8	Baden-WÃ¼rttemberg	259: Stuttgart II	259	3716.0	-2.2	135016.0	0.027522663980565267
+Others	8	Baden-WÃ¼rttemberg	260: BÃ¶blingen	260	4931.0	-2.3	191782.0	0.025711484915164094
+Others	8	Baden-WÃ¼rttemberg	261: Esslingen	261	3718.0	-1.9000000000000001	132175.0	0.028129373936069603
+Others	8	Baden-WÃ¼rttemberg	262: NÃ¼rtingen	262	4449.0	-2.1999999999999997	164015.0	0.027125567783434442
+Others	8	Baden-WÃ¼rttemberg	263: GÃ¶ppingen	263	3806.0	-1.8999999999999997	133795.0	0.028446503979969357
+Others	8	Baden-WÃ¼rttemberg	264: Waiblingen	264	4926.0	-1.7999999999999996	174351.0	0.028253350998847154
+Others	8	Baden-WÃ¼rttemberg	265: Ludwigsburg	265	4737.0	-2.1999999999999997	171056.0	0.02769268543634833
+Others	8	Baden-WÃ¼rttemberg	266: Neckar-Zaber	266	5287.0	-2.3000000000000003	182015.0	0.029047056561272423
+Others	8	Baden-WÃ¼rttemberg	267: Heilbronn	267	5019.0	-2.8000000000000003	179760.0	0.027920560747663553
+Others	8	Baden-WÃ¼rttemberg	268: SchwÃ¤bisch Hall â Hohenlohe	268	4840.0	-2.6	167089.0	0.02896659863904865
+Others	8	Baden-WÃ¼rttemberg	269: Backnang â SchwÃ¤bisch GmÃ¼nd	269	3616.0	-2.1999999999999997	133138.0	0.027159789091018342
+Others	8	Baden-WÃ¼rttemberg	270: Aalen â Heidenheim	270	4217.0	-2.4	165758.0	0.02544070271118136
+Others	8	Baden-WÃ¼rttemberg	271: Karlsruhe-Stadt	271	3962.0	-3.8	156634.0	0.025294635902805267
+Others	8	Baden-WÃ¼rttemberg	272: Karlsruhe-Land	272	4287.0	-2.4	163951.0	0.026148056431494777
+Others	8	Baden-WÃ¼rttemberg	273: Rastatt	273	3911.0	-2.0000000000000004	152766.0	0.025601246350627757
+Others	8	Baden-WÃ¼rttemberg	274: Heidelberg	274	3647.0	-2.8	174300.0	0.020923694779116465
+Others	8	Baden-WÃ¼rttemberg	275: Mannheim	275	3839.0	-3.3	139045.0	0.027609766622316515
+Others	8	Baden-WÃ¼rttemberg	276: Odenwald â Tauber	276	4945.0	-2.3	158730.0	0.031153531153531155
+Others	8	Baden-WÃ¼rttemberg	277: Rhein-Neckar	277	4177.0	-3.2	151760.0	0.027523721665788085
+Others	8	Baden-WÃ¼rttemberg	278: Bruchsal â Schwetzingen	278	5039.0	-2.5000000000000004	149894.0	0.03361708940984963
+Others	8	Baden-WÃ¼rttemberg	279: Pforzheim	279	5216.0	-2.2	163252.0	0.0319506039742239
+Others	8	Baden-WÃ¼rttemberg	280: Calw	280	4175.0	-2.1999999999999997	149446.0	0.02793651218500328
+Others	8	Baden-WÃ¼rttemberg	281: Freiburg	281	4306.0	-2.8	175179.0	0.024580571872199294
+Others	8	Baden-WÃ¼rttemberg	282: LÃ¶rrach â MÃ¼llheim	282	4701.0	-1.9999999999999996	172283.0	0.027286499538549943
+Others	8	Baden-WÃ¼rttemberg	283: Emmendingen â Lahr	283	5466.0	-2.1000000000000005	164147.0	0.03329942064125448
+Others	8	Baden-WÃ¼rttemberg	284: Offenburg	284	4174.0	-1.9999999999999998	150984.0	0.027645313410692523
+Others	8	Baden-WÃ¼rttemberg	285: Rottweil â Tuttlingen	285	4557.0	-2.9000000000000004	147257.0	0.03094589730878668
+Others	8	Baden-WÃ¼rttemberg	286: Schwarzwald-Baar	286	3478.0	-2.8000000000000003	121822.0	0.028549851422567354
+Others	8	Baden-WÃ¼rttemberg	287: Konstanz	287	3975.0	-2.3	154179.0	0.025781721246084098
+Others	8	Baden-WÃ¼rttemberg	288: Waldshut	288	3645.0	-1.8	132990.0	0.02740807579517257
+Others	8	Baden-WÃ¼rttemberg	289: Reutlingen	289	3517.0	-2.6	153545.0	0.022905337197564234
+Others	8	Baden-WÃ¼rttemberg	290: TÃ¼bingen	290	3564.0	-2.9000000000000004	155479.0	0.022922709819332514
+Others	8	Baden-WÃ¼rttemberg	291: Ulm	291	5008.0	-2.7	172730.0	0.028993226422740694
+Others	8	Baden-WÃ¼rttemberg	292: Biberach	292	4333.0	-2.6	128335.0	0.033763197880547005
+Others	8	Baden-WÃ¼rttemberg	293: Bodensee	293	3431.0	-2.6	133629.0	0.02567556443586347
+Others	8	Baden-WÃ¼rttemberg	294: Ravensburg	294	4747.0	-2.6999999999999997	142410.0	0.03333333333333333
+Others	8	Baden-WÃ¼rttemberg	295: Zollernalb â Sigmaringen	295	3860.0	-2.9000000000000004	135657.0	0.02845411589523578
+Others	9	Bayern	212: AltÃ¶tting	212	8519.0	-1.5999999999999999	124253.0	0.06856172486781004
+Others	9	Bayern	213: Erding â Ebersberg	213	11852.0	-1.7	160213.0	0.07397651875940155
+Others	9	Bayern	214: Freising	214	13995.0	-2.1999999999999997	182702.0	0.07660014668695471
+Others	9	Bayern	215: FÃ¼rstenfeldbruck	215	11051.0	-2.4	187059.0	0.05907761722237369
+Others	9	Bayern	216: Ingolstadt	216	11728.0	-1.9999999999999996	180250.0	0.06506518723994452
+Others	9	Bayern	217: MÃ¼nchen-Nord	217	6518.0	-3.0999999999999996	170233.0	0.038288698430974016
+Others	9	Bayern	218: MÃ¼nchen-Ost	218	7196.0	-2.6	182831.0	0.039358752071585235
+Others	9	Bayern	219: MÃ¼nchen-SÃ¼d	219	6789.0	-3.1	166394.0	0.040800750027044246
+Others	9	Bayern	220: MÃ¼nchen-West/Mitte	220	7329.0	-2.9	188762.0	0.03882667062226507
+Others	9	Bayern	221: MÃ¼nchen-Land	221	9494.0	-1.7	193530.0	0.04905699374773937
+Others	9	Bayern	222: Rosenheim	222	12661.0	-1.8	182834.0	0.06924860802695341
+Others	9	Bayern	223: Bad TÃ¶lz-Wolfratshausen â Miesbach	223	9040.0	-1.6	130108.0	0.06948073907830418
+Others	9	Bayern	224: Starnberg â Landsberg am Lech	224	8697.0	-2.3	173656.0	0.05008177085732713
+Others	9	Bayern	225: Traunstein	225	10467.0	-0.7999999999999999	157572.0	0.0664267763308202
+Others	9	Bayern	226: Weilheim	226	9047.0	-2.6999999999999997	131724.0	0.06868148553035135
+Others	9	Bayern	227: Deggendorf	227	9558.0	-2.5	117808.0	0.08113201140839332
+Others	9	Bayern	228: Landshut	228	18247.0	-1.7	189411.0	0.09633548209977245
+Others	9	Bayern	229: Passau	229	7910.0	-2.7	129191.0	0.061227175267627
+Others	9	Bayern	230: Rottal-Inn	230	10246.0	-1.7000000000000002	122367.0	0.08373172505659206
+Others	9	Bayern	231: Straubing	231	10593.0	-2.0999999999999996	127137.0	0.08331956865428632
+Others	9	Bayern	232: Amberg	232	13043.0	-2.1	166192.0	0.07848151535573313
+Others	9	Bayern	233: Regensburg	233	14664.0	-2.4	194901.0	0.07523819785429525
+Others	9	Bayern	234: Schwandorf	234	13674.0	-2.5	159878.0	0.08552771488259799
+Others	9	Bayern	235: Weiden	235	9162.0	-2.0999999999999996	128004.0	0.07157588825349208
+Others	9	Bayern	236: Bamberg	236	7480.0	-3.3	141945.0	0.05269646694142097
+Others	9	Bayern	237: Bayreuth	237	6130.0	-2.8000000000000003	124342.0	0.04929951263450805
+Others	9	Bayern	238: Coburg	238	5488.0	-2.3000000000000003	120676.0	0.04547714541416686
+Others	9	Bayern	239: Hof	239	6424.0	-2.1	123640.0	0.05195729537366548
+Others	9	Bayern	240: Kulmbach	240	7433.0	-2.9	131949.0	0.056332370840248884
+Others	9	Bayern	241: Ansbach	241	12119.0	-2.2	182014.0	0.0665827903348094
+Others	9	Bayern	242: Erlangen	242	7072.0	-3.0	144967.0	0.048783516248525526
+Others	9	Bayern	243: FÃ¼rth	243	10775.0	-2.2	193896.0	0.05557102776746297
+Others	9	Bayern	244: NÃ¼rnberg-Nord	244	6186.0	-3.1000000000000005	141534.0	0.04370681249735046
+Others	9	Bayern	245: NÃ¼rnberg-SÃ¼d	245	6322.0	-2.4	128355.0	0.049254022048225626
+Others	9	Bayern	246: Roth	246	11154.0	-2.3000000000000003	181912.0	0.06131536127358283
+Others	9	Bayern	247: Aschaffenburg	247	6309.0	-3.0	140899.0	0.04477675498051796
+Others	9	Bayern	248: Bad Kissingen	248	8686.0	-2.8	167556.0	0.05183938504141899
+Others	9	Bayern	249: Main-Spessart	249	8202.0	-3.5000000000000004	153427.0	0.053458648086712246
+Others	9	Bayern	250: Schweinfurt	250	8010.0	-2.3000000000000003	152680.0	0.05246266701598114
+Others	9	Bayern	251: WÃ¼rzburg	251	7138.0	-2.8000000000000003	178076.0	0.04008400907477706
+Others	9	Bayern	252: Augsburg-Stadt	252	7347.0	-2.2	148474.0	0.04948341123698426
+Others	9	Bayern	253: Augsburg-Land	253	13253.0	-0.6999999999999997	195118.0	0.06792300044075893
+Others	9	Bayern	254: Donau-Ries	254	9549.0	-1.8999999999999997	145290.0	0.06572372496386537
+Others	9	Bayern	255: Neu-Ulm	255	11198.0	-1.5999999999999999	178256.0	0.06281976483260031
+Others	9	Bayern	256: OberallgÃ¤u	256	10676.0	-1.2999999999999998	172642.0	0.061838949965825236
+Others	9	Bayern	257: OstallgÃ¤u	257	12797.0	-2.4	187656.0	0.06819392931747453
+Others	10	Saarland	296: SaarbrÃ¼cken	296	2988.0	-3.4999999999999996	141916.0	0.0210547084190648
+Others	10	Saarland	297: Saarlouis	297	2870.0	-3.1999999999999997	154810.0	0.01853885407919385
+Others	10	Saarland	298: St. Wendel	298	2628.0	-2.9000000000000004	136200.0	0.019295154185022027
+Others	10	Saarland	299: Homburg	299	2809.0	-3.0	140799.0	0.019950425784274035
+Others	11	Berlin	075: Berlin-Mitte	75	5963.0	-2.6999999999999997	143699.0	0.04149646135324533
+Others	11	Berlin	076: Berlin-Pankow	76	6927.0	-2.0999999999999996	179167.0	0.03866225365162111
+Others	11	Berlin	077: Berlin-Reinickendorf	77	3383.0	-1.8	130076.0	0.02600787232079707
+Others	11	Berlin	078: Berlin-Spandau â Charlottenburg Nord	78	4116.0	-1.6	125812.0	0.03271548024035863
+Others	11	Berlin	079: Berlin-Steglitz-Zehlendorf	79	3612.0	-1.7000000000000002	174170.0	0.020738359074467475
+Others	11	Berlin	080: Berlin-Charlottenburg-Wilmersdorf	80	3430.0	-1.6	152657.0	0.02246867159710986
+Others	11	Berlin	081: Berlin-Tempelhof-SchÃ¶neberg	81	5038.0	-2.1	173196.0	0.029088431603501236
+Others	11	Berlin	082: Berlin-NeukÃ¶lln	82	5219.0	-2.6999999999999997	135324.0	0.03856669918122432
+Others	11	Berlin	083: Berlin-Friedrichshain-Kreuzberg â Prenzlauer Berg Ost	83	8180.0	-3.8	164561.0	0.04970801101111442
+Others	11	Berlin	084: Berlin-Treptow-KÃ¶penick	84	6107.0	-1.7000000000000002	149101.0	0.04095881315349997
+Others	11	Berlin	085: Berlin-Marzahn-Hellersdorf	85	4212.0	-1.8	130856.0	0.03218805404414012
+Others	11	Berlin	086: Berlin-Lichtenberg	86	5582.0	-2.1	140057.0	0.03985520181069136
+Others	12	Brandenburg	056: Prignitz â Ostprignitz-Ruppin â Havelland I	56	2402.0	-1.3	114917.0	0.020902042343604516
+Others	12	Brandenburg	057: Uckermark â Barnim I	57	2871.0	-1.4000000000000001	123364.0	0.02327259167990662
+Others	12	Brandenburg	058: Oberhavel â Havelland II	58	3346.0	-1.5	174844.0	0.019137059321452266
+Others	12	Brandenburg	059: MÃ¤rkisch-Oderland â Barnim II	59	3914.0	-1.4	160075.0	0.024451038575667657
+Others	12	Brandenburg	060: Brandenburg an der Havel â Potsdam-Mittelmark I â Havelland III â Teltow-FlÃ¤ming I	60	2730.0	-1.2999999999999998	121331.0	0.022500432700628858
+Others	12	Brandenburg	061: Potsdam â Potsdam-Mittelmark II â Teltow-FlÃ¤ming II	61	2434.0	-0.6	184308.0	0.013206154914599475
+Others	12	Brandenburg	062: Dahme-Spreewald â Teltow-FlÃ¤ming III â Oberspreewald-Lausitz I	62	4210.0	-2.0	177224.0	0.023755247596262356
+Others	12	Brandenburg	063: Frankfurt (Oder) â Oder-Spree	63	3504.0	-1.6	131910.0	0.02656356606777348
+Others	12	Brandenburg	064: Cottbus â Spree-NeiÃe	64	2667.0	-2.2	124157.0	0.021480866966824264
+Others	12	Brandenburg	065: Elbe-Elster â Oberspreewald-Lausitz II	65	3954.0	-1.4999999999999998	116843.0	0.033840281403250516
+Others	13	Mecklenburg-Vorpommern	012: Schwerin â Ludwigslust-Parchim I â Nordwestmecklenburg I	12	3556.0	-1.5	151692.0	0.023442238219550143
+Others	13	Mecklenburg-Vorpommern	013: Ludwigslust-Parchim II â Nordwestmecklenburg II â Landkreis Rostock I	13	3052.0	-1.4	141548.0	0.021561590414559018
+Others	13	Mecklenburg-Vorpommern	014: Rostock â Landkreis Rostock II	14	2165.0	-1.2000000000000002	156884.0	0.013800005099309044
+Others	13	Mecklenburg-Vorpommern	015: Vorpommern-RÃ¼gen â Vorpommern-Greifswald I	15	2849.0	-1.7	161340.0	0.01765836122474278
+Others	13	Mecklenburg-Vorpommern	016: Mecklenburgische Seenplatte I â Vorpommern-Greifswald II	16	4409.0	-2.9	150830.0	0.02923158522840284
+Others	13	Mecklenburg-Vorpommern	017: Mecklenburgische Seenplatte II â Landkreis Rostock III	17	3286.0	-1.5	139161.0	0.023612937532785767
+Others	14	Sachsen	151: Nordsachsen	151	3618.0	-4.0	113142.0	0.0319775149811741
+Others	14	Sachsen	152: Leipzig I	152	3950.0	-4.5	151539.0	0.026065897227776347
+Others	14	Sachsen	153: Leipzig II	153	3404.0	-4.5	164092.0	0.020744460424639836
+Others	14	Sachsen	154: Leipzig-Land	154	4146.0	-3.6	154436.0	0.026846072159341088
+Others	14	Sachsen	155: MeiÃen	155	4874.0	-4.699999999999999	145841.0	0.03341995735081356
+Others	14	Sachsen	156: Bautzen I	156	5913.0	-5.0	153814.0	0.03844253448970835
+Others	14	Sachsen	157: GÃ¶rlitz	157	5807.0	-4.8	148427.0	0.03912360958585702
+Others	14	Sachsen	158: SÃ¤chsische Schweiz-Osterzgebirge	158	6100.0	-6.8	149616.0	0.04077104053042455
+Others	14	Sachsen	159: Dresden I	159	4339.0	-5.3	173051.0	0.025073533235866884
+Others	14	Sachsen	160: Dresden II â Bautzen II	160	5274.0	-6.5	175481.0	0.03005453581869262
+Others	14	Sachsen	161: Mittelsachsen	161	4705.0	-4.2	144364.0	0.03259122772990496
+Others	14	Sachsen	162: Chemnitz	162	3502.0	-3.5	139613.0	0.02508362401782069
+Others	14	Sachsen	163: Chemnitzer Umland â Erzgebirgskreis II	163	4226.0	-3.6	132807.0	0.031820611865338425
+Others	14	Sachsen	164: Erzgebirgskreis I	164	5820.0	-4.3	158840.0	0.03664064467388567
+Others	14	Sachsen	165: Zwickau	165	3746.0	-4.7	144192.0	0.02597924988903684
+Others	14	Sachsen	166: Vogtlandkreis	166	3374.0	-4.0	136236.0	0.024765847499926597
+Others	15	Sachsen-Anhalt	066: Altmark	66	1668.0	-1.4	106662.0	0.015638184170557463
+Others	15	Sachsen-Anhalt	067: BÃ¶rde â Jerichower Land	67	3555.0	-1.0	143283.0	0.024811038294843074
+Others	15	Sachsen-Anhalt	068: Harz	68	2700.0	-0.8999999999999999	136988.0	0.01970975559903057
+Others	15	Sachsen-Anhalt	069: Magdeburg	69	2513.0	-0.9	152026.0	0.016530067225343035
+Others	15	Sachsen-Anhalt	070: Dessau â Wittenberg	70	3338.0	-1.2	118117.0	0.02826011497074934
+Others	15	Sachsen-Anhalt	071: Anhalt	71	3690.0	-1.5	141138.0	0.026144624410151765
+Others	15	Sachsen-Anhalt	072: Halle	72	2585.0	-0.8	143223.0	0.018048777081893272
+Others	15	Sachsen-Anhalt	073: Burgenland â Saalekreis	73	3291.0	-2.2	125388.0	0.02624653076849459
+Others	15	Sachsen-Anhalt	074: Mansfeld	74	2636.0	-1.9	133599.0	0.01973068660693568
+Others	16	ThÃ¼ringen	189: Eichsfeld â Nordhausen â KyffhÃ¤userkreis	189	6462.0	-3.7	153000.0	0.04223529411764706
+Others	16	ThÃ¼ringen	190: Eisenach â Wartburgkreis â Unstrut-Hainich-Kreis	190	7812.0	-3.5	157494.0	0.049601889595794126
+Others	16	ThÃ¼ringen	191: Jena â SÃ¶mmerda â Weimarer Land I	191	6082.0	-4.2	148869.0	0.040854711189031966
+Others	16	ThÃ¼ringen	192: Gotha â Ilm-Kreis	192	5982.0	-3.9000000000000004	141589.0	0.04224904477042708
+Others	16	ThÃ¼ringen	193: Erfurt â Weimar â Weimarer Land II	193	5194.0	-4.3999999999999995	160228.0	0.03241630676286292
+Others	16	ThÃ¼ringen	194: Gera â Greiz â Altenburger Land	194	6124.0	-3.3000000000000003	170360.0	0.03594740549424748
+Others	16	ThÃ¼ringen	195: Saalfeld-Rudolstadt â Saale-Holzland-Kreis â Saale-Orla-Kreis	195	7092.0	-4.0	165449.0	0.04286517295359899
+Others	16	ThÃ¼ringen	196: Suhl â Schmalkalden-Meiningen â Hildburghausen â Sonneberg	196	6823.0	-3.4000000000000004	164622.0	0.041446465235509225
+SPD	1	Schleswig-Holstein	001: Flensburg â Schleswig	1	40388.0	-8.9	167225.0	0.24151891164598593
+SPD	1	Schleswig-Holstein	002: Nordfriesland â Dithmarschen Nord	2	31120.0	-7.1	136092.0	0.22866884166593188
+SPD	1	Schleswig-Holstein	003: Steinburg â Dithmarschen SÃ¼d	3	29756.0	-7.3	128827.0	0.23097642574926064
+SPD	1	Schleswig-Holstein	004: Rendsburg-EckernfÃ¶rde	4	35766.0	-8.6	153692.0	0.23271217760195717
+SPD	1	Schleswig-Holstein	005: Kiel	5	36208.0	-10.9	147878.0	0.24485048485914065
+SPD	1	Schleswig-Holstein	006: PlÃ¶n â NeumÃ¼nster	6	31013.0	-9.0	128575.0	0.24120552206883142
+SPD	1	Schleswig-Holstein	007: Pinneberg	7	42729.0	-8.3	183203.0	0.23323308024431913
+SPD	1	Schleswig-Holstein	008: Segeberg â Stormarn-Mitte	8	43027.0	-7.7	188914.0	0.2277597213546905
+SPD	1	Schleswig-Holstein	009: Ostholstein â Stormarn-Nord	9	33764.0	-6.9	135600.0	0.24899705014749263
+SPD	1	Schleswig-Holstein	010: Herzogtum Lauenburg â Stormarn-SÃ¼d	10	42815.0	-7.4	188914.0	0.22663751760060133
+SPD	1	Schleswig-Holstein	011: LÃ¼beck	11	32919.0	-8.8	127203.0	0.25879106624843756
+SPD	2	Hamburg	018: Hamburg-Mitte	18	41551.0	-9.8	169759.0	0.24476463692646636
+SPD	2	Hamburg	019: Hamburg-Altona	19	29680.0	-9.3	142253.0	0.2086423484917717
+SPD	2	Hamburg	020: Hamburg-EimsbÃ¼ttel	20	34575.0	-9.1	152170.0	0.2272129854767694
+SPD	2	Hamburg	021: Hamburg-Nord	21	38150.0	-8.7	174987.0	0.21801619548880774
+SPD	2	Hamburg	022: Hamburg-Wandsbek	22	45542.0	-7.9	167826.0	0.27136438930797374
+SPD	2	Hamburg	023: Hamburg-Bergedorf â Harburg	23	40364.0	-8.9	150858.0	0.2675628736957934
+SPD	3	Niedersachsen	024: Aurich â Emden	24	53353.0	-6.0	139388.0	0.38276609177260595
+SPD	3	Niedersachsen	025: Unterems	25	48194.0	-3.4	172873.0	0.2787826901829667
+SPD	3	Niedersachsen	026: Friesland â Wilhelmshaven â Wittmund	26	42207.0	-5.6	135637.0	0.3111761539992775
+SPD	3	Niedersachsen	027: Oldenburg â Ammerland	27	45514.0	-6.5	171103.0	0.26600351834859703
+SPD	3	Niedersachsen	028: Delmenhorst â Wesermarsch â Oldenburg-Land	28	47622.0	-5.9	166400.0	0.28618990384615384
+SPD	3	Niedersachsen	029: Cuxhaven â Stade II	29	38923.0	-5.8	139126.0	0.2797679801043658
+SPD	3	Niedersachsen	030: Stade I â Rotenburg II	30	37361.0	-6.4	150058.0	0.24897706220261498
+SPD	3	Niedersachsen	031: Mittelems	31	41983.0	-2.6	177060.0	0.2371117135434316
+SPD	3	Niedersachsen	032: Cloppenburg â Vechta	32	28870.0	-2.0	161009.0	0.17930674682781708
+SPD	3	Niedersachsen	033: Diepholz â Nienburg I	33	37505.0	-6.0	145121.0	0.25843950909930336
+SPD	3	Niedersachsen	034: Osterholz â Verden	34	40047.0	-6.7	149353.0	0.26813656237236616
+SPD	3	Niedersachsen	035: Rotenburg I â Heidekreis	35	34211.0	-4.1	124421.0	0.27496162223418874
+SPD	3	Niedersachsen	036: Harburg	36	35377.0	-6.3	158445.0	0.22327621572154374
+SPD	3	Niedersachsen	037: LÃ¼chow-Dannenberg â LÃ¼neburg	37	32865.0	-5.6	136769.0	0.2402956810388319
+SPD	3	Niedersachsen	038: OsnabrÃ¼ck-Land	38	38529.0	-3.7	148481.0	0.2594877459068837
+SPD	3	Niedersachsen	039: Stadt OsnabrÃ¼ck	39	37336.0	-5.8	148451.0	0.251503863227597
+SPD	3	Niedersachsen	040: Nienburg II â Schaumburg	40	43307.0	-6.6	143631.0	0.30151568950992474
+SPD	3	Niedersachsen	041: Stadt Hannover I	41	36645.0	-8.1	130413.0	0.2809919256515838
+SPD	3	Niedersachsen	042: Stadt Hannover II	42	37964.0	-9.0	143023.0	0.2654398243639135
+SPD	3	Niedersachsen	043: Hannover-Land I	43	48783.0	-6.0	177535.0	0.2747796209198186
+SPD	3	Niedersachsen	044: Celle â Uelzen	44	40899.0	-4.7	158707.0	0.25770129861946856
+SPD	3	Niedersachsen	045: Gifhorn â Peine	45	50445.0	-6.0	164960.0	0.3058014064015519
+SPD	3	Niedersachsen	046: Hameln-Pyrmont â Holzminden	46	44190.0	-4.5	137003.0	0.32254768143763274
+SPD	3	Niedersachsen	047: Hannover-Land II	47	55161.0	-6.5	183945.0	0.2998776808285085
+SPD	3	Niedersachsen	048: Hildesheim	48	52077.0	-5.4	165520.0	0.314626631222813
+SPD	3	Niedersachsen	049: Salzgitter â WolfenbÃ¼ttel	49	50482.0	-6.8	152997.0	0.3299541821081459
+SPD	3	Niedersachsen	050: Braunschweig	50	38695.0	-7.2	142328.0	0.2718720139396324
+SPD	3	Niedersachsen	051: Helmstedt â Wolfsburg	51	40740.0	-4.8	133800.0	0.30448430493273543
+SPD	3	Niedersachsen	052: Goslar â Northeim â Osterode	52	48016.0	-6.0	147545.0	0.3254329187705446
+SPD	3	Niedersachsen	053: GÃ¶ttingen	53	47871.0	-4.8	166120.0	0.28817120154105463
+SPD	4	Bremen	054: Bremen I	54	45729.0	-8.6	183863.0	0.248712356482816
+SPD	4	Bremen	055: Bremen II â Bremerhaven	55	43215.0	-9.0	143951.0	0.30020632020618127
+SPD	5	Nordrhein-Westfalen	087: Aachen I	87	34663.0	-2.5	137514.0	0.2520688802594645
+SPD	5	Nordrhein-Westfalen	088: Aachen II	88	60539.0	2.7	168868.0	0.3584989459222588
+SPD	5	Nordrhein-Westfalen	089: Heinsberg	89	36421.0	-0.5	138622.0	0.2627360736391049
+SPD	5	Nordrhein-Westfalen	090: DÃ¼ren	90	43816.0	-0.5	147719.0	0.29661722594926854
+SPD	5	Nordrhein-Westfalen	091: Rhein-Erft-Kreis I	91	50014.0	-4.5	186745.0	0.26781975421028675
+SPD	5	Nordrhein-Westfalen	092: Euskirchen â Rhein-Erft-Kreis II	92	43498.0	-3.4	183028.0	0.2376576261555609
+SPD	5	Nordrhein-Westfalen	093: KÃ¶ln I	93	33666.0	-6.7	135304.0	0.2488174776798912
+SPD	5	Nordrhein-Westfalen	094: KÃ¶ln II	94	38485.0	-6.8	193964.0	0.1984131075869749
+SPD	5	Nordrhein-Westfalen	095: KÃ¶ln III	95	36849.0	-6.9	145768.0	0.2527921080072444
+SPD	5	Nordrhein-Westfalen	096: Bonn	96	36119.0	-5.8	176667.0	0.20444678406267158
+SPD	5	Nordrhein-Westfalen	097: Rhein-Sieg-Kreis I	97	40922.0	-4.6	179691.0	0.22773539019761702
+SPD	5	Nordrhein-Westfalen	098: Rhein-Sieg-Kreis II	98	34583.0	-4.3	170851.0	0.20241614037962904
+SPD	5	Nordrhein-Westfalen	099: Oberbergischer Kreis	99	35078.0	-4.4	152264.0	0.23037618872484633
+SPD	5	Nordrhein-Westfalen	100: Rheinisch-Bergischer Kreis	100	36221.0	-5.1	169962.0	0.21311234275896965
+SPD	5	Nordrhein-Westfalen	101: Leverkusen â KÃ¶ln IV	101	41671.0	-5.6	150474.0	0.2769315629278148
+SPD	5	Nordrhein-Westfalen	102: Wuppertal I	102	38696.0	-6.4	145322.0	0.2662776455044659
+SPD	5	Nordrhein-Westfalen	103: Solingen â Remscheid â Wuppertal II	103	40743.0	-5.2	158842.0	0.25650016998023195
+SPD	5	Nordrhein-Westfalen	104: Mettmann I	104	36596.0	-5.2	156340.0	0.23407957016758346
+SPD	5	Nordrhein-Westfalen	105: Mettmann II	105	30492.0	-6.4	122087.0	0.24975632131185138
+SPD	5	Nordrhein-Westfalen	106: DÃ¼sseldorf I	106	33493.0	-7.0	169246.0	0.1978953712347707
+SPD	5	Nordrhein-Westfalen	107: DÃ¼sseldorf II	107	33218.0	-6.9	139776.0	0.23765167124542125
+SPD	5	Nordrhein-Westfalen	108: Neuss I	108	37438.0	-4.3	155602.0	0.24060102055243507
+SPD	5	Nordrhein-Westfalen	109: MÃ¶nchengladbach	109	30547.0	-4.8	128266.0	0.23815352470646936
+SPD	5	Nordrhein-Westfalen	110: Krefeld I â Neuss II	110	34051.0	-5.3	151600.0	0.2246108179419525
+SPD	5	Nordrhein-Westfalen	111: Viersen	111	38368.0	-4.3	169259.0	0.22668218528999934
+SPD	5	Nordrhein-Westfalen	112: Kleve	112	39316.0	-3.6	165611.0	0.23739968963414265
+SPD	5	Nordrhein-Westfalen	113: Wesel I	113	45627.0	-6.2	156622.0	0.2913192271839205
+SPD	5	Nordrhein-Westfalen	114: Krefeld II â Wesel II	114	36714.0	-6.9	130116.0	0.28216360785760397
+SPD	5	Nordrhein-Westfalen	115: Duisburg I	115	37925.0	-7.5	116168.0	0.32646684112664415
+SPD	5	Nordrhein-Westfalen	116: Duisburg II	116	34695.0	-8.9	97605.0	0.355463347164592
+SPD	5	Nordrhein-Westfalen	117: Oberhausen â Wesel III	117	49165.0	-8.3	145719.0	0.33739594699387176
+SPD	5	Nordrhein-Westfalen	118: MÃ¼lheim â Essen I	118	41731.0	-8.7	138935.0	0.3003634793248641
+SPD	5	Nordrhein-Westfalen	119: Essen II	119	34727.0	-9.9	106358.0	0.3265104646571015
+SPD	5	Nordrhein-Westfalen	120: Essen III	120	37699.0	-8.4	149581.0	0.2520306723447497
+SPD	5	Nordrhein-Westfalen	121: Recklinghausen I	121	38822.0	-8.2	120260.0	0.3228172293364377
+SPD	5	Nordrhein-Westfalen	122: Recklinghausen II	122	44224.0	-8.4	136511.0	0.3239592413798155
+SPD	5	Nordrhein-Westfalen	123: Gelsenkirchen	123	39524.0	-10.6	114202.0	0.346088509833453
+SPD	5	Nordrhein-Westfalen	124: Steinfurt I â Borken I	124	35466.0	-5.0	151846.0	0.23356558618600423
+SPD	5	Nordrhein-Westfalen	125: Bottrop â Recklinghausen III	125	47013.0	-8.9	147046.0	0.31971627925955143
+SPD	5	Nordrhein-Westfalen	126: Borken II	126	33697.0	-4.1	155566.0	0.21660902767957008
+SPD	5	Nordrhein-Westfalen	127: Coesfeld â Steinfurt II	127	32787.0	-4.6	154239.0	0.21257269562172992
+SPD	5	Nordrhein-Westfalen	128: Steinfurt III	128	41815.0	-5.8	149700.0	0.2793253173012692
+SPD	5	Nordrhein-Westfalen	129: MÃ¼nster	129	39714.0	-6.3	187920.0	0.2113346104725415
+SPD	5	Nordrhein-Westfalen	130: Warendorf	130	38992.0	-5.1	160036.0	0.24364517983453723
+SPD	5	Nordrhein-Westfalen	131: GÃ¼tersloh I	131	40104.0	-5.8	172709.0	0.2322056175416452
+SPD	5	Nordrhein-Westfalen	132: Bielefeld â GÃ¼tersloh II	132	46883.0	-7.2	181140.0	0.25882190570829194
+SPD	5	Nordrhein-Westfalen	133: Herford â Minden-LÃ¼bbecke II	133	47940.0	-6.2	164612.0	0.2912302869778631
+SPD	5	Nordrhein-Westfalen	134: Minden-LÃ¼bbecke I	134	43966.0	-5.0	147656.0	0.297759657582489
+SPD	5	Nordrhein-Westfalen	135: Lippe I	135	35509.0	-7.3	125826.0	0.2822071749876814
+SPD	5	Nordrhein-Westfalen	136: HÃ¶xter â Lippe II	136	39038.0	-5.0	156266.0	0.2498176186758476
+SPD	5	Nordrhein-Westfalen	137: Paderborn â GÃ¼tersloh III	137	35055.0	-4.5	183356.0	0.19118545343484805
+SPD	5	Nordrhein-Westfalen	138: Hagen â Ennepe-Ruhr-Kreis I	138	43548.0	-7.4	145557.0	0.2991817638450916
+SPD	5	Nordrhein-Westfalen	139: Ennepe-Ruhr-Kreis II	139	40767.0	-8.4	133832.0	0.30461324645824617
+SPD	5	Nordrhein-Westfalen	140: Bochum I	140	46243.0	-8.9	152175.0	0.3038804008542796
+SPD	5	Nordrhein-Westfalen	141: Herne â Bochum II	141	43312.0	-9.6	123123.0	0.3517783029978152
+SPD	5	Nordrhein-Westfalen	142: Dortmund I	142	46424.0	-8.1	151574.0	0.3062794410650903
+SPD	5	Nordrhein-Westfalen	143: Dortmund II	143	46513.0	-8.3	139104.0	0.33437571888658846
+SPD	5	Nordrhein-Westfalen	144: Unna I	144	50205.0	-7.4	146716.0	0.34219171733144305
+SPD	5	Nordrhein-Westfalen	145: Hamm â Unna II	145	53467.0	-7.0	166139.0	0.321820884921662
+SPD	5	Nordrhein-Westfalen	146: Soest	146	43184.0	-5.4	170707.0	0.25297146572782603
+SPD	5	Nordrhein-Westfalen	147: Hochsauerlandkreis	147	34865.0	-5.2	150962.0	0.23095216014626196
+SPD	5	Nordrhein-Westfalen	148: Siegen-Wittgenstein	148	42551.0	-5.6	158559.0	0.2683606733140345
+SPD	5	Nordrhein-Westfalen	149: Olpe â MÃ¤rkischer Kreis I	149	35269.0	-4.9	149098.0	0.236549115346953
+SPD	5	Nordrhein-Westfalen	150: MÃ¤rkischer Kreis II	150	37193.0	-6.5	141456.0	0.26292981563171586
+SPD	6	Hessen	167: Waldeck	167	43446.0	-5.2	138727.0	0.31317623822327306
+SPD	6	Hessen	168: Kassel	168	46769.0	-5.7	162467.0	0.2878676900539802
+SPD	6	Hessen	169: Werra-MeiÃner â Hersfeld-Rotenburg	169	42737.0	-4.3	129309.0	0.3305029038968672
+SPD	6	Hessen	170: Schwalm-Eder	170	44847.0	-5.2	141090.0	0.31786093982564323
+SPD	6	Hessen	171: Marburg	171	37202.0	-7.0	138611.0	0.2683913975081343
+SPD	6	Hessen	172: Lahn-Dill	172	37794.0	-5.6	150144.0	0.2517183503836317
+SPD	6	Hessen	173: GieÃen	173	39252.0	-5.8	161445.0	0.2431292390597417
+SPD	6	Hessen	174: Fulda	174	28745.0	-4.0	156200.0	0.1840268886043534
+SPD	6	Hessen	175: Main-Kinzig â Wetterau II â Schotten	175	32069.0	-4.2	133448.0	0.24031083268389186
+SPD	6	Hessen	176: Hochtaunus	176	28947.0	-4.7	141954.0	0.2039181706750074
+SPD	6	Hessen	177: Wetterau I	177	31152.0	-4.6	134615.0	0.23141551833005236
+SPD	6	Hessen	178: Rheingau-Taunus â Limburg	178	35604.0	-4.4	168651.0	0.21111051817066012
+SPD	6	Hessen	179: Wiesbaden	179	29247.0	-6.6	135843.0	0.21530001545902255
+SPD	6	Hessen	180: Hanau	180	31150.0	-5.1	128993.0	0.24148597210701356
+SPD	6	Hessen	181: Main-Taunus	181	28786.0	-4.4	156333.0	0.184132588768846
+SPD	6	Hessen	182: Frankfurt am Main I	182	29743.0	-6.1	140601.0	0.21154188092545573
+SPD	6	Hessen	183: Frankfurt am Main II	183	33511.0	-6.7	167761.0	0.19975441252734544
+SPD	6	Hessen	184: GroÃ-Gerau	184	33318.0	-5.1	128583.0	0.2591166794988451
+SPD	6	Hessen	185: Offenbach	185	34519.0	-4.7	158341.0	0.2180041808501904
+SPD	6	Hessen	186: Darmstadt	186	42638.0	-6.1	186727.0	0.22834405308284286
+SPD	6	Hessen	187: Odenwald	187	42516.0	-4.7	178579.0	0.2380795054289698
+SPD	6	Hessen	188: BergstraÃe	188	34435.0	-5.2	151260.0	0.22765436995901098
+SPD	7	Rheinland-Pfalz	197: Neuwied	197	45447.0	-3.2	176872.0	0.25694852774888055
+SPD	7	Rheinland-Pfalz	198: Ahrweiler	198	34113.0	-1.9	148038.0	0.2304340777367973
+SPD	7	Rheinland-Pfalz	199: Koblenz	199	35679.0	-3.3	147302.0	0.24221667051363865
+SPD	7	Rheinland-Pfalz	200: Mosel/Rhein-HunsrÃ¼ck	200	30799.0	-1.5	131956.0	0.23340355876201158
+SPD	7	Rheinland-Pfalz	201: Kreuznach	201	37906.0	-3.9	136355.0	0.27799493967951305
+SPD	7	Rheinland-Pfalz	202: Bitburg	202	27255.0	-0.5	123672.0	0.22038133126334175
+SPD	7	Rheinland-Pfalz	203: Trier	203	36950.0	-1.6	147685.0	0.25019467109049665
+SPD	7	Rheinland-Pfalz	204: Montabaur	204	39906.0	-3.1	159526.0	0.2501535799806928
+SPD	7	Rheinland-Pfalz	205: Mainz	205	44203.0	-4.5	197400.0	0.22392603850050657
+SPD	7	Rheinland-Pfalz	206: Worms	206	42471.0	-4.5	165209.0	0.2570743724615487
+SPD	7	Rheinland-Pfalz	207: Ludwigshafen/Frankenthal	207	39822.0	-4.6	156820.0	0.25393444713684477
+SPD	7	Rheinland-Pfalz	208: Neustadt â Speyer	208	37894.0	-4.1	171994.0	0.2203216391269463
+SPD	7	Rheinland-Pfalz	209: Kaiserslautern	209	47986.0	-4.4	166693.0	0.28787051645839956
+SPD	7	Rheinland-Pfalz	210: Pirmasens	210	32794.0	-3.2	130529.0	0.25123918822637115
+SPD	7	Rheinland-Pfalz	211: SÃ¼dpfalz	211	37293.0	-4.1	167790.0	0.222259967816914
+SPD	8	Baden-WÃ¼rttemberg	258: Stuttgart I	258	23350.0	-6.4	156669.0	0.14904033344184237
+SPD	8	Baden-WÃ¼rttemberg	259: Stuttgart II	259	23458.0	-5.9	135016.0	0.1737423712745156
+SPD	8	Baden-WÃ¼rttemberg	260: BÃ¶blingen	260	30296.0	-4.5	191782.0	0.15797102960653242
+SPD	8	Baden-WÃ¼rttemberg	261: Esslingen	261	22579.0	-5.1	132175.0	0.17082655570266692
+SPD	8	Baden-WÃ¼rttemberg	262: NÃ¼rtingen	262	25190.0	-4.8	164015.0	0.15358351370301496
+SPD	8	Baden-WÃ¼rttemberg	263: GÃ¶ppingen	263	23924.0	-4.1	133795.0	0.1788108673717254
+SPD	8	Baden-WÃ¼rttemberg	264: Waiblingen	264	28146.0	-4.2	174351.0	0.1614329714197223
+SPD	8	Baden-WÃ¼rttemberg	265: Ludwigsburg	265	28547.0	-4.8	171056.0	0.16688686745861003
+SPD	8	Baden-WÃ¼rttemberg	266: Neckar-Zaber	266	30472.0	-4.5	182015.0	0.16741477350767794
+SPD	8	Baden-WÃ¼rttemberg	267: Heilbronn	267	32489.0	-4.4	179760.0	0.18073542501112594
+SPD	8	Baden-WÃ¼rttemberg	268: SchwÃ¤bisch Hall â Hohenlohe	268	27472.0	-3.8	167089.0	0.16441537144874888
+SPD	8	Baden-WÃ¼rttemberg	269: Backnang â SchwÃ¤bisch GmÃ¼nd	269	22298.0	-3.9	133138.0	0.1674803587255329
+SPD	8	Baden-WÃ¼rttemberg	270: Aalen â Heidenheim	270	31341.0	-3.7	165758.0	0.1890768469696787
+SPD	8	Baden-WÃ¼rttemberg	271: Karlsruhe-Stadt	271	27044.0	-5.9	156634.0	0.17265727747487775
+SPD	8	Baden-WÃ¼rttemberg	272: Karlsruhe-Land	272	28591.0	-4.0	163951.0	0.17438746942684094
+SPD	8	Baden-WÃ¼rttemberg	273: Rastatt	273	26374.0	-3.6	152766.0	0.17264312739745755
+SPD	8	Baden-WÃ¼rttemberg	274: Heidelberg	274	32806.0	-4.9	174300.0	0.18821572002294895
+SPD	8	Baden-WÃ¼rttemberg	275: Mannheim	275	30309.0	-6.3	139045.0	0.21797979071523607
+SPD	8	Baden-WÃ¼rttemberg	276: Odenwald â Tauber	276	27175.0	-2.9	158730.0	0.1712026712026712
+SPD	8	Baden-WÃ¼rttemberg	277: Rhein-Neckar	277	28486.0	-3.8	151760.0	0.18770426989984185
+SPD	8	Baden-WÃ¼rttemberg	278: Bruchsal â Schwetzingen	278	26560.0	-4.2	149894.0	0.1771918822634662
+SPD	8	Baden-WÃ¼rttemberg	279: Pforzheim	279	27101.0	-3.9	163252.0	0.16600715458309853
+SPD	8	Baden-WÃ¼rttemberg	280: Calw	280	21832.0	-3.2	149446.0	0.1460862117420339
+SPD	8	Baden-WÃ¼rttemberg	281: Freiburg	281	31452.0	-4.6	175179.0	0.17954206839860942
+SPD	8	Baden-WÃ¼rttemberg	282: LÃ¶rrach â MÃ¼llheim	282	31249.0	-4.0	172283.0	0.18138179623062056
+SPD	8	Baden-WÃ¼rttemberg	283: Emmendingen â Lahr	283	29738.0	-3.4	164147.0	0.1811668809055298
+SPD	8	Baden-WÃ¼rttemberg	284: Offenburg	284	25406.0	-2.7	150984.0	0.16826948550839824
+SPD	8	Baden-WÃ¼rttemberg	285: Rottweil â Tuttlingen	285	21900.0	-2.9	147257.0	0.14871958548659825
+SPD	8	Baden-WÃ¼rttemberg	286: Schwarzwald-Baar	286	19337.0	-3.5	121822.0	0.15873159199487777
+SPD	8	Baden-WÃ¼rttemberg	287: Konstanz	287	24529.0	-4.6	154179.0	0.15909429948306839
+SPD	8	Baden-WÃ¼rttemberg	288: Waldshut	288	22122.0	-2.6	132990.0	0.16634333408526958
+SPD	8	Baden-WÃ¼rttemberg	289: Reutlingen	289	23321.0	-4.3	153545.0	0.15188381256309225
+SPD	8	Baden-WÃ¼rttemberg	290: TÃ¼bingen	290	24865.0	-4.8	155479.0	0.15992513458409174
+SPD	8	Baden-WÃ¼rttemberg	291: Ulm	291	27889.0	-4.3	172730.0	0.16146008220922828
+SPD	8	Baden-WÃ¼rttemberg	292: Biberach	292	16557.0	-2.1	128335.0	0.1290139089102739
+SPD	8	Baden-WÃ¼rttemberg	293: Bodensee	293	19321.0	-4.0	133629.0	0.1445868785967118
+SPD	8	Baden-WÃ¼rttemberg	294: Ravensburg	294	19398.0	-3.9	142410.0	0.1362123446387192
+SPD	8	Baden-WÃ¼rttemberg	295: Zollernalb â Sigmaringen	295	19446.0	-3.0	135657.0	0.14334682323801942
+SPD	9	Bayern	212: AltÃ¶tting	212	15511.0	-2.8	124253.0	0.12483400803199923
+SPD	9	Bayern	213: Erding â Ebersberg	213	19943.0	-4.3	160213.0	0.12447803861109898
+SPD	9	Bayern	214: Freising	214	23029.0	-3.7	182702.0	0.12604678657048088
+SPD	9	Bayern	215: FÃ¼rstenfeldbruck	215	25929.0	-4.5	187059.0	0.13861402017545266
+SPD	9	Bayern	216: Ingolstadt	216	24424.0	-4.1	180250.0	0.135500693481276
+SPD	9	Bayern	217: MÃ¼nchen-Nord	217	28903.0	-8.0	170233.0	0.16978494181504172
+SPD	9	Bayern	218: MÃ¼nchen-Ost	218	29744.0	-7.3	182831.0	0.1626857589796041
+SPD	9	Bayern	219: MÃ¼nchen-SÃ¼d	219	27500.0	-7.8	166394.0	0.16527038234551727
+SPD	9	Bayern	220: MÃ¼nchen-West/Mitte	220	30617.0	-7.8	188762.0	0.16219895953634736
+SPD	9	Bayern	221: MÃ¼nchen-Land	221	27490.0	-5.8	193530.0	0.14204516095695757
+SPD	9	Bayern	222: Rosenheim	222	20967.0	-3.5	182834.0	0.11467779515844974
+SPD	9	Bayern	223: Bad TÃ¶lz-Wolfratshausen â Miesbach	223	14457.0	-3.4	130108.0	0.11111538106803578
+SPD	9	Bayern	224: Starnberg â Landsberg am Lech	224	22332.0	-4.3	173656.0	0.12859906942460958
+SPD	9	Bayern	225: Traunstein	225	18916.0	-3.0	157572.0	0.12004670880613307
+SPD	9	Bayern	226: Weilheim	226	15402.0	-3.7	131724.0	0.1169263004463879
+SPD	9	Bayern	227: Deggendorf	227	16915.0	-2.5	117808.0	0.14358108108108109
+SPD	9	Bayern	228: Landshut	228	25095.0	-2.9	189411.0	0.132489665330947
+SPD	9	Bayern	229: Passau	229	19709.0	-3.4	129191.0	0.15255706666873078
+SPD	9	Bayern	230: Rottal-Inn	230	15765.0	-2.3	122367.0	0.12883375419843585
+SPD	9	Bayern	231: Straubing	231	17512.0	-2.4	127137.0	0.13774117684073087
+SPD	9	Bayern	232: Amberg	232	26080.0	-3.9	166192.0	0.15692692789063253
+SPD	9	Bayern	233: Regensburg	233	28582.0	-4.8	194901.0	0.14664881144786326
+SPD	9	Bayern	234: Schwandorf	234	26122.0	-3.2	159878.0	0.16338708265052101
+SPD	9	Bayern	235: Weiden	235	24631.0	-3.5	128004.0	0.19242367426017937
+SPD	9	Bayern	236: Bamberg	236	22529.0	-4.2	141945.0	0.1587164042410793
+SPD	9	Bayern	237: Bayreuth	237	23198.0	-4.9	124342.0	0.18656608386546783
+SPD	9	Bayern	238: Coburg	238	27553.0	-5.4	120676.0	0.22832211873114786
+SPD	9	Bayern	239: Hof	239	27775.0	-4.5	123640.0	0.22464412811387902
+SPD	9	Bayern	240: Kulmbach	240	23675.0	-3.8	131949.0	0.17942538404989808
+SPD	9	Bayern	241: Ansbach	241	31464.0	-5.2	182014.0	0.1728658235080818
+SPD	9	Bayern	242: Erlangen	242	25578.0	-7.0	144967.0	0.17644015534569937
+SPD	9	Bayern	243: FÃ¼rth	243	37089.0	-6.4	193896.0	0.1912829558113628
+SPD	9	Bayern	244: NÃ¼rnberg-Nord	244	26456.0	-8.6	141534.0	0.1869232834513262
+SPD	9	Bayern	245: NÃ¼rnberg-SÃ¼d	245	27467.0	-7.5	128355.0	0.21399244283432667
+SPD	9	Bayern	246: Roth	246	34040.0	-6.1	181912.0	0.18712344430273978
+SPD	9	Bayern	247: Aschaffenburg	247	25198.0	-4.4	140899.0	0.17883732318895096
+SPD	9	Bayern	248: Bad Kissingen	248	26904.0	-2.3	167556.0	0.16056721334956672
+SPD	9	Bayern	249: Main-Spessart	249	28903.0	-3.0	153427.0	0.18838274879910316
+SPD	9	Bayern	250: Schweinfurt	250	26163.0	-3.8	152680.0	0.1713583966465811
+SPD	9	Bayern	251: WÃ¼rzburg	251	32126.0	-4.9	178076.0	0.18040611873582066
+SPD	9	Bayern	252: Augsburg-Stadt	252	24112.0	-6.3	148474.0	0.16239880383097377
+SPD	9	Bayern	253: Augsburg-Land	253	25240.0	-4.5	195118.0	0.1293576194917947
+SPD	9	Bayern	254: Donau-Ries	254	20289.0	-2.8	145290.0	0.13964484823456536
+SPD	9	Bayern	255: Neu-Ulm	255	24828.0	-4.4	178256.0	0.1392828291894803
+SPD	9	Bayern	256: OberallgÃ¤u	256	21725.0	-3.6	172642.0	0.12583844024049767
+SPD	9	Bayern	257: OstallgÃ¤u	257	23044.0	-2.9	187656.0	0.1227991644285288
+SPD	10	Saarland	296: SaarbrÃ¼cken	296	38322.0	-4.7	141916.0	0.2700329772541503
+SPD	10	Saarland	297: Saarlouis	297	42476.0	-3.8	154810.0	0.274375040372069
+SPD	10	Saarland	298: St. Wendel	298	38368.0	-2.8	136200.0	0.2817033773861968
+SPD	10	Saarland	299: Homburg	299	39729.0	-4.2	140799.0	0.2821681972173098
+SPD	11	Berlin	075: Berlin-Mitte	75	26788.0	-8.2	143699.0	0.18641744201421026
+SPD	11	Berlin	076: Berlin-Pankow	76	29185.0	-6.4	179167.0	0.16289272019959034
+SPD	11	Berlin	077: Berlin-Reinickendorf	77	27071.0	-6.3	130076.0	0.2081167932593253
+SPD	11	Berlin	078: Berlin-Spandau â Charlottenburg Nord	78	29733.0	-6.1	125812.0	0.2363288080628239
+SPD	11	Berlin	079: Berlin-Steglitz-Zehlendorf	79	34279.0	-6.4	174170.0	0.19681345811563414
+SPD	11	Berlin	080: Berlin-Charlottenburg-Wilmersdorf	80	30351.0	-7.7	152657.0	0.19881826578538817
+SPD	11	Berlin	081: Berlin-Tempelhof-SchÃ¶neberg	81	36179.0	-7.2	173196.0	0.2088905055544008
+SPD	11	Berlin	082: Berlin-NeukÃ¶lln	82	27520.0	-6.8	135324.0	0.2033637787827732
+SPD	11	Berlin	083: Berlin-Friedrichshain-Kreuzberg â Prenzlauer Berg Ost	83	27391.0	-8.1	164561.0	0.16644891559968644
+SPD	11	Berlin	084: Berlin-Treptow-KÃ¶penick	84	24109.0	-5.8	149101.0	0.16169576327455887
+SPD	11	Berlin	085: Berlin-Marzahn-Hellersdorf	85	19797.0	-4.7	130856.0	0.15128843920034235
+SPD	11	Berlin	086: Berlin-Lichtenberg	86	21850.0	-5.6	140057.0	0.15600791106478076
+SPD	12	Brandenburg	056: Prignitz â Ostprignitz-Ruppin â Havelland I	56	24884.0	-4.2	114917.0	0.2165388932881993
+SPD	12	Brandenburg	057: Uckermark â Barnim I	57	21650.0	-5.5	123364.0	0.17549690347265004
+SPD	12	Brandenburg	058: Oberhavel â Havelland II	58	33856.0	-5.1	174844.0	0.19363546933266226
+SPD	12	Brandenburg	059: MÃ¤rkisch-Oderland â Barnim II	59	25908.0	-6.5	160075.0	0.16184913321880368
+SPD	12	Brandenburg	060: Brandenburg an der Havel â Potsdam-Mittelmark I â Havelland III â Teltow-FlÃ¤ming I	60	26055.0	-5.6	121331.0	0.214743140664793
+SPD	12	Brandenburg	061: Potsdam â Potsdam-Mittelmark II â Teltow-FlÃ¤ming II	61	35773.0	-6.5	184308.0	0.19409358248149836
+SPD	12	Brandenburg	062: Dahme-Spreewald â Teltow-FlÃ¤ming III â Oberspreewald-Lausitz I	62	32565.0	-5.1	177224.0	0.18375050783189636
+SPD	12	Brandenburg	063: Frankfurt (Oder) â Oder-Spree	63	22702.0	-5.9	131910.0	0.1721021908877265
+SPD	12	Brandenburg	064: Cottbus â Spree-NeiÃe	64	19729.0	-6.5	124157.0	0.1589036461899047
+SPD	12	Brandenburg	065: Elbe-Elster â Oberspreewald-Lausitz II	65	18700.0	-4.4	116843.0	0.16004381948426522
+SPD	13	Mecklenburg-Vorpommern	012: Schwerin â Ludwigslust-Parchim I â Nordwestmecklenburg I	12	28947.0	-2.9	151692.0	0.19082746618147298
+SPD	13	Mecklenburg-Vorpommern	013: Ludwigslust-Parchim II â Nordwestmecklenburg II â Landkreis Rostock I	13	25029.0	-2.5	141548.0	0.1768234097267358
+SPD	13	Mecklenburg-Vorpommern	014: Rostock â Landkreis Rostock II	14	25650.0	-3.4	156884.0	0.16349659621121337
+SPD	13	Mecklenburg-Vorpommern	015: Vorpommern-RÃ¼gen â Vorpommern-Greifswald I	15	20405.0	-2.4	161340.0	0.12647204660964423
+SPD	13	Mecklenburg-Vorpommern	016: Mecklenburgische Seenplatte I â Vorpommern-Greifswald II	16	19064.0	-2.4	150830.0	0.12639395345753499
+SPD	13	Mecklenburg-Vorpommern	017: Mecklenburgische Seenplatte II â Landkreis Rostock III	17	20594.0	-2.7	139161.0	0.14798686413578516
+SPD	14	Sachsen	151: Nordsachsen	151	14519.0	-2.9	113142.0	0.12832546711212459
+SPD	14	Sachsen	152: Leipzig I	152	20674.0	-5.6	151539.0	0.13642692640178436
+SPD	14	Sachsen	153: Leipzig II	153	22725.0	-5.8	164092.0	0.13848938400409527
+SPD	14	Sachsen	154: Leipzig-Land	154	18139.0	-3.8	154436.0	0.1174531844906628
+SPD	14	Sachsen	155: MeiÃen	155	13148.0	-3.9	145841.0	0.0901529748150383
+SPD	14	Sachsen	156: Bautzen I	156	14378.0	-3.1	153814.0	0.0934765365961486
+SPD	14	Sachsen	157: GÃ¶rlitz	157	14249.0	-3.3	148427.0	0.09600005389854946
+SPD	14	Sachsen	158: SÃ¤chsische Schweiz-Osterzgebirge	158	12040.0	-3.1	149616.0	0.08047267671906748
+SPD	14	Sachsen	159: Dresden I	159	19246.0	-4.8	173051.0	0.11121576876181011
+SPD	14	Sachsen	160: Dresden II â Bautzen II	160	17977.0	-4.3	175481.0	0.1024441392515429
+SPD	14	Sachsen	161: Mittelsachsen	161	14487.0	-3.6	144364.0	0.1003505028954587
+SPD	14	Sachsen	162: Chemnitz	162	17373.0	-5.6	139613.0	0.12443683611125038
+SPD	14	Sachsen	163: Chemnitzer Umland â Erzgebirgskreis II	163	14524.0	-3.9	132807.0	0.10936170533179727
+SPD	14	Sachsen	164: Erzgebirgskreis I	164	15452.0	-3.2	158840.0	0.09728028204482499
+SPD	14	Sachsen	165: Zwickau	165	16131.0	-4.0	144192.0	0.11187167110519308
+SPD	14	Sachsen	166: Vogtlandkreis	166	16043.0	-4.6	136236.0	0.11775888898675828
+SPD	15	Sachsen-Anhalt	066: Altmark	66	18721.0	-2.0	106662.0	0.17551705387110686
+SPD	15	Sachsen-Anhalt	067: BÃ¶rde â Jerichower Land	67	24053.0	-3.3	143283.0	0.16787057780755568
+SPD	15	Sachsen-Anhalt	068: Harz	68	22915.0	-2.6	136988.0	0.16727742575992058
+SPD	15	Sachsen-Anhalt	069: Magdeburg	69	27513.0	-3.8	152026.0	0.1809756225908726
+SPD	15	Sachsen-Anhalt	070: Dessau â Wittenberg	70	17360.0	-2.8	118117.0	0.14697291668430454
+SPD	15	Sachsen-Anhalt	071: Anhalt	71	20289.0	-2.9	141138.0	0.14375292267142797
+SPD	15	Sachsen-Anhalt	072: Halle	72	21196.0	-3.8	143223.0	0.14799298995273105
+SPD	15	Sachsen-Anhalt	073: Burgenland â Saalekreis	73	17098.0	-3.1	125388.0	0.13636073627460363
+SPD	15	Sachsen-Anhalt	074: Mansfeld	74	19835.0	-2.8	133599.0	0.1484666801398214
+SPD	16	ThÃ¼ringen	189: Eichsfeld â Nordhausen â KyffhÃ¤userkreis	189	21652.0	-1.4	153000.0	0.14151633986928105
+SPD	16	ThÃ¼ringen	190: Eisenach â Wartburgkreis â Unstrut-Hainich-Kreis	190	23206.0	-2.6	157494.0	0.1473452956938042
+SPD	16	ThÃ¼ringen	191: Jena â SÃ¶mmerda â Weimarer Land I	191	19150.0	-4.0	148869.0	0.12863658652909604
+SPD	16	ThÃ¼ringen	192: Gotha â Ilm-Kreis	192	20391.0	-3.1	141589.0	0.14401542492707767
+SPD	16	ThÃ¼ringen	193: Erfurt â Weimar â Weimarer Land II	193	23535.0	-3.5	160228.0	0.14688443967346532
+SPD	16	ThÃ¼ringen	194: Gera â Greiz â Altenburger Land	194	19845.0	-2.9	170360.0	0.11648861235031698
+SPD	16	ThÃ¼ringen	195: Saalfeld-Rudolstadt â Saale-Holzland-Kreis â Saale-Orla-Kreis	195	20427.0	-3.2	165449.0	0.12346402818995582
+SPD	16	ThÃ¼ringen	196: Suhl â Schmalkalden-Meiningen â Hildburghausen â Sonneberg	196	22826.0	-2.8	164622.0	0.13865704462344036
